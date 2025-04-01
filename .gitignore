@@ -1,0 +1,5 @@
+.nextflow/
+.venv/
+*.log*
+work/
+cheese_test/
