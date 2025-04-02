@@ -11,14 +11,15 @@ You will need to provide two input files to run the workflow:
 
 Example of input files can be found in the `inputs` directory. 
 
-To run the workflow, you will need to have Nextflow installed. Launch the workflow with: 
+To run the workflow, you will need to have Nextflow installed. This worklfow can be run using either conda or docker. Launch the workflow with: 
 ```
 nextflow run main.nf \\
 --ref_genomes_list inputs/ref_genomes.tsv \\
 --samples_list inputs/samples.tsv \\
---outdir <RESULTS_OUTPUT_DIRECTORY>
+--outdir <RESULTS_OUTPUT_DIRECTORY> \\
+-profile <conda|docker>
 ```
 
 The main output of the workflow is a TSV containing the results of `sylph profile` for each sammple and the collection of reference genomes, which is filtered to only include hits with >= 98% ANI compared to the reference genome.
 
-
+## Analyzing Containment of Industrial Fermenting Strains in Fermented Food Metagenomic Samples

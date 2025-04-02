@@ -43,4 +43,13 @@ selected_samples %>%
   arrange(desc(n_samples)) %>%
   print(n = Inf)
 
-View(selected_samples)
+selected_samples_df <- selected_samples  %>% 
+  select(run_accession, fermented_food, substrate_category, general_category, source)
+
+selected_samples_input_table <- selected_samples_df %>% 
+select(fermented_food, run_accession)  %>% 
+mutate(sample_name = fermented_food)  %>% 
+mutate(accession = run_accession)  %>% 
+select(sample_name, accession)
+
+write_tsv(selected_samples_input_table, "inputs/2025-04-03-selected-carlino-samples-input-table.tsv")
