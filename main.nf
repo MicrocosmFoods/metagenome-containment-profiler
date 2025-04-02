@@ -169,7 +169,7 @@ process sylph_profile {
 process combine_profile_results {
     tag "combine_profile_results"
     conda "envs/pandas.yml"
-    container "quay.io/biocontainers/0.23.4--py36hf8a1672_0"
+    container "public.ecr.aws/biocontainers/pandas:1.5.1_cv1"
     publishDir "${params.outdir}/combined_profiles", mode: 'copy'
     
     input:
