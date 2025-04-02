@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com//master/nextflow_schema.json",
+  "title": " pipeline parameters",
+  "description": "",
+  "type": "object",
+  "$defs": {
+    "input_output_options": {
+      "title": "Input/output options",
+      "type": "object",
+      "fa_icon": "fas fa-terminal",
+      "description": "Define where the pipeline should find input data and save output data.",
+      "required": ["outdir", "ref_genomes_list", "samples_list"],
+      "properties": {
+        "ref_genomes_list": {
+          "type": "string",
+          "description": "Path to TSV list of reference genomes to download, first column is the name of the genome and second column is the accession."
+        },
+        "samples_list": {
+          "type": "string",
+          "description": "Path to TSV list of sample accessions to download, first column is the name of the sample, second column is the SRA accession."
+        },
+        "outdir": {
+          "type": "string",
+          "format": "directory-path",
+          "description": "The output directory where the results will be saved. You have to use absolute paths to storage on Cloud infrastructure.",
+          "fa_icon": "fas fa-folder-open"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "$ref": "#/$defs/input_output_options"
+    }
+  ],
+  "properties": {
+    "new_param_1": {
+      "type": "string"
+    }
+  }
+}

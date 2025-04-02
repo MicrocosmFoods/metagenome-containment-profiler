@@ -59,6 +59,7 @@ process download_ref_genomes {
     conda "envs/ncbi_env.yml"
     container "quay.io/biocontainers/ncbi-genome-download:0.3.3--pyh7cba7a3_0"
     publishDir "${params.outdir}/reference_genomes", mode: 'copy'
+    memory "10G"
     
     input:
     tuple val(genome_name), val(accession)
@@ -94,6 +95,8 @@ process download_fastq_samples {
     tag "${sample_name}"
     conda "envs/sra_env.yml"
     container "public.ecr.aws/biocontainers/sra-tools:3.1.1--h4304569_2"
+    memory "20G"
+
     input:
     tuple val(sample_name), val(accession)
     
@@ -111,6 +114,7 @@ process qc_fastq_samples {
     tag "${accession}"
     conda "envs/fastp.yml"
     container "quay.io/biocontainers/fastp:0.24.0--heae3180_1"
+    memory "20G"
     
     input:
     tuple val(accession), path(reads)
@@ -134,6 +138,7 @@ process sketch_references {
     conda "envs/sylph.yml"
     container "quay.io/biocontainers/sylph:0.8.1--ha6fb395_0"
     publishDir "${params.outdir}/reference_sketches", mode: 'copy'
+    memory "10G"
     
     input:
     tuple val(accession_name), path(accession)
@@ -152,6 +157,7 @@ process sylph_profile {
     conda "envs/sylph.yml"
     container "quay.io/biocontainers/sylph:0.8.1--ha6fb395_0"
     publishDir "${params.outdir}/profiles", mode: 'copy'
+    memory "10G"
     
     input:
     path(reference_sketches)
@@ -171,6 +177,7 @@ process combine_profile_results {
     conda "envs/pandas.yml"
     container "public.ecr.aws/biocontainers/pandas:1.5.1_cv1"
     publishDir "${params.outdir}/combined_profiles", mode: 'copy'
+    memory "10G"
     
     input:
     path(tsv_files)
