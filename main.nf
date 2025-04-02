@@ -92,7 +92,7 @@ process download_ref_genomes {
 
 process download_fastq_samples {
     tag "${sample_name}"
-    // conda "envs/sra_env.yml"
+    conda "envs/sra_env.yml"
     container "quay.io/biocontainers/sra-tools:3.2.0--h4304569_0"
     input:
     tuple val(sample_name), val(accession)
