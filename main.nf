@@ -15,31 +15,53 @@ log.info """\
 PROFILE METAGENOMES FOR CONTAINMENT OF REFERENCE GENOMES.
 =================================================================
 ref_genomes_list                : $params.ref_genomes_list
-samples_list                    : $params.samples_list
+accessions_list                 : $params.accessions_list
+fastq_dir                       : $params.fastq_dir
 outdir                          : $params.outdir
 threads                         : $params.threads
 """
 
-// Define input channels from TSV files
-// Each TSV has two columns: name and accession
+// input parameter validation
+if (!params.accessions_list && !params.fastq_dir) {
+    error "Either --accessions_list or --fastq_dir must be specified!"
+}
+if (params.accessions_list && params.fastq_dir) {
+    error "Please specify either --accessions_list or --fastq_dir, not both!"
+}
+
+// input channels
+// input genomes list
 input_genomes = Channel
     .fromPath(params.ref_genomes_list)
     .splitCsv(header: true, sep: '\t')
     .map { row -> tuple(row.genome_name, row.accession)}  // Creates tuple of [genome_name, accession]
 
-fastq_samples = Channel
-    .fromPath(params.samples_list)
-    .splitCsv(header: true, sep: '\t')
-    .map { row -> tuple(row.sample_name, row.accession)}  // Creates tuple of [sample_name, accession]
+// fastq samples either from accession list to download or from fastq directory of pre-downloaded samples
+if (params.accessions_list) {
+    fastq_samples = Channel
+        .fromPath(params.accessions_list)
+        .splitCsv(header: true, sep: '\t')
+        .map { row -> tuple(row.sample_name, row.accession)}
+} else {
+    fastq_samples = Channel
+        .fromFilePairs("${params.fastq_dir}/*_{1,2}.fastq{,.gz}", checkIfExists: true)
+        .map { sample_name, files -> tuple(sample_name, files) }
+}
 
 // workflow steps
 workflow {
-    // Download reference genomes and samples
-    ref_genomes_ch = download_ref_genomes(input_genomes)
-    fastq_samples_ch = download_fastq_samples(fastq_samples)
+    // parameter check for fastq samples
+    if (params.accessions_list){
+        // download the samples and QC
+        downloaded_samples_ch = download_fastq_samples(fastq_samples)
+        qc_samples_ch = qc_fastq_samples(downloaded_samples_ch)
+    } else {
+        // QC the fastq samples
+        qc_samples_ch = qc_fastq_samples(fastq_samples)
+    }
     
-    // QC the fastq samples
-    qc_samples_ch = qc_fastq_samples(fastq_samples_ch)
+    // Download reference genomes
+    ref_genomes_ch = download_ref_genomes(input_genomes)
     
     // Create sylph sketches
     ref_sketches_ch = sketch_references(ref_genomes_ch)
@@ -111,24 +133,24 @@ process download_fastq_samples {
 }
 
 process qc_fastq_samples {
-    tag "${accession}"
+    tag "${sample_name}"
     conda "envs/fastp.yml"
     container "quay.io/biocontainers/fastp:0.24.0--heae3180_1"
     memory "20G"
     
     input:
-    tuple val(accession), path(reads)
+    tuple val(sample_name), path(reads)
     
     output: 
-    tuple val(accession), path("${accession}_trimmed_1.fastq.gz"), path("${accession}_trimmed_2.fastq.gz")
+    tuple val(sample_name), path("${sample_name}_trimmed_1.fastq.gz"), path("${sample_name}_trimmed_2.fastq.gz")
     
     script:
     """
     fastp -i ${reads[0]} -I ${reads[1]} \
-          -o ${accession}_trimmed_1.fastq.gz \
-          -O ${accession}_trimmed_2.fastq.gz \
-          --json ${accession}_fastp.json \
-          --html ${accession}_fastp.html \
+          -o ${sample_name}_trimmed_1.fastq.gz \
+          -O ${sample_name}_trimmed_2.fastq.gz \
+          --json ${sample_name}_fastp.json \
+          --html ${sample_name}_fastp.html \
           --thread ${params.threads}
     """
 }
