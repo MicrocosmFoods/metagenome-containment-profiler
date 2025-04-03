@@ -10,11 +10,15 @@
       "type": "object",
       "fa_icon": "fas fa-terminal",
       "description": "Define where the pipeline should find input data and save output data.",
-      "required": ["ref_genomes_list", "outdir"],
+      "required": ["outdir"],
       "properties": {
         "ref_genomes_list": {
           "type": "string",
           "description": "Path to TSV list of reference genomes to download, first column is the name of the genome and second column is the accession."
+        },
+        "ref_genomes_dir": {
+          "type": "string",
+          "description": "Path to directory of pre-downloaded reference genomes in FASTA format and ending in .fna"
         },
         "accessions_list": {
           "type": "string",
