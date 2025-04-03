@@ -15,6 +15,7 @@ log.info """\
 PROFILE METAGENOMES FOR CONTAINMENT OF REFERENCE GENOMES.
 =================================================================
 ref_genomes_list                : $params.ref_genomes_list
+ref_genomes_dir                 : $params.ref_genomes_dir
 accessions_list                 : $params.accessions_list
 fastq_dir                       : $params.fastq_dir
 outdir                          : $params.outdir
@@ -29,12 +30,26 @@ if (params.accessions_list && params.fastq_dir) {
     error "Please specify either --accessions_list or --fastq_dir, not both!"
 }
 
+if (!params.ref_genomes_list && !params.ref_genomes_dir) {
+    error "Either --ref_genomes_list or --ref_genomes_dir must be specified!"
+}
+if (params.ref_genomes_list && params.ref_genomes_dir) {
+    error "Please specify either --ref_genomes_list or --ref_genomes_dir, not both!"
+}
+
 // input channels
 // input genomes list
-input_genomes = Channel
-    .fromPath(params.ref_genomes_list)
-    .splitCsv(header: true, sep: '\t')
-    .map { row -> tuple(row.genome_name, row.accession)}  // Creates tuple of [genome_name, accession]
+if (params.ref_genomes_list) {
+    input_genomes = Channel
+        .fromPath(params.ref_genomes_list)
+        .splitCsv(header: true, sep: '\t')
+        .map { row -> tuple(row.genome_name, row.accession)}
+} else {
+    input_genomes = Channel
+        .fromPath("${params.ref_genomes_dir}/*.fna", checkIfExists: true)
+        .map { accession, files -> tuple(accession, files) }
+}
+
 
 // fastq samples either from accession list to download or from fastq directory of pre-downloaded samples
 if (params.accessions_list) {
@@ -60,9 +75,13 @@ workflow {
         qc_samples_ch = qc_fastq_samples(fastq_samples)
     }
     
-    // Download reference genomes
-    ref_genomes_ch = download_ref_genomes(input_genomes)
-    
+    if (params.ref_genomes_list) {
+        // Download reference genomes
+        ref_genomes_ch = download_ref_genomes(input_genomes)
+    } else {
+        ref_genomes_ch = input_genomes
+    }
+        
     // Create sylph sketches
     ref_sketches_ch = sketch_references(ref_genomes_ch)
     
@@ -163,14 +182,14 @@ process sketch_references {
     memory "10G"
     
     input:
-    tuple val(accession_name), path(accession)
+    tuple val(accession), path(accession)
     
     output:
-    path("${accession_name}.syldb")
+    path("${accession}.syldb")
     
     script:
     """
-    sylph sketch ${accession} -o ${accession_name}
+    sylph sketch ${accession} -o ${accession}
     """
 }
 
