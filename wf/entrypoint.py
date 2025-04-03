@@ -55,7 +55,7 @@ def initialize() -> str:
 
 
 @nextflow_runtime_task(cpu=10, memory=50, storage_gib=500)
-def nextflow_runtime(pvc_name: str, ref_genomes_list: LatchFile, samples_list: LatchFile, outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
+def nextflow_runtime(pvc_name: str, ref_genomes_list: typing.Optional[str], ref_genomes_dir: typing.Optional[str], accessions_list: typing.Optional[str], fastq_dir: typing.Optional[str], outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
     shared_dir = Path("/nf-workdir")
 
     exec_name = _get_execution_name()
@@ -111,7 +111,9 @@ def nextflow_runtime(pvc_name: str, ref_genomes_list: LatchFile, samples_list: L
         "latch.config",
         "-resume",
                 *get_flag('ref_genomes_list', ref_genomes_list),
-                *get_flag('samples_list', samples_list),
+                *get_flag('ref_genomes_dir', ref_genomes_dir),
+                *get_flag('accessions_list', accessions_list),
+                *get_flag('fastq_dir', fastq_dir),
                 *get_flag('outdir', outdir)
     ]
 
@@ -177,7 +179,7 @@ def nextflow_runtime(pvc_name: str, ref_genomes_list: LatchFile, samples_list: L
 
 
 @workflow(metadata._nextflow_metadata)
-def nf_metagenome_containment_profiler(ref_genomes_list: LatchFile, samples_list: LatchFile, outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
+def nf_metagenome_containment_profiler(ref_genomes_list: typing.Optional[str], ref_genomes_dir: typing.Optional[str], accessions_list: typing.Optional[str], fastq_dir: typing.Optional[str], outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
     """
     metagenome-containment-profiler
 
@@ -185,5 +187,5 @@ def nf_metagenome_containment_profiler(ref_genomes_list: LatchFile, samples_list
     """
 
     pvc_name: str = initialize()
-    nextflow_runtime(pvc_name=pvc_name, ref_genomes_list=ref_genomes_list, samples_list=samples_list, outdir=outdir)
+    nextflow_runtime(pvc_name=pvc_name, ref_genomes_list=ref_genomes_list, ref_genomes_dir=ref_genomes_dir, accessions_list=accessions_list, fastq_dir=fastq_dir, outdir=outdir)
 
