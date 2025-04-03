@@ -159,6 +159,7 @@ process qc_fastq_samples {
     conda "envs/fastp.yml"
     container "quay.io/biocontainers/fastp:0.24.0--heae3180_1"
     memory "20G"
+    errorStrategy 'ignore'
     
     input:
     tuple val(sample_name), path(reads)
