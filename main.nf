@@ -92,7 +92,7 @@ process download_ref_genomes {
 }
 
 process download_fastq_samples {
-    tag "${sample_name}"
+    tag "${sample_name}_${accession}"
     conda "envs/sra_env.yml"
     container "public.ecr.aws/biocontainers/sra-tools:3.1.1--h4304569_2"
     memory "20G"
