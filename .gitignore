@@ -1,5 +1,10 @@
+*.Rproj
+.DS_Store
+.RData
+.Rhistory
 .nextflow/
 .venv/
 *.log*
 work/
 cheese_test/
+.Rproj.user

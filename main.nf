@@ -46,7 +46,7 @@ if (params.ref_genomes_list) {
         .map { row -> tuple(row.genome_name, row.accession)}
 } else {
     input_genomes = Channel
-        .fromPath("${params.ref_genomes_dir}/*.fna")
+        .fromPath("${params.ref_genomes_dir}/*.{fna,fa,fasta}")  // accepts multiple extensions
         .map { file -> 
             def accession = file.baseName  // gets filename without extension
             tuple(accession, file)
