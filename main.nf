@@ -43,7 +43,15 @@ if (params.ref_genomes_list) {
     input_genomes = Channel
         .fromPath(params.ref_genomes_list)
         .splitCsv(header: true, sep: '\t')
-        .map { row -> tuple(row.genome_name, row.accession)}
+        .map { row ->
+            if (!row.containsKey('kingdom')) {
+                error "Input file must contain 'kingdom' column"
+            }
+            if (!['bacteria', 'fungi'].contains(row.organism_type.toLowerCase())) {
+                error "kingdom must be either 'bacteria' or 'fungi'"
+            }
+            return row
+        }
 } else {
     input_genomes = Channel
         .fromPath("${params.ref_genomes_dir}/*.{fna,fa,fasta}")  // accepts multiple extensions
@@ -104,9 +112,10 @@ process download_ref_genomes {
     container "quay.io/biocontainers/ncbi-genome-download:0.3.3--pyh7cba7a3_0"
     publishDir "${params.outdir}/reference_genomes", mode: 'copy'
     memory "10G"
+    errorStrategy 'ignore'
     
     input:
-    tuple val(genome_name), val(accession)
+    tuple val(genome_name), val(accession), val(kingdom)
     
     output:
     tuple val(accession), path("*.fna")
@@ -122,10 +131,10 @@ process download_ref_genomes {
                          --format fasta \
                          --output-folder temp \
                          --parallel ${params.threads} \
-                         bacteria
+                         ${kingdom}
     
     # Find the downloaded file (handles variable naming in the downloaded file)
-    GENOME_FILE=\$(find temp/${section}/bacteria/${accession}/ -name "*.fna.gz")
+    GENOME_FILE=\$(find temp/${section}/${kingdom}/${accession}/ -name "*.fna.gz")
     
     # Uncompress and rename to a simpler name
     gunzip -c \$GENOME_FILE > ${accession}.fna
