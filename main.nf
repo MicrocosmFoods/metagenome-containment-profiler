@@ -47,7 +47,7 @@ if (params.ref_genomes_list) {
             if (!row.containsKey('kingdom')) {
                 error "Input file must contain 'kingdom' column"
             }
-            if (!['bacteria', 'fungi'].contains(row.organism_type.toLowerCase())) {
+            if (!['bacteria', 'fungi'].contains(row.kingdom.toLowerCase())) {
                 error "kingdom must be either 'bacteria' or 'fungi'"
             }
             return row
