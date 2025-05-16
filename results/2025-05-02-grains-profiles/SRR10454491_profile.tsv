@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454491_trimmed_1.fastq.gz	GCF_000014465.1.fna	100.0000	100.0000	99.54	105.000	NA-NA	HIGH	NA-NA	105	106.881	8674/10002	99.54	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence

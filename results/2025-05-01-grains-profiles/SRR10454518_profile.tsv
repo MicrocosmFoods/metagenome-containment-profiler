@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454518_trimmed_1.fastq.gz	LandisEA_2021__SRS5653399__bin.4.fa	100.0000	100.0000	99.49	67.000	NA-NA	HIGH	NA-NA	67	68.447	4580/5362	99.49	0	SRS5653399_k141_290

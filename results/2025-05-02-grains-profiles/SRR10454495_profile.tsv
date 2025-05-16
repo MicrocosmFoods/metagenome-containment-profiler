@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454495_trimmed_1.fastq.gz	GCA_000203855.3.fna	60.2564	68.4485	99.39	47.000	NA-NA	HIGH	NA-NA	47	44.766	11882/14358	99.39	8	AL935263.2 Lactobacillus plantarum WCFS1 complete genome
+SRR10454495_trimmed_1.fastq.gz	GCF_000014465.1.fna	39.7436	31.5515	99.78	31.000	NA-NA	HIGH	NA-NA	31	31.860	9332/10002	99.78	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence

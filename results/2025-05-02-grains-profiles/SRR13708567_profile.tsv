@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13708567_trimmed_1.fastq.gz	GCF_000006865.1.fna	59.1874	57.6024	98.61	0.938	98.47-98.74	0.938	0.88-0.98	1	1.591	3854/9757	97.05	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_000010145.1.fna	18.5257	15.9954	99.18	0.293	98.79-99.50	0.293	0.26-0.33	1	1.179	1652/8356	94.91	7	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_000174395.2.fna	9.2163	11.5742	95.94	0.146	95.09-96.88	0.146	0.11-0.20	1	1.142	508/12297	90.23	2	NC_017960.1 Enterococcus faecium DO, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_000056065.1.fna	6.2096	4.7645	95.93	0.098	94.08-97.90	0.098	0.05-0.17	1	1.047	192/7436	88.87	4	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_000209795.2.fna	3.4311	5.8032	97.26	0.054	95.61-99.64	0.054	0.03-0.09	1	1.091	386/17194	88.47	1	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_032337035.1.fna	3.4299	4.2602	99.82	0.054	98.52-101.46	0.054	0.03-0.08	1	1.359	672/12981	90.89	0	NZ_JAVYAI010000001.1 Lacticaseibacillus paracasei subsp. paracasei strain TISTR 2593 1, whole genome shotgun sequence

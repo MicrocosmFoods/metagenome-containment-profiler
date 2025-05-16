@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454492_trimmed_1.fastq.gz	GCF_000014525.1.fna	82.6529	85.6191	99.51	86.000	NA-NA	HIGH	NA-NA	86	82.531	10222/11907	99.51	2	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR10454492_trimmed_1.fastq.gz	GCF_000014465.1.fna	17.2994	14.3409	99.87	18.000	NA-NA	HIGH	NA-NA	18	17.123	9597/10002	99.87	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR10454492_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.0477	0.0400	98.43	0.050	96.29-100.61	0.050	0.02-0.09	1	1.017	291/9757	89.29	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence

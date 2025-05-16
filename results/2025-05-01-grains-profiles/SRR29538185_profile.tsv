@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538185_trimmed_1.fastq.gz	MAG_15.fa	100.0000	100.0000	98.41	191.000	NA-NA	HIGH	NA-NA	191	189.140	6920/11359	98.41	0	MAG_15_0

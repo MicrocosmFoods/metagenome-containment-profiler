@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454498_trimmed_1.fastq.gz	LandisEA_2021__SRS5653152__bin.2.fa	61.4611	61.1765	99.41	86.000	NA-NA	HIGH	NA-NA	86	86.663	9271/11144	99.41	0	SRS5653152_k141_1211
+SRR10454498_trimmed_1.fastq.gz	MotaGutierrezJ_2021__SRR11602150__bin.9.fa	27.1572	24.5886	98.12	38.000	NA-NA	HIGH	NA-NA	38	37.088	5579/10040	98.12	0	NODE_36_length_112572_cov_15.0000_ID_47355
+SRR10454498_trimmed_1.fastq.gz	GCF_003967595.1_ASM396759v1_genomic.fa	9.8184	9.0573	99.94	13.739	NA-NA	HIGH	NA-NA	13	13.739	9863/10048	99.94	0	GCF_003967595.1_ASM396759v1_genomic_NZ_BIFW01000001.1 Companilactobacillus musae strain NBRC 112868 contig1, whole genome shotgun sequence
+SRR10454498_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	1.0100	4.7391	99.60	1.413	99.55-99.63	1.413	1.38-1.45	2	1.912	32937/49112	98.72	0	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR10454498_trimmed_1.fastq.gz	FalardeauJ_2023__SRR20811279__bin.3.fa	0.2867	0.3491	98.09	0.401	97.86-98.38	0.401	0.36-0.43	1	1.220	2481/13589	94.66	25	NODE_1_length_274429_cov_22.9992_ID_7781
+SRR10454498_trimmed_1.fastq.gz	DeFilippisF_xxxx__DS_64__bin.3.fa	0.2666	0.0893	98.08	0.373	97.49-98.64	0.373	0.31-0.44	1	1.211	639/3668	94.52	75	DS_64_k141_2605

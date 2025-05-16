@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538191_trimmed_1.fastq.gz	GCF_000010825.1.fna	100.0000	100.0000	98.70	186.000	NA-NA	HIGH	NA-NA	186	185.856	8713/13089	98.70	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence

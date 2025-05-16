@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454516_trimmed_1.fastq.gz	MotaGutierrezJ_2021__SRR11602150__bin.9.fa	53.8972	46.6114	97.94	39.000	NA-NA	HIGH	NA-NA	39	39.110	5270/10040	97.94	19	NODE_36_length_112572_cov_15.0000_ID_47355
+SRR10454516_trimmed_1.fastq.gz	FalardeauJ_2023__SRR20811279__bin.3.fa	33.1675	38.5704	98.94	24.000	NA-NA	HIGH	NA-NA	24	23.766	9760/13589	98.94	0	NODE_1_length_274429_cov_22.9992_ID_7781
+SRR10454516_trimmed_1.fastq.gz	SRR10454516C127_okinawensis_assembly.fa	11.3321	11.4031	100.00	8.200	NA-NA	HIGH	NA-NA	8	8.200	11619/11628	100.00	0	SRR10454516C0
+SRR10454516_trimmed_1.fastq.gz	G_35_1B_malorum_assembly.fa	1.0073	1.1713	99.86	0.729	99.74-99.99	0.729	0.69-0.76	1	1.444	6628/13343	97.77	25	NODE_1_length_1267414_cov_104.138453
+SRR10454516_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	0.4750	2.1288	99.40	0.344	99.27-99.52	0.344	0.33-0.36	1	1.217	12010/49112	95.56	0	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR10454516_trimmed_1.fastq.gz	GCF_001434985.1_ASM143498v1_genomic.fa	0.1208	0.1151	95.06	0.087	93.14-97.23	0.087	0.04-0.16	1	0.911	224/11067	88.18	15	GCF_001434985.1_ASM143498v1_genomic_NZ_AZES01000005.1 Companilactobacillus paralimentarius DSM 13238 = JCM 10415 strain DSM 13238 NODE_10, whole genome shotgun sequence

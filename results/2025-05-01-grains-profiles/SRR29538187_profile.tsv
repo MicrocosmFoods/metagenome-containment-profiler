@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538187_trimmed_1.fastq.gz	GCF_004014775.2_ASM401477v2_genomic.fa	50.5108	75.0316	96.49	96.000	NA-NA	HIGH	NA-NA	96	100.617	4347/13139	96.49	2533	GCF_004014775.2_ASM401477v2_genomic_NZ_CP042808.1 Acetobacter oryzoeni strain B6 chromosome, complete genome
+SRR29538187_trimmed_1.fastq.gz	LeechJ_xxxx__AF51__bin.9.fa	49.4585	24.9342	98.81	94.000	NA-NA	HIGH	NA-NA	94	94.254	3056/4432	98.81	0	AF51_k141_148
+SRR29538187_trimmed_1.fastq.gz	LandisEA_2021__SRS5653137__bin.2.fa	0.0307	0.0342	95.50	0.058	93.08-96.82	0.058	0.04-0.12	1	1.028	141/10364	87.06	0	SRS5653137_k141_683

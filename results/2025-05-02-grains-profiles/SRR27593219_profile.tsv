@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593219_trimmed_1.fastq.gz	GCF_000010145.1.fna	80.2095	81.9248	99.46	323.000	NA-NA	HIGH	NA-NA	323	298.524	7062/8356	99.46	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593219_trimmed_1.fastq.gz	GCF_000056065.1.fna	19.6178	17.8062	98.14	79.000	NA-NA	HIGH	NA-NA	79	76.758	4159/7436	98.14	24	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593219_trimmed_1.fastq.gz	GCF_032337035.1.fna	0.0751	0.1103	98.78	0.302	98.43-99.07	0.302	0.27-0.33	1	1.143	2362/12981	94.65	5	NZ_JAVYAI010000001.1 Lacticaseibacillus paracasei subsp. paracasei strain TISTR 2593 1, whole genome shotgun sequence
+SRR27593219_trimmed_1.fastq.gz	GCF_000010825.1.fna	0.0662	0.1076	95.63	0.267	95.01-96.30	0.267	0.21-0.32	1	1.705	926/13089	91.81	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593219_trimmed_1.fastq.gz	GCA_000203855.3.fna	0.0313	0.0511	96.61	0.126	95.72-97.30	0.126	0.10-0.17	1	1.104	596/14358	90.25	4	AL935263.2 Lactobacillus plantarum WCFS1 complete genome

@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454495_trimmed_1.fastq.gz	FalardeauJ_2023__SRR20811279__bin.3.fa	57.7307	65.0859	99.40	47.000	NA-NA	HIGH	NA-NA	47	44.502	11293/13589	99.40	0	NODE_1_length_274429_cov_22.9992_ID_7781
+SRR10454495_trimmed_1.fastq.gz	MotaGutierrezJ_2021__SRR11602150__bin.9.fa	38.0777	31.9253	97.94	31.000	NA-NA	HIGH	NA-NA	31	31.601	5272/10040	97.94	75	NODE_36_length_112572_cov_15.0000_ID_47355
+SRR10454495_trimmed_1.fastq.gz	LeechJ_2020__ERS3967740__bin.10.fa	3.9274	2.7517	98.98	3.197	NA-NA	HIGH	NA-NA	3	3.197	5989/8220	98.98	1	ERS3967740_k141_2100
+SRR10454495_trimmed_1.fastq.gz	LandisEA_2021__SRS5653333__bin.1.fa	0.2643	0.2372	98.42	0.215	97.94-98.83	0.215	0.19-0.25	1	1.193	1262/10617	93.36	3	SRS5653333_k141_170

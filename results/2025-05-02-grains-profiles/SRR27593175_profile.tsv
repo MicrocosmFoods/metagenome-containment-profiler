@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593175_trimmed_1.fastq.gz	GCF_000056065.1.fna	61.9521	59.1456	98.51	59.000	NA-NA	HIGH	NA-NA	59	54.908	4669/7436	98.51	15	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593175_trimmed_1.fastq.gz	GCF_000010145.1.fna	31.5011	33.8423	98.78	30.000	NA-NA	HIGH	NA-NA	30	28.712	5715/8356	98.78	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593175_trimmed_1.fastq.gz	GCF_000015385.1.fna	6.4586	6.8800	98.02	6.151	NA-NA	HIGH	NA-NA	6	6.151	4169/7756	98.02	53	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593175_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0882	0.1321	97.04	0.084	95.74-98.49	0.084	0.05-0.12	1	1.081	395/11907	89.59	20	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence

@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593202_trimmed_1.fastq.gz	GCF_000006865.1.fna	87.7481	87.6183	99.51	32.000	NA-NA	HIGH	NA-NA	32	32.203	8376/9757	99.51	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593202_trimmed_1.fastq.gz	GCF_000010145.1.fna	4.9223	4.3605	99.16	1.795	99.09-99.24	1.795	1.69-1.89	2	2.647	5362/8356	98.58	2	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593202_trimmed_1.fastq.gz	GCA_000203855.3.fna	3.2755	4.6298	99.51	1.195	99.44-99.58	1.195	1.15-1.24	2	1.808	8593/14358	98.36	0	AL935263.2 Lactobacillus plantarum WCFS1 complete genome
+SRR27593202_trimmed_1.fastq.gz	GCF_000014485.1.fna	1.9271	1.5164	99.05	0.703	98.84-99.24	0.703	0.65-0.77	1	1.466	2862/7600	96.90	20	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593202_trimmed_1.fastq.gz	GCF_000026405.1.fna	1.0202	0.8168	98.86	0.372	98.57-99.15	0.372	0.34-0.41	1	1.234	1739/7943	95.22	15	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR27593202_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.7294	0.5742	98.65	0.266	98.12-99.02	0.266	0.23-0.31	1	1.159	1138/7436	94.12	15	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593202_trimmed_1.fastq.gz	GCF_000174395.2.fna	0.2598	0.3347	96.77	0.095	95.46-98.02	0.095	0.06-0.14	1	1.062	404/12297	89.57	2	NC_017960.1 Enterococcus faecium DO, complete sequence
+SRR27593202_trimmed_1.fastq.gz	GCF_000026505.1.fna	0.1175	0.1493	96.02	0.043	93.38-96.35	0.043	0.04-0.10	1	1.126	151/12422	86.74	3	NC_013198.1 Lacticaseibacillus rhamnosus GG, complete sequence

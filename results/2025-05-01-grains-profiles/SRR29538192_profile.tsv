@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538192_trimmed_1.fastq.gz	G_35_1B_malorum_assembly.fa	100.0000	100.0000	97.84	105.000	NA-NA	HIGH	NA-NA	105	100.603	6777/13343	97.84	0	NODE_1_length_1267414_cov_104.138453

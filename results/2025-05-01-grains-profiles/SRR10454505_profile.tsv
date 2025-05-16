@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454505_trimmed_1.fastq.gz	FalardeauJ_2023__SRR20811279__bin.3.fa	32.4692	36.3688	99.06	54.000	NA-NA	HIGH	NA-NA	54	54.473	10132/13589	99.06	1	NODE_1_length_274429_cov_22.9992_ID_7781
+SRR10454505_trimmed_1.fastq.gz	MAG_15.fa	27.0577	25.6406	98.22	45.000	NA-NA	HIGH	NA-NA	45	45.830	6517/11359	98.22	404	MAG_15_0
+SRR10454505_trimmed_1.fastq.gz	SRR10454516C127_okinawensis_assembly.fa	22.8487	22.1455	98.44	38.000	NA-NA	HIGH	NA-NA	38	40.057	7138/11628	98.44	33	SRR10454516C0
+SRR10454505_trimmed_1.fastq.gz	LandisEA_2021__SRS5653152__bin.2.fa	11.4243	10.4618	99.96	19.000	NA-NA	HIGH	NA-NA	19	19.244	11013/11144	99.96	0	SRS5653152_k141_1211
+SRR10454505_trimmed_1.fastq.gz	MotaGutierrezJ_2021__SRR11602150__bin.9.fa	5.2875	4.4045	98.01	8.794	NA-NA	HIGH	NA-NA	9	8.794	5388/10040	98.01	19	NODE_36_length_112572_cov_15.0000_ID_47355
+SRR10454505_trimmed_1.fastq.gz	G_24_1A_oryzifermentans_assembly.fa	0.7875	0.8393	98.69	1.310	98.62-98.78	1.310	1.25-1.36	2	1.859	6155/12550	97.73	0	NODE_1_length_900296_cov_116.234665
+SRR10454505_trimmed_1.fastq.gz	G_514_1B_orientalis_assembly.fa	0.1251	0.1396	97.45	0.208	96.87-97.84	0.208	0.18-0.25	1	1.086	1186/13382	92.48	64	NODE_1_length_900359_cov_75.777345

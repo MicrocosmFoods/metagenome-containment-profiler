@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR5890763_trimmed_1.fastq.gz	GCF_000146045.2.fna	80.1461	95.4484	99.87	18.000	NA-NA	HIGH	NA-NA	18	18.536	47461/49417	99.87	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR5890763_trimmed_1.fastq.gz	GCF_000014465.1.fna	19.8539	4.5516	98.19	4.459	NA-NA	HIGH	NA-NA	4	4.459	5669/10002	98.19	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence

@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR9701328_trimmed_1.fastq.gz	GCF_000146045.2.fna	56.2990	89.1197	99.74	5.361	NA-NA	HIGH	NA-NA	5	5.361	45518/49417	99.74	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR9701328_trimmed_1.fastq.gz	GCF_000014505.1.fna	40.0364	9.5525	99.26	3.812	NA-NA	HIGH	NA-NA	3	3.812	6240/7865	99.26	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR9701328_trimmed_1.fastq.gz	GCF_018351295.1.fna	1.5829	0.6912	96.38	0.151	95.67-97.25	0.151	0.11-0.19	1	1.469	655/14497	90.49	31	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR9701328_trimmed_1.fastq.gz	GCF_000014465.1.fna	1.4096	0.4295	95.96	0.134	94.90-97.30	0.134	0.08-0.19	1	1.441	354/10002	89.78	8	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR9701328_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.6721	0.2070	97.30	0.064	95.43-99.44	0.064	0.03-0.11	1	1.035	260/9757	88.96	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence

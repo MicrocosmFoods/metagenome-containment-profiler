@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593209_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	68.4568	92.5323	99.63	39.000	NA-NA	HIGH	NA-NA	39	40.804	43774/49112	99.63	0	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR27593209_trimmed_1.fastq.gz	MASTER_WP4_UNINA_2__P-22__bin.8.fa	16.8437	3.4682	99.64	9.596	NA-NA	HIGH	NA-NA	9	9.596	6959/7771	99.64	0	P-22_k141_82
+SRR27593209_trimmed_1.fastq.gz	FontanaF_2023__SRR20746979__bin.3.fa	8.1417	1.5588	98.29	4.638	NA-NA	HIGH	NA-NA	4	4.638	4192/7154	98.29	0	NODE_10_length_61143_cov_28.9945_ID_1888
+SRR27593209_trimmed_1.fastq.gz	LeechJ_xxxx__AF51__bin.9.fa	1.7325	0.2090	99.18	0.987	98.98-99.36	0.987	0.89-1.06	1	1.637	2154/4432	97.70	0	AF51_k141_148
+SRR27593209_trimmed_1.fastq.gz	GCF_004014775.2_ASM401477v2_genomic.fa	1.3294	0.4724	96.04	0.757	95.82-96.23	0.757	0.68-0.81	1	1.501	1998/13139	94.11	2506	GCF_004014775.2_ASM401477v2_genomic_NZ_CP042808.1 Acetobacter oryzoeni strain B6 chromosome, complete genome
+SRR27593209_trimmed_1.fastq.gz	MortensenS_xxxx__WK032-1-L-48h-03B6_S34__bin.2.fa	1.3217	0.3909	98.45	0.753	98.29-98.61	0.753	0.70-0.81	1	1.475	3704/11346	96.45	879	WK032-1-L-48h-03B6_S34_k141_400
+SRR27593209_trimmed_1.fastq.gz	GCF_009428965.1_ASM942896v1_genomic.fa	1.0078	0.1948	99.25	0.574	99.03-99.46	0.574	0.53-0.62	1	1.386	2464/7077	96.65	49	GCF_009428965.1_ASM942896v1_genomic_NZ_CP045530.1 Limosilactobacillus pontis strain LP475 chromosome, complete genome
+SRR27593209_trimmed_1.fastq.gz	EBC_024.4.fa	1.0036	1.1479	98.16	0.572	98.04-98.26	0.572	0.55-0.60	1	1.312	10642/43386	95.57	32	EBC_024.4_EBC_024_scaffold_13
+SRR27593209_trimmed_1.fastq.gz	LeechJ_xxxx__AF18__bin.2.fa	0.1627	0.0257	98.09	0.093	96.78-99.87	0.093	0.05-0.14	1	1.255	302/5947	90.83	137	AF18_k141_207

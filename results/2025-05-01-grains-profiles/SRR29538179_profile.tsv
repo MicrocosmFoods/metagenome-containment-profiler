@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538179_trimmed_1.fastq.gz	SRR10454486C2703_ghanensis_assembly.fa	100.0000	100.0000	100.00	95.000	NA-NA	HIGH	NA-NA	95	97.658	11078/11078	100.00	0	SRR10454486C0

@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454490_trimmed_1.fastq.gz	GCF_000146045.2.fna	100.0000	100.0000	99.61	0.591	99.53-99.68	0.591	0.57-0.61	1	1.351	19624/49417	97.06	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

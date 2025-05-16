@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593234_trimmed_1.fastq.gz	GCF_000006865.1.fna	100.0000	100.0000	99.11	1.504	99.02-99.18	1.504	1.43-1.60	2	2.274	5756/9757	98.31	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence

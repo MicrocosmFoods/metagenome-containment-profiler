@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR9701327_trimmed_1.fastq.gz	GCF_000014465.1.fna	42.7720	38.7715	99.86	1.617	99.79-99.92	1.617	1.54-1.69	2	2.324	7686/10002	99.15	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR9701327_trimmed_1.fastq.gz	GCF_000174395.2.fna	14.6642	17.3389	99.15	0.554	98.98-99.32	0.554	0.52-0.58	1	1.378	4042/12297	96.47	0	NC_017960.1 Enterococcus faecium DO, complete sequence
+SRR9701327_trimmed_1.fastq.gz	GCF_000010145.1.fna	12.3360	10.0281	98.33	0.466	98.00-98.63	0.466	0.41-0.52	1	1.306	1890/8356	95.32	2	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR9701327_trimmed_1.fastq.gz	GCA_000203855.3.fna	9.3603	12.1408	99.15	0.354	98.94-99.38	0.354	0.33-0.38	1	1.244	3354/14358	95.42	13	AL935263.2 Lactobacillus plantarum WCFS1 complete genome
+SRR9701327_trimmed_1.fastq.gz	GCF_000006865.1.fna	9.2968	8.5186	96.04	0.352	95.49-96.50	0.352	0.29-0.42	1	1.297	826/9757	92.34	1	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR9701327_trimmed_1.fastq.gz	GCF_000010825.1.fna	8.4085	10.8791	98.03	0.318	97.66-98.35	0.318	0.28-0.36	1	1.178	1921/13089	94.00	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR9701327_trimmed_1.fastq.gz	GCF_000026405.1.fna	3.1622	2.3231	95.44	0.120	93.99-96.88	0.120	0.07-0.19	1	1.143	244/7943	89.37	9	NC_010471.1 Leuconostoc citreum KM20, complete sequence

@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538196_trimmed_1.fastq.gz	G_24_1A_oryzifermentans_assembly.fa	100.0000	100.0000	100.00	139.000	NA-NA	HIGH	NA-NA	139	143.056	12549/12550	100.00	0	NODE_1_length_900296_cov_116.234665

@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538181_trimmed_1.fastq.gz	LeechJ_2020__ERS3967701__bin.5.fa	100.0000	100.0000	97.24	115.000	NA-NA	HIGH	NA-NA	115	113.766	5559/13252	97.24	0	ERS3967701_k141_270

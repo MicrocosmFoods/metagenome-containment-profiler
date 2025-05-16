@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538191_trimmed_1.fastq.gz	MortensenS_xxxx__WK032-1-L-48h-03B6_S34__bin.2.fa	99.8002	99.6274	99.40	187.000	NA-NA	HIGH	NA-NA	187	187.490	9426/11346	99.40	0	WK032-1-L-48h-03B6_S34_k141_400
+SRR29538191_trimmed_1.fastq.gz	LimaC_2020__SRR9640355__bin.30.fa	0.1998	0.3726	98.87	0.374	98.67-99.05	0.374	0.35-0.39	1	1.190	4659/21245	95.22	0	NODE_3_length_147197_cov_7.9997_ID_162258

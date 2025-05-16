@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757807_trimmed_1.fastq.gz	GCA_000203855.3.fna	65.2872	71.4436	99.20	0.375	98.98-99.41	0.375	0.35-0.40	1	1.341	3640/14358	95.67	0	AL935263.2 Lactobacillus plantarum WCFS1 complete genome
+ERR4757807_trimmed_1.fastq.gz	GCF_000014545.1.fna	22.6345	19.2193	96.88	0.130	95.80-98.00	0.130	0.09-0.18	1	1.201	477/10467	90.52	79	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757807_trimmed_1.fastq.gz	GCF_000006865.1.fna	12.0782	9.3371	98.36	0.069	96.84-99.75	0.069	0.04-0.11	1	1.059	391/9757	90.14	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence

@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538186_trimmed_1.fastq.gz	MAG_15.fa	99.1677	98.4695	98.44	135.000	NA-NA	HIGH	NA-NA	135	133.017	6976/11359	98.44	1	MAG_15_0
+SRR29538186_trimmed_1.fastq.gz	MASTER_WP4_TEAGASC_1__TGS08-29__bin.64.fa	0.3992	0.8014	98.72	0.543	98.60-98.86	0.543	0.51-0.57	1	1.305	6533/23201	95.99	0	TGS08-29_k141_17440
+SRR29538186_trimmed_1.fastq.gz	CM_UNINA_FFOOD__FFOOD_289__bin.32.fa	0.3713	0.5835	97.08	0.505	96.86-97.27	0.505	0.47-0.54	1	1.282	2894/18296	94.22	11	NODE_38_length_116599_cov_69.9888_ID_20640
+SRR29538186_trimmed_1.fastq.gz	MASTER_WP4_TEAGASC_1__TGS05-30_0__bin.3.fa	0.0618	0.1456	98.60	0.084	97.86-99.20	0.084	0.07-0.11	1	1.042	1414/27066	90.92	0	TGS05-30_0_k141_650

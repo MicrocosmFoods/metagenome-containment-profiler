@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454500_trimmed_1.fastq.gz	LandisEA_2021__SRS5653132__bin.1.fa	96.2102	90.6890	99.34	88.000	NA-NA	HIGH	NA-NA	88	89.276	6717/8237	99.34	0	SRS5653132_k141_92
+SRR10454500_trimmed_1.fastq.gz	GCF_009913915.1_ASM991391v1_genomic.fa	2.6548	2.6679	99.31	2.428	99.25-99.36	2.428	2.32-2.58	2	2.712	6529/8865	99.02	1	GCF_009913915.1_ASM991391v1_genomic_NZ_CP028251.1 Leuconostoc mesenteroides strain SRCM102733 chromosome, complete genome
+SRR10454500_trimmed_1.fastq.gz	GCA_003243815.1_ASM324381v1_genomic.fa	0.9057	6.2416	99.89	0.828	99.83-99.93	0.828	0.81-0.84	1	1.473	32564/59815	98.06	0	GCA_003243815.1_ASM324381v1_genomic_QELA01000001.1 [Candida] sake strain CBA6005 contig1, whole genome shotgun sequence
+SRR10454500_trimmed_1.fastq.gz	MAG_501.fa	0.1995	0.2228	99.18	0.182	98.66-99.61	0.182	0.16-0.22	1	1.100	1254/9710	93.61	0	MAG_501_0
+SRR10454500_trimmed_1.fastq.gz	DuR_2020__DRS139333__bin.13.fa	0.0298	0.1786	99.15	0.027	97.82-100.38	0.027	0.02-0.04	1	1.078	1055/51035	88.24	5	DRS139333_k141_32

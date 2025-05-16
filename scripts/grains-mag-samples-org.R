@@ -45,18 +45,25 @@ grains_sample_runs <- grains_mag_sample_metadata %>%
 write_tsv(grains_sample_runs, "inputs/grains_sample_runs.tsv")
 
 # profiling results
-grains_profiling_results <- read_tsv("results/2025-05-02-grains-profiles/2025-05-02-grains-profiling-results.tsv") %>% 
+grains_profiling_results_batch1 <- read_tsv("results/2025-05-14-updated-grains-profiles/combined_large_batch_profiles.tsv") %>% 
+  mutate(run_accession = gsub("_trimmed_1.fastq.gz", "", Sample_file)) %>% 
+  mutate(genome_accession = gsub(".fna", "", Genome_file))
+
+grains_profiling_results_batch2 <- read_tsv("results/2025-05-14-updated-grains-profiles/combined_sylph_profiles.tsv") %>% 
   mutate(run_accession = sample_name) %>% 
   select(-sample_name) %>% 
   mutate(genome_accession = gsub(".fna", "", Genome_file))
+
+combined_grains_sylph_results <- rbind(grains_profiling_results_batch1, grains_profiling_results_batch2)
 
 strain_metadata <- read_tsv("inputs/industrial-strain-accessions.tsv") %>% 
   mutate(genome_accession = accession) %>% 
   select(genome_name, genome_accession)
 
-grains_profiling_metadata <- left_join(grains_profiling_results, grains_sample_runs) %>% 
+grains_profiling_metadata <- left_join(combined_grains_sylph_results, grains_sample_runs) %>% 
   left_join(strain_metadata) %>% 
-  mutate(food_sample = paste0(fermented_food, " (", run_accession, ")"))
+  mutate(food_sample = paste0(fermented_food, " (", run_accession, ")")) %>% 
+  filter(Adjusted_ANI > 98)
 
 grains_profiling_metadata %>% 
   ggplot(aes(x=food_sample, y=genome_name)) + 

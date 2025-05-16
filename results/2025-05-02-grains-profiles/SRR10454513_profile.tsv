@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454513_trimmed_1.fastq.gz	GCA_000203855.3.fna	96.2504	97.1022	99.16	117.000	NA-NA	HIGH	NA-NA	117	117.809	11053/14358	99.16	12	AL935263.2 Lactobacillus plantarum WCFS1 complete genome
+SRR10454513_trimmed_1.fastq.gz	GCF_000014465.1.fna	2.5070	1.7675	99.60	3.047	NA-NA	HIGH	NA-NA	3	3.047	8838/10002	99.60	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR10454513_trimmed_1.fastq.gz	GCF_032337035.1.fna	1.2426	1.1303	98.94	1.511	98.88-99.01	1.511	1.44-1.57	2	1.952	7277/12981	98.15	3	NZ_JAVYAI010000001.1 Lacticaseibacillus paracasei subsp. paracasei strain TISTR 2593 1, whole genome shotgun sequence

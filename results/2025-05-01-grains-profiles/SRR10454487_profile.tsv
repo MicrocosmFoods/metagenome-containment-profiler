@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454487_trimmed_1.fastq.gz	FalardeauJ_2023__SRR20811279__bin.3.fa	78.2925	81.7478	99.55	117.000	NA-NA	HIGH	NA-NA	117	111.543	11818/13589	99.55	19	NODE_1_length_274429_cov_22.9992_ID_7781
+SRR10454487_trimmed_1.fastq.gz	MotaGutierrezJ_2021__SRR11602150__bin.9.fa	12.0450	9.3529	97.98	18.000	NA-NA	HIGH	NA-NA	18	18.132	5332/10040	97.98	146	NODE_36_length_112572_cov_15.0000_ID_47355
+SRR10454487_trimmed_1.fastq.gz	GCF_001434055.1_ASM143405v1_genomic.fa	5.5799	4.8946	99.94	8.339	NA-NA	HIGH	NA-NA	8	8.339	11340/11550	99.94	0	GCF_001434055.1_ASM143405v1_genomic_NZ_AZCZ01000001.1 Levilactobacillus parabrevis ATCC 53295 Scaffold1, whole genome shotgun sequence
+SRR10454487_trimmed_1.fastq.gz	LandisEA_2021__SRS5653152__bin.2.fa	2.1384	1.8254	99.52	3.196	NA-NA	HIGH	NA-NA	3	3.196	9608/11144	99.52	3	SRS5653152_k141_1211
+SRR10454487_trimmed_1.fastq.gz	G_24_1A_oryzifermentans_assembly.fa	1.1643	1.1566	98.86	1.740	98.78-98.92	1.740	1.67-1.83	2	2.256	7251/12550	98.25	1	NODE_1_length_900296_cov_116.234665
+SRR10454487_trimmed_1.fastq.gz	G_35_1B_malorum_assembly.fa	0.4950	0.5169	97.70	0.740	97.54-97.86	0.740	0.69-0.79	1	1.494	3392/13343	95.68	66	NODE_1_length_1267414_cov_104.138453
+SRR10454487_trimmed_1.fastq.gz	SRR10454517C1506_cerevisiae_assembly.fa	0.2157	0.2275	96.78	0.322	96.40-97.15	0.322	0.28-0.36	1	1.231	1361/13609	92.84	915	SRR10454517C0
+SRR10454487_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	0.0692	0.2784	97.10	0.103	96.56-97.50	0.103	0.09-0.12	1	1.141	1943/49112	90.11	0	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence

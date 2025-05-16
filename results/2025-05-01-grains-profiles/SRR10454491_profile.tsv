@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454491_trimmed_1.fastq.gz	MotaGutierrezJ_2021__SRR11602150__bin.9.fa	56.7558	50.7749	97.96	104.000	NA-NA	HIGH	NA-NA	104	105.768	5308/10040	97.96	1	NODE_36_length_112572_cov_15.0000_ID_47355
+SRR10454491_trimmed_1.fastq.gz	GCF_005404945.1_ASM540494v1_genomic.fa	21.2834	23.8241	97.76	39.000	NA-NA	HIGH	NA-NA	39	42.975	6268/12634	97.76	9	GCF_005404945.1_ASM540494v1_genomic_NZ_BJDG01000001.1 Lactiplantibacillus pingfangensis strain 382-1 contig1, whole genome shotgun sequence
+SRR10454491_trimmed_1.fastq.gz	SRR10454491C1008_acetobacter_assembly.fa	11.4603	13.4954	100.00	21.000	NA-NA	HIGH	NA-NA	21	21.757	13335/13335	100.00	0	SRR10454491C0
+SRR10454491_trimmed_1.fastq.gz	LeechJ_2020__ERS3967740__bin.10.fa	8.1859	6.1199	99.20	15.000	NA-NA	HIGH	NA-NA	15	15.726	6417/8220	99.20	0	ERS3967740_k141_2100
+SRR10454491_trimmed_1.fastq.gz	MortensenS_xxxx__WK038-2-L-48h-03E5_S60__bin.2.fa	1.1560	1.1954	97.33	2.118	97.25-97.41	2.118	1.94-2.23	2	2.588	4399/11566	96.93	5	WK038-2-L-48h-03E5_S60_k141_60
+SRR10454491_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	0.5958	2.7625	99.41	1.092	99.36-99.45	1.092	1.07-1.12	1	1.657	27248/49112	98.12	15	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR10454491_trimmed_1.fastq.gz	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1.fa	0.5627	1.8278	99.73	1.031	99.67-99.78	1.031	1.01-1.06	1	1.638	21452/36208	98.33	0	WK038-1-L-48h-03E3_S58_k141_11

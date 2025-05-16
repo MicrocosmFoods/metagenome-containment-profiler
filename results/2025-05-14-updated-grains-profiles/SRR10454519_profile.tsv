@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454519_trimmed_1.fastq.gz	GCF_018351295.1.fna	60.6770	67.7573	99.52	50.000	NA-NA	HIGH	NA-NA	50	48.332	12483/14497	99.52	10	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR10454519_trimmed_1.fastq.gz	GCF_000014465.1.fna	38.8333	30.2601	99.81	32.000	NA-NA	HIGH	NA-NA	32	32.643	9416/10002	99.81	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR10454519_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.4898	1.9826	99.56	0.404	99.46-99.68	0.404	0.39-0.42	1	1.310	14330/49417	96.09	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
