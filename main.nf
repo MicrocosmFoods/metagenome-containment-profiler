@@ -10,6 +10,9 @@ def date = new java.util.Date().format('yyyy-MM-dd')
 params.outdir = "${date}-results"
 params.threads=16
 
+// Add the ANI threshold parameter with a default value of 95
+params.ani_threshold = 95
+
 log.info """\
 
 PROFILE METAGENOMES FOR CONTAINMENT OF REFERENCE GENOMES.
@@ -20,6 +23,7 @@ accessions_list                 : $params.accessions_list
 fastq_dir                       : $params.fastq_dir
 outdir                          : $params.outdir
 threads                         : $params.threads
+ani_threshold                   : $params.ani_threshold
 """
 
 // input parameter validation
@@ -168,13 +172,14 @@ process qc_fastq_samples {
     conda "envs/fastp.yml"
     container "quay.io/biocontainers/fastp:0.24.0--heae3180_1"
     memory "20G"
-    errorStrategy 'ignore'
+    errorStrategy { task.exitStatus in [1,143,137,104,134,139] ? 'retry' : 'finish' }
+    maxRetries 1
     
     input:
     tuple val(sample_name), path(reads)
     
     output: 
-    tuple val(sample_name), path("${sample_name}_trimmed_1.fastq.gz"), path("${sample_name}_trimmed_2.fastq.gz")
+    tuple val(sample_name), path("${sample_name}_trimmed_1.fastq.gz"), path("${sample_name}_trimmed_2.fastq.gz"), optional: true
     
     script:
     """
@@ -243,6 +248,7 @@ process combine_profile_results {
     """
     python3 ${baseDir}/bin/process_profile_tsvs.py \
            . \
-           combined_sylph_profiles.tsv
+           combined_sylph_profiles.tsv \
+           --ani_threshold ${params.ani_threshold}
     """
 }

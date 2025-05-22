@@ -28,6 +28,11 @@
           "type": "string",
           "description": "Path to directory of pre-downloaded FASTQ files, provide this if you already downloaded all sample accessions."
         },
+        "ani_threshold": {
+          "type": "string",
+          "default": "95",
+          "description": "ANI threshold to filter final results by. Default is 95%"
+        },
         "outdir": {
           "type": "string",
           "format": "directory-path",

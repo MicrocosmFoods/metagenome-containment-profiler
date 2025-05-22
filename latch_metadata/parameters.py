@@ -38,6 +38,12 @@ generated_parameters = {
         section_title=None,
         description='Path to directory of pre-downloaded FASTQ files, provide this if you already downloaded all sample accessions.',
     ),
+    'ani_threshold': NextflowParameter(
+        type=int,
+        default=95,
+        section_title=None,
+        description='Adjusted ANI threshold for filtering (default: 95)',
+    ),
     'outdir': NextflowParameter(
         type=typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})],
         default=None,

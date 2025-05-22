@@ -2,10 +2,10 @@
 
 import pandas as pd
 import glob
-import sys
 import os
+import argparse
 
-def process_tsv_files(input_dir, output_file):
+def process_tsv_files(input_dir, output_file, ani_threshold=95):
     # List to store all dataframes
     dfs = []
     
@@ -24,15 +24,26 @@ def process_tsv_files(input_dir, output_file):
         dfs.append(df)
     
     # Combine all dataframes
-    combined_df = pd.concat(dfs, ignore_index=True)
-    
-    # Filter for adjusted_ANI >= 98
-    filtered_df = combined_df[combined_df['Adjusted_ANI'] >= 98]
-    
-    # Save to file
-    filtered_df.to_csv(output_file, sep='\t', index=False)
+    if dfs:
+        combined_df = pd.concat(dfs, ignore_index=True)
+        
+        # Filter for adjusted_ANI >= threshold
+        filtered_df = combined_df[combined_df['Adjusted_ANI'] >= ani_threshold]
+        
+        # Save to file
+        filtered_df.to_csv(output_file, sep='\t', index=False)
+        print(f"Processed {len(dfs)} profile files. Output saved to {output_file}")
+    else:
+        print("No profile files found to process.")
+
+def parse_args():
+    parser = argparse.ArgumentParser(description='Process Sylph profile TSV files and combine them.')
+    parser.add_argument('input_dir', help='Directory containing profile TSV files')
+    parser.add_argument('output_file', help='Path to output combined TSV file')
+    parser.add_argument('--ani_threshold', type=float, default=95,
+                        help='Adjusted ANI threshold for filtering (default: 95)')
+    return parser.parse_args()
 
 if __name__ == "__main__":
-    input_dir = sys.argv[1]
-    output_file = sys.argv[2]
-    process_tsv_files(input_dir, output_file)
+    args = parse_args()
+    process_tsv_files(args.input_dir, args.output_file, args.ani_threshold)
