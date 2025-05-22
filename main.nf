@@ -73,9 +73,20 @@ if (params.accessions_list) {
         .splitCsv(header: true, sep: '\t')
         .map { row -> tuple(row.sample_name, row.accession)}
 } else {
+    // More robust pattern matching for paired-end files
     fastq_samples = Channel
-        .fromFilePairs("${params.fastq_dir}/*_{1,2}.fastq{,.gz}", checkIfExists: true)
-        .map { sample_name, files -> tuple(sample_name, files) }
+        .fromFilePairs("${params.fastq_dir}/*_{1,2}.fastq{,.gz}", checkIfExists: true, size: -1)
+        .filter { sample_name, files -> files.size() == 2 }  // Only keep pairs with exactly 2 files
+        .map { sample_name, files -> 
+            log.info "Found paired-end sample: ${sample_name}"
+            tuple(sample_name, files) 
+        }
+        
+    // Add a check to warn if no paired files were found
+    fastq_samples.ifEmpty { 
+        log.warn "No paired-end FASTQ files found in ${params.fastq_dir} matching the pattern *_{1,2}.fastq{,.gz}"
+        log.warn "Please check your input directory and file naming convention."
+    }
 }
 
 // workflow steps
