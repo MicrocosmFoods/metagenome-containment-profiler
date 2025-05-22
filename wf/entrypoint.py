@@ -55,7 +55,7 @@ def initialize() -> str:
 
 
 @nextflow_runtime_task(cpu=10, memory=50, storage_gib=500)
-def nextflow_runtime(pvc_name: str, ref_genomes_list: typing.Optional[str], ref_genomes_dir: LatchDir, accessions_list: typing.Optional[str], fastq_dir: LatchDir, ani_threshold: int, outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
+def nextflow_runtime(pvc_name: str, ref_genomes_list: typing.Optional[str], ref_genomes_dir: typing.Optional[LatchDir], accessions_list: typing.Optional[str], fastq_dir: typing.Optional[LatchDir], ani_threshold: int, outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
     shared_dir = Path("/nf-workdir")
 
     exec_name = _get_execution_name()
@@ -180,7 +180,7 @@ def nextflow_runtime(pvc_name: str, ref_genomes_list: typing.Optional[str], ref_
 
 
 @workflow(metadata._nextflow_metadata)
-def nf_metagenome_containment_profiler(ref_genomes_list: typing.Optional[str], ref_genomes_dir: LatchDir, accessions_list: typing.Optional[str], fastq_dir: LatchDir, ani_threshold: int, outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
+def nf_metagenome_containment_profiler(ref_genomes_list: typing.Optional[str], ref_genomes_dir: typing.Optional[LatchDir], accessions_list: typing.Optional[str], fastq_dir: typing.Optional[LatchDir], ani_threshold: int, outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
     """
     metagenome-containment-profiler
 
