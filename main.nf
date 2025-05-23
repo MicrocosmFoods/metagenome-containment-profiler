@@ -182,8 +182,8 @@ process qc_fastq_samples {
     conda "envs/fastp.yml"
     container "quay.io/biocontainers/fastp:0.24.0--heae3180_1"
     memory "20G"
-    errorStrategy { task.exitStatus in [1,143,137,104,134,139] ? 'retry' : 'finish' }
-    maxRetries 1
+    errorStrategy 'ignore'
+    maxRetries 0
     
     input:
     tuple val(sample_name), path(reads)
