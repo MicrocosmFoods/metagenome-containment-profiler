@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593175_trimmed_1.fastq.gz	GCF_000056065.1.fna	54.6172	31.9602	98.51	59.000	NA-NA	HIGH	NA-NA	59	54.908	4669/7436	98.51	15	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593175_trimmed_1.fastq.gz	GCF_000010145.1.fna	27.7714	18.2872	98.78	30.000	NA-NA	HIGH	NA-NA	30	28.712	5715/8356	98.78	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593175_trimmed_1.fastq.gz	GCF_000146045.2.fna	11.7456	44.8031	99.60	12.688	NA-NA	HIGH	NA-NA	13	12.688	43631/49417	99.60	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593175_trimmed_1.fastq.gz	GCF_000015385.1.fna	5.6940	3.7177	98.02	6.151	NA-NA	HIGH	NA-NA	6	6.151	4169/7756	98.02	53	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593175_trimmed_1.fastq.gz	GCA_000184455.3.fna	0.0976	1.1612	99.45	0.105	99.26-99.64	0.105	0.10-0.11	1	1.064	13383/158662	92.33	2	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR27593175_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.0742	0.0705	97.53	0.080	96.11-98.86	0.080	0.05-0.12	1	1.140	472/12830	89.89	19	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593169_trimmed_1.fastq.gz	GCF_000010145.1.fna	67.3044	57.6291	98.96	69.000	NA-NA	HIGH	NA-NA	69	71.586	6045/8356	98.96	7	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593169_trimmed_1.fastq.gz	GCF_018351295.1.fna	27.3119	37.3704	99.30	28.000	NA-NA	HIGH	NA-NA	28	29.012	11674/14497	99.30	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593169_trimmed_1.fastq.gz	GCF_000006865.1.fna	4.4773	4.3212	98.89	4.590	NA-NA	HIGH	NA-NA	4	4.590	6902/9757	98.89	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593169_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.8473	0.6334	98.82	0.869	98.66-98.97	0.869	0.80-0.92	1	1.501	3167/7865	97.11	23	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593169_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.0591	0.0457	98.72	0.061	97.25-100.76	0.061	0.03-0.10	1	1.098	315/7943	90.11	15	NC_010471.1 Leuconostoc citreum KM20, complete sequence

@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593204_trimmed_1.fastq.gz	GCF_000014445.1.fna	37.3432	30.6939	95.89	31.000	NA-NA	HIGH	NA-NA	31	32.506	2413/8862	95.89	23	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593204_trimmed_1.fastq.gz	GCF_018351295.1.fna	37.3432	49.5905	99.82	31.000	NA-NA	HIGH	NA-NA	31	42.370	13696/14497	99.82	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593204_trimmed_1.fastq.gz	GCF_000014505.1.fna	13.3788	9.7072	99.69	11.106	NA-NA	HIGH	NA-NA	11	11.106	7154/7865	99.69	32	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593204_trimmed_1.fastq.gz	GCF_000010145.1.fna	10.8042	8.9784	99.42	8.969	NA-NA	HIGH	NA-NA	9	8.969	6987/8356	99.42	11	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593204_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.4338	0.4020	98.46	0.360	98.09-98.80	0.360	0.32-0.41	1	1.242	1916/10002	94.81	13	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR27593204_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.3450	0.2548	98.08	0.286	97.61-98.46	0.286	0.25-0.34	1	1.159	1016/7436	93.78	12	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593204_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.1844	0.1727	99.06	0.153	98.45-99.50	0.153	0.13-0.19	1	1.083	1034/9757	93.02	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593204_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.1674	0.2005	95.67	0.139	94.68-96.70	0.139	0.10-0.19	1	1.670	491/12830	90.01	44	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

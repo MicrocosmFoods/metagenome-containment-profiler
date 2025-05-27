@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR3017093_trimmed_1.fastq.gz	GCF_000146045.2.fna	99.4574	99.6898	99.72	10.620	NA-NA	HIGH	NA-NA	10	10.620	45369/49417	99.72	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR3017093_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.3405	0.0942	96.43	0.036	94.01-96.76	0.036	0.03-0.08	1	1.018	168/14497	86.61	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR3017093_trimmed_1.fastq.gz	GCA_026225675.1.fna	0.2020	0.2161	98.32	0.022	96.33-100.33	0.022	0.01-0.04	1	1.051	680/52676	86.91	12	JAPJTW010000001.1 Saccharomyces boulardii (nom. inval.) strain KCTC 13826BP contig1, whole genome shotgun sequence

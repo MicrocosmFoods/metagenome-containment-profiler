@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593221_trimmed_1.fastq.gz	GCA_035231985.1.fna	42.6281	31.0803	97.99	76.000	NA-NA	HIGH	NA-NA	76	74.507	4510/8468	97.99	5	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+SRR27593221_trimmed_1.fastq.gz	GCF_000016825.1.fna	28.6057	20.1352	98.64	51.000	NA-NA	HIGH	NA-NA	51	50.802	5272/8055	98.64	5	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+SRR27593221_trimmed_1.fastq.gz	GCF_000010145.1.fna	15.7051	11.6023	99.45	28.000	NA-NA	HIGH	NA-NA	28	26.023	7032/8356	99.45	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593221_trimmed_1.fastq.gz	GCA_026225675.1.fna	5.3142	24.2659	99.32	9.475	NA-NA	HIGH	NA-NA	9	9.475	42693/52676	99.32	12	JAPJTW010000001.1 Saccharomyces boulardii (nom. inval.) strain KCTC 13826BP contig1, whole genome shotgun sequence
+SRR27593221_trimmed_1.fastq.gz	GCF_000056065.1.fna	4.9665	3.2605	98.72	8.855	NA-NA	HIGH	NA-NA	8	8.855	4993/7436	98.72	15	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593221_trimmed_1.fastq.gz	GCF_000146045.2.fna	2.0927	8.9558	99.51	3.731	NA-NA	HIGH	NA-NA	3	3.731	42461/49417	99.51	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593221_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.2029	0.1309	98.53	0.362	98.17-98.89	0.362	0.32-0.41	1	1.263	1529/7865	94.85	5	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593221_trimmed_1.fastq.gz	GCF_000010825.1.fna	0.1861	0.2188	95.05	0.332	94.50-95.48	0.332	0.28-0.40	1	1.235	767/13089	91.25	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593221_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.1841	0.2665	98.68	0.328	98.45-98.92	0.328	0.30-0.35	1	1.173	3190/17194	94.71	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR27593221_trimmed_1.fastq.gz	GCF_000015385.1.fna	0.1146	0.0839	98.14	0.204	97.51-98.72	0.204	0.17-0.25	1	1.144	828/7756	93.04	46	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence

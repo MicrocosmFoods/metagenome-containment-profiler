@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593152_trimmed_1.fastq.gz	GCF_000056065.1.fna	51.3259	43.8870	97.87	35.000	NA-NA	HIGH	NA-NA	35	35.681	3816/7436	97.87	67	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593152_trimmed_1.fastq.gz	GCF_000014465.1.fna	14.9276	16.0165	98.68	10.179	NA-NA	HIGH	NA-NA	11	10.179	6617/10002	98.68	11	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR27593152_trimmed_1.fastq.gz	GCF_000010145.1.fna	12.5577	12.0831	99.34	8.563	NA-NA	HIGH	NA-NA	8	8.563	6813/8356	99.34	9	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593152_trimmed_1.fastq.gz	GCF_018351295.1.fna	12.0500	18.5282	99.77	8.217	NA-NA	HIGH	NA-NA	7	8.217	13499/14497	99.77	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593152_trimmed_1.fastq.gz	GCF_000006865.1.fna	6.3721	6.9110	98.80	4.345	NA-NA	HIGH	NA-NA	4	4.345	6706/9757	98.80	12	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593152_trimmed_1.fastq.gz	GCF_000014485.1.fna	1.2496	1.0680	99.04	0.852	98.90-99.21	0.852	0.79-0.91	1	1.570	3237/7600	97.28	7	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593152_trimmed_1.fastq.gz	GCF_000015385.1.fna	1.1097	1.0588	98.07	0.757	97.82-98.26	0.757	0.69-0.83	1	1.424	2284/7756	96.13	29	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593152_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.2271	0.1975	98.90	0.155	98.29-99.51	0.155	0.13-0.19	1	1.131	810/7943	92.90	16	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR27593152_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.1802	0.2499	98.01	0.123	97.27-98.97	0.123	0.08-0.16	1	1.303	821/12830	91.51	43	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

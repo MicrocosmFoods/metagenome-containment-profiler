@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757843_trimmed_1.fastq.gz	GCF_000014525.1.fna	48.4430	20.8801	98.78	5.783	NA-NA	HIGH	NA-NA	6	5.783	8133/11907	98.78	6	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+ERR4757843_trimmed_1.fastq.gz	GCF_000146045.2.fna	42.4890	76.1347	99.49	5.072	NA-NA	HIGH	NA-NA	5	5.072	42212/49417	99.49	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+ERR4757843_trimmed_1.fastq.gz	GCF_000007525.1.fna	5.0321	1.6764	99.05	0.601	98.88-99.25	0.601	0.56-0.64	1	1.371	3221/9595	96.54	0	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757843_trimmed_1.fastq.gz	GCA_014058685.1.fna	3.0370	0.8735	97.73	0.363	97.33-98.13	0.363	0.31-0.42	1	1.192	1198/8025	94.05	0	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757843_trimmed_1.fastq.gz	GCF_000014545.1.fna	0.5256	0.2013	97.20	0.063	95.27-99.59	0.063	0.03-0.12	1	1.034	265/10467	88.82	17	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757843_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.4731	0.2339	99.26	0.056	97.98-101.04	0.056	0.03-0.08	1	1.077	673/14497	90.57	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome

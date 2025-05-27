@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25394931_trimmed_1.fastq.gz	GCF_000056065.1.fna	71.4533	71.0022	98.99	1621.000	NA-NA	HIGH	NA-NA	1621	1320.538	5423/7436	98.99	155	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCF_000014485.1.fna	23.6708	23.5110	99.75	537.000	NA-NA	HIGH	NA-NA	537	494.628	7022/7600	99.75	26	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCF_000015385.1.fna	3.6145	4.0076	99.40	82.000	NA-NA	HIGH	NA-NA	82	118.502	6436/7756	99.40	21	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCF_000010145.1.fna	0.8375	0.9365	99.11	19.000	NA-NA	HIGH	NA-NA	19	18.399	6332/8356	99.11	15	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.2535	0.3195	99.66	5.751	NA-NA	HIGH	NA-NA	6	5.751	8773/9757	99.66	705	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.0603	0.0752	99.79	1.369	99.71-99.86	1.369	1.31-1.43	2	1.912	6996/10002	98.85	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCF_000014545.1.fna	0.0547	0.0758	99.95	1.241	99.86-100.03	1.241	1.18-1.30	2	2.473	7384/10467	98.88	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0286	0.0446	98.70	0.649	98.54-98.88	0.649	0.61-0.69	1	1.381	3814/11907	96.39	49	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.0230	0.0225	98.75	0.522	98.55-99.00	0.522	0.47-0.56	1	1.314	2180/7865	95.95	6	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR25394931_trimmed_1.fastq.gz	GCA_001044095.1.fna	0.0036	0.0051	96.79	0.081	95.26-98.44	0.081	0.05-0.13	1	1.122	336/11256	89.29	35	JUIN01000001.1 Lacticaseibacillus rhamnosus strain Lr032 contig00001, whole genome shotgun sequence

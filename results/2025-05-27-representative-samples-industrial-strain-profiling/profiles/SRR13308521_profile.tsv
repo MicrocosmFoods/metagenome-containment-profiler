@@ -1,0 +1,12 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13308521_trimmed_1.fastq.gz	GCF_000015385.1.fna	97.4803	96.9241	99.41	1418.000	NA-NA	HIGH	NA-NA	1418	1381.319	6462/7756	99.41	16	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR13308521_trimmed_1.fastq.gz	GCF_009739535.1.fna	1.1687	1.3899	99.95	17.000	NA-NA	HIGH	NA-NA	17	16.378	10236/10398	99.95	0	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR13308521_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.7634	0.8629	99.68	11.105	NA-NA	HIGH	NA-NA	11	11.105	8828/9757	99.68	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR13308521_trimmed_1.fastq.gz	GCF_000010825.1.fna	0.3297	0.5263	99.58	4.797	NA-NA	HIGH	NA-NA	6	4.797	11500/13089	99.58	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR13308521_trimmed_1.fastq.gz	GCF_000214785.1.fna	0.1667	0.1875	95.10	2.424	NA-NA	HIGH	NA-NA	6	2.424	2027/9636	95.10	557	NC_015602.1 Lactobacillus kefiranofaciens subsp. kefiranofaciens, complete sequence
+SRR13308521_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.0314	0.0503	98.71	0.456	98.52-98.91	0.456	0.42-0.48	1	1.221	3659/14497	95.66	44	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR13308521_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.0246	0.0244	98.71	0.357	98.38-99.04	0.357	0.31-0.39	1	1.212	1786/8862	94.96	19	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR13308521_trimmed_1.fastq.gz	GCA_035231985.1.fna	0.0103	0.0102	95.45	0.150	94.49-96.51	0.150	0.11-0.22	1	1.115	279/8468	89.58	7	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+SRR13308521_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.0102	0.0089	98.91	0.148	98.29-99.67	0.148	0.11-0.18	1	1.114	783/7865	92.83	4	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR13308521_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.0092	0.0103	95.91	0.134	94.79-97.01	0.134	0.09-0.18	1	1.293	369/10002	89.90	16	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR13308521_trimmed_1.fastq.gz	GCF_000016825.1.fna	0.0056	0.0053	98.92	0.081	97.59-99.97	0.081	0.05-0.12	1	1.059	475/8055	91.27	3	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence

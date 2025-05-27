@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR1981167_trimmed_1.fastq.gz	GCF_000010145.1.fna	100.0000	100.0000	98.67	0.203	98.16-99.11	0.203	0.18-0.24	1	1.104	1015/8356	93.43	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence

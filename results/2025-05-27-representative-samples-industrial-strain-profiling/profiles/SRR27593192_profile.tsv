@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593192_trimmed_1.fastq.gz	GCF_000014445.1.fna	64.4015	40.9757	95.85	42.000	NA-NA	HIGH	NA-NA	42	35.788	2384/8862	95.85	54	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593192_trimmed_1.fastq.gz	GCF_000010145.1.fna	13.5480	8.7152	97.98	8.835	NA-NA	HIGH	NA-NA	9	8.835	4443/8356	97.98	12	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593192_trimmed_1.fastq.gz	GCF_000146045.2.fna	11.5993	43.2228	99.41	7.565	NA-NA	HIGH	NA-NA	7	7.565	41140/49417	99.41	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593192_trimmed_1.fastq.gz	GCF_000026405.1.fna	7.1240	4.1415	99.23	4.646	NA-NA	HIGH	NA-NA	4	4.646	6251/7943	99.23	0	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR27593192_trimmed_1.fastq.gz	GCF_000010825.1.fna	1.3824	1.4153	98.09	0.902	97.94-98.25	0.902	0.83-0.97	2	2.238	4290/13089	96.47	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593192_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.7670	0.5562	98.99	0.500	98.80-99.22	0.500	0.45-0.53	1	1.297	2800/9757	96.05	5	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593192_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.5295	0.3798	98.10	0.345	97.70-98.57	0.345	0.29-0.39	1	1.304	1621/10002	94.30	4	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR27593192_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.3648	0.3750	97.97	0.238	97.59-98.31	0.238	0.21-0.27	1	1.150	1630/14497	93.19	28	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593192_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.1519	0.1361	99.62	0.099	98.90-100.61	0.099	0.07-0.12	1	1.135	1009/11907	92.35	0	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR27593192_trimmed_1.fastq.gz	GCF_000091765.1.fna	0.1316	0.0824	96.66	0.086	95.15-98.46	0.086	0.04-0.13	1	1.068	263/8614	89.36	2	NC_014106.1 Lactobacillus crispatus ST1, complete sequence

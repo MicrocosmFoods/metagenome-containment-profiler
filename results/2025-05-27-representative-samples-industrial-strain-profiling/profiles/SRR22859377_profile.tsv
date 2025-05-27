@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR22859377_trimmed_1.fastq.gz	GCF_000026405.1.fna	83.8568	79.3744	99.79	9.213	NA-NA	HIGH	NA-NA	9	9.213	7451/7943	99.79	0	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR22859377_trimmed_1.fastq.gz	GCF_000006865.1.fna	13.2219	15.6098	99.19	1.453	99.10-99.26	1.453	1.38-1.52	2	2.098	5806/9757	98.34	5	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR22859377_trimmed_1.fastq.gz	GCF_000209795.2.fna	2.0613	4.2293	98.64	0.226	98.30-99.00	0.226	0.19-0.26	1	1.419	2287/17194	93.70	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR22859377_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.8600	0.7865	96.92	0.094	95.40-98.59	0.094	0.05-0.15	1	1.081	273/7865	89.73	1	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence

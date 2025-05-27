@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR16950696_trimmed_1.fastq.gz	GCF_018351295.1.fna	91.4076	94.2356	99.84	943.000	NA-NA	HIGH	NA-NA	943	900.526	13809/14497	99.84	19	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR16950696_trimmed_1.fastq.gz	GCF_000014465.1.fna	2.5203	1.8131	99.16	26.000	NA-NA	HIGH	NA-NA	26	22.565	7698/10002	99.16	16	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR16950696_trimmed_1.fastq.gz	GCF_000014445.1.fna	2.5203	1.6082	99.85	26.000	NA-NA	HIGH	NA-NA	26	24.250	8461/8862	99.85	0	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR16950696_trimmed_1.fastq.gz	GCF_000026405.1.fna	2.4233	1.4129	99.73	25.000	NA-NA	HIGH	NA-NA	25	24.913	7312/7943	99.73	102	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR16950696_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.9017	0.6557	99.12	9.302	NA-NA	HIGH	NA-NA	9	9.302	7417/9757	99.12	5	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR16950696_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.1906	0.2409	98.73	1.966	98.56-98.79	1.966	1.88-2.36	2	2.785	9956/17194	98.25	1	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR16950696_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.0363	0.0338	99.67	0.375	99.48-99.90	0.375	0.34-0.40	1	1.224	3706/12830	96.07	19	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593180_trimmed_1.fastq.gz	GCF_000209795.2.fna	93.2716	96.8324	98.72	10.016	NA-NA	HIGH	NA-NA	10	10.016	11532/17194	98.72	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR27593180_trimmed_1.fastq.gz	GCF_000014485.1.fna	5.9551	2.8033	99.16	0.639	98.95-99.34	0.639	0.58-0.70	1	1.425	2769/7600	96.80	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593180_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.7734	0.3642	97.85	0.083	96.29-99.27	0.083	0.05-0.13	1	1.046	302/7436	90.18	6	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence

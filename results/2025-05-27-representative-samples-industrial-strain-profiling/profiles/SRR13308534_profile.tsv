@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13308534_trimmed_1.fastq.gz	GCF_000214785.1.fna	74.1650	75.7672	99.77	4572.000	NA-NA	HIGH	NA-NA	4572	4084.322	8960/9636	99.77	34	NC_015602.1 Lactobacillus kefiranofaciens subsp. kefiranofaciens, complete sequence
+SRR13308534_trimmed_1.fastq.gz	GCF_000015385.1.fna	20.8772	18.8533	99.19	1287.000	NA-NA	HIGH	NA-NA	1287	1322.165	6034/7756	99.19	577	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR13308534_trimmed_1.fastq.gz	GCF_009739535.1.fna	4.6718	5.0463	99.98	288.000	NA-NA	HIGH	NA-NA	288	328.392	10347/10398	99.98	0	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR13308534_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.1709	0.1754	99.62	10.532	NA-NA	HIGH	NA-NA	10	10.532	8659/9757	99.62	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR13308534_trimmed_1.fastq.gz	GCF_000010825.1.fna	0.0984	0.1426	99.36	6.067	NA-NA	HIGH	NA-NA	6	6.067	10734/13089	99.36	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR13308534_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.0168	0.0151	99.11	1.033	98.98-99.23	1.033	0.96-1.09	1	1.660	4331/8862	97.72	1	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence

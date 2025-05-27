@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593195_trimmed_1.fastq.gz	GCF_000209795.2.fna	95.4422	97.8805	98.35	3.077	NA-NA	HIGH	NA-NA	3	3.077	10278/17194	98.35	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR27593195_trimmed_1.fastq.gz	GCF_000014485.1.fna	4.5578	2.1195	99.17	0.147	98.52-99.87	0.147	0.12-0.18	1	1.116	802/7600	93.00	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence

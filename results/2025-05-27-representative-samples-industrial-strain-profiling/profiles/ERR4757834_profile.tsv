@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757834_trimmed_1.fastq.gz	GCF_000014545.1.fna	75.4962	77.7409	99.52	106.000	NA-NA	HIGH	NA-NA	106	114.849	9027/10467	99.52	698	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757834_trimmed_1.fastq.gz	GCF_000006865.1.fna	17.0935	16.0250	99.96	24.000	NA-NA	HIGH	NA-NA	24	20.930	9626/9757	99.96	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR4757834_trimmed_1.fastq.gz	GCF_000007525.1.fna	3.6121	3.2356	99.11	5.072	NA-NA	HIGH	NA-NA	5	5.072	7263/9595	99.11	9	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757834_trimmed_1.fastq.gz	GCA_014058685.1.fna	2.3339	1.8049	97.88	3.277	NA-NA	HIGH	NA-NA	3	3.277	4135/8025	97.88	2	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757834_trimmed_1.fastq.gz	GCF_000014445.1.fna	1.2083	0.9940	98.58	1.696	98.48-98.64	1.696	1.62-1.81	2	2.409	4644/8862	97.94	1	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR4757834_trimmed_1.fastq.gz	GCA_000014425.1.fna	0.1199	0.0900	97.71	0.168	96.80-98.63	0.168	0.12-0.22	1	1.188	573/7578	92.01	236	CP000413.1 Lactobacillus gasseri ATCC 33323, complete genome
+ERR4757834_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.0529	0.0391	99.02	0.074	97.49-100.55	0.074	0.04-0.12	1	1.029	441/7600	91.23	25	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+ERR4757834_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.0417	0.0386	96.38	0.058	94.22-97.92	0.058	0.04-0.11	1	1.160	181/10002	87.86	1	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+ERR4757834_trimmed_1.fastq.gz	GCF_000220885.1.fna	0.0416	0.0320	99.54	0.058	98.03-101.31	0.058	0.03-0.09	1	1.254	409/8332	90.73	0	NC_017215.1 Bifidobacterium animalis subsp. lactis CNCM I-2494, complete sequence

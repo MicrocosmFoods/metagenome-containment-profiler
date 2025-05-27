@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13708567_trimmed_1.fastq.gz	GCF_000006865.1.fna	64.8259	64.8467	98.61	0.938	98.47-98.74	0.938	0.88-0.98	1	1.591	3854/9757	97.05	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_000010145.1.fna	20.5714	18.2563	99.15	0.298	98.76-99.45	0.298	0.26-0.33	1	1.180	1656/8356	94.91	3	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_000056065.1.fna	6.8012	5.3637	95.93	0.098	94.08-97.90	0.098	0.05-0.17	1	1.047	192/7436	88.87	4	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_000014525.1.fna	4.0436	5.0003	99.42	0.058	98.39-101.08	0.058	0.03-0.08	1	1.337	587/11907	90.75	0	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR13708567_trimmed_1.fastq.gz	GCF_000209795.2.fna	3.7579	6.5331	97.26	0.054	95.61-99.64	0.054	0.03-0.09	1	1.091	386/17194	88.47	1	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence

@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10997046_trimmed_1.fastq.gz	GCF_000014445.1.fna	25.5223	21.9904	98.28	1.650	98.18-98.37	1.650	1.55-1.77	2	2.298	4211/8862	97.63	46	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR10997046_trimmed_1.fastq.gz	GCF_000014545.1.fna	20.7489	22.3784	98.12	1.341	98.01-98.25	1.341	1.25-1.41	2	1.900	4306/10467	97.18	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR10997046_trimmed_1.fastq.gz	GCF_009739535.1.fna	18.3569	18.9656	97.97	1.187	97.86-98.13	1.187	1.08-1.26	2	2.078	3856/10398	96.85	8	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR10997046_trimmed_1.fastq.gz	GCF_000026405.1.fna	16.7019	13.1487	98.80	1.080	98.64-98.93	1.080	1.01-1.15	1	1.625	3673/7943	97.54	0	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR10997046_trimmed_1.fastq.gz	GCF_000010825.1.fna	11.8131	16.3787	96.21	0.764	95.99-96.48	0.764	0.69-0.83	1	1.840	2130/13089	94.31	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR10997046_trimmed_1.fastq.gz	GCF_000014465.1.fna	5.1779	5.0298	98.37	0.335	97.99-98.75	0.335	0.29-0.37	1	1.279	1738/10002	94.51	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR10997046_trimmed_1.fastq.gz	GCA_000155515.2.fna	1.6790	2.1084	98.01	0.109	97.23-98.93	0.109	0.08-0.14	1	1.424	736/12830	91.19	7	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

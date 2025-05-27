@@ -1,0 +1,14 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR18334998_trimmed_1.fastq.gz	GCF_000014465.1.fna	46.8119	38.7307	99.50	4.058	NA-NA	HIGH	NA-NA	4	4.058	8564/10002	99.50	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000014445.1.fna	13.9326	10.2247	99.19	1.208	99.10-99.30	1.208	1.14-1.27	2	1.831	4839/8862	98.07	20	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000014525.1.fna	8.4381	8.7239	99.17	0.731	99.03-99.33	0.731	0.69-0.78	1	1.493	4822/11907	97.13	21	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_018351295.1.fna	7.6659	9.0893	99.37	0.665	99.25-99.51	0.665	0.62-0.70	1	1.682	5911/14497	97.15	12	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR18334998_trimmed_1.fastq.gz	GCF_000014485.1.fna	4.5434	2.9944	99.07	0.394	98.78-99.35	0.394	0.36-0.43	1	1.235	1856/7600	95.55	6	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000010145.1.fna	4.0182	2.9814	99.04	0.348	98.71-99.39	0.348	0.31-0.39	1	1.337	1858/8356	95.27	18	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000014505.1.fna	2.9646	1.9206	98.85	0.257	98.37-99.40	0.257	0.22-0.30	1	1.193	1257/7865	94.26	32	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000006865.1.fna	2.2024	1.8419	98.27	0.191	97.61-98.75	0.191	0.16-0.23	1	1.148	990/9757	92.89	5	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000015385.1.fna	2.1916	1.6123	96.69	0.190	95.91-97.52	0.190	0.14-0.25	1	1.447	517/7756	91.63	62	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000014545.1.fna	2.1290	1.9558	96.18	0.185	95.48-96.93	0.185	0.14-0.23	1	1.172	529/10467	90.82	140	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCA_015533775.1.fna	1.7967	17.1320	98.14	0.156	97.94-98.30	0.156	0.15-0.17	1	1.094	9285/114896	92.21	0	JABCSE010000002.1 Penicillium roqueforti strain LCP96 04111 scaffold_01, whole genome shotgun sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000056065.1.fna	1.7908	1.1808	98.18	0.155	97.47-98.80	0.155	0.13-0.20	1	1.142	606/7436	92.23	24	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR18334998_trimmed_1.fastq.gz	GCF_000026505.1.fna	1.5149	1.6121	96.07	0.131	95.14-96.89	0.131	0.10-0.18	1	1.157	458/12422	89.90	96	NC_013198.1 Lacticaseibacillus rhamnosus GG, complete sequence

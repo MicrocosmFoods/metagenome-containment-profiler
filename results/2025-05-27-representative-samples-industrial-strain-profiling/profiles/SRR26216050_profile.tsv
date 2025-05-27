@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR26216050_trimmed_1.fastq.gz	GCA_000155515.2.fna	75.6899	43.6560	99.00	21.000	NA-NA	HIGH	NA-NA	21	19.718	9399/12830	99.00	0	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome
+SRR26216050_trimmed_1.fastq.gz	GCF_000146045.2.fna	24.3101	56.3440	99.57	6.745	NA-NA	HIGH	NA-NA	6	6.745	43288/49417	99.57	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

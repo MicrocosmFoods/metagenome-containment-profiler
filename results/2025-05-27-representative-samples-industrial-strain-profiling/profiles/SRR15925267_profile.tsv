@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR15925267_trimmed_1.fastq.gz	GCF_000014505.1.fna	62.2293	42.7561	99.63	61.000	NA-NA	HIGH	NA-NA	61	54.931	7015/7865	99.63	32	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR15925267_trimmed_1.fastq.gz	GCF_018351295.1.fna	34.6852	43.6168	99.86	34.000	NA-NA	HIGH	NA-NA	34	32.790	13872/14497	99.86	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR15925267_trimmed_1.fastq.gz	GCF_000014465.1.fna	1.8236	1.6002	99.50	1.788	99.42-99.55	1.788	1.70-1.88	2	2.507	7134/10002	98.92	13	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR15925267_trimmed_1.fastq.gz	GCA_000184455.3.fna	0.7694	10.9373	99.69	0.754	99.66-99.71	0.754	0.74-0.76	1	1.451	76317/158662	97.67	0	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR15925267_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.3269	0.5040	98.59	0.320	98.34-98.87	0.320	0.29-0.34	1	1.177	3094/17194	94.62	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR15925267_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0723	0.3295	96.68	0.071	95.77-97.53	0.071	0.05-0.09	1	1.081	1194/49417	88.68	1	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR15925267_trimmed_1.fastq.gz	GCF_000756285.1.fna	0.0556	0.0721	96.57	0.054	94.73-98.42	0.054	0.03-0.09	1	1.033	272/14866	87.89	2	NZ_JPSK01000001.1 Heyndrickxia coagulans strain GBI-30, 6086 contig1, whole genome shotgun sequence
+SRR15925267_trimmed_1.fastq.gz	GCA_026225675.1.fna	0.0379	0.1841	96.08	0.037	94.61-98.57	0.037	0.01-0.06	1	1.082	560/52676	86.37	1	JAPJTW010000001.1 Saccharomyces boulardii (nom. inval.) strain KCTC 13826BP contig1, whole genome shotgun sequence

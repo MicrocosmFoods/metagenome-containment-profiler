@@ -1,0 +1,12 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR6313183_trimmed_1.fastq.gz	GCF_000006865.1.fna	34.2911	30.9393	99.36	11.126	NA-NA	HIGH	NA-NA	11	11.126	7992/9757	99.36	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR6313183_trimmed_1.fastq.gz	GCF_018351295.1.fna	26.4274	33.8041	99.61	8.575	NA-NA	HIGH	NA-NA	8	8.575	12826/14497	99.61	12	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR6313183_trimmed_1.fastq.gz	GCA_001044095.1.fna	12.6026	12.9203	98.13	4.089	NA-NA	HIGH	NA-NA	4	4.089	6271/11256	98.13	5	JUIN01000001.1 Lacticaseibacillus rhamnosus strain Lr032 contig00001, whole genome shotgun sequence
+SRR6313183_trimmed_1.fastq.gz	GCF_000014465.1.fna	12.0976	10.7981	99.64	3.925	NA-NA	HIGH	NA-NA	3	3.925	8941/10002	99.64	2	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR6313183_trimmed_1.fastq.gz	GCF_000014445.1.fna	11.6279	9.2059	98.97	3.773	NA-NA	HIGH	NA-NA	3	3.773	6437/8862	98.97	91	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR6313183_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.9405	0.6803	99.25	0.305	98.89-99.61	0.305	0.27-0.34	1	1.352	1698/7943	95.14	13	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR6313183_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.5677	0.3968	98.23	0.184	97.60-98.82	0.184	0.15-0.23	1	1.144	763/7865	92.75	32	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR6313183_trimmed_1.fastq.gz	GCF_000011985.1.fna	0.5406	0.4111	99.97	0.175	99.48-100.49	0.175	0.14-0.21	1	1.105	1342/8425	94.25	0	NC_006814.3 Lactobacillus acidophilus NCFM, complete sequence
+SRR6313183_trimmed_1.fastq.gz	GCF_000829055.1.fna	0.3563	0.4013	98.26	0.116	97.37-98.99	0.116	0.09-0.15	1	1.112	748/11730	91.50	172	NZ_AP012544.1 Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393 chromosome, complete genome
+SRR6313183_trimmed_1.fastq.gz	GCA_002914895.1.fna	0.3090	0.2259	99.92	0.100	99.08-100.92	0.100	0.07-0.13	1	1.054	779/8359	92.63	0	NIGQ01000001.1 Bifidobacterium animalis subsp. lactis strain LMG P-17502_2 contig000001, whole genome shotgun sequence
+SRR6313183_trimmed_1.fastq.gz	GCA_036281515.1.fna	0.2394	0.2169	99.50	0.078	98.40-100.35	0.078	0.06-0.11	1	1.085	659/10190	91.55	21	QQNM01000001.1 UNVERIFIED_CONTAM: Bifidobacterium breve strain M16-V NODE_1_length_908942_cov_58.595_ID_1, whole genome shotgun sequence

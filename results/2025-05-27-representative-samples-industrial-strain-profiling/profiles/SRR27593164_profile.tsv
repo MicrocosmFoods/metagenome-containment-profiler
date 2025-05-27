@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593164_trimmed_1.fastq.gz	GCF_000146045.2.fna	98.1699	99.6808	99.58	110.000	NA-NA	HIGH	NA-NA	110	106.052	43352/49417	99.58	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593164_trimmed_1.fastq.gz	GCF_000015385.1.fna	1.0744	0.1867	98.24	1.204	98.11-98.39	1.204	1.12-1.27	1	1.795	3135/7756	97.12	7	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593164_trimmed_1.fastq.gz	GCF_000010145.1.fna	0.7557	0.1325	98.40	0.847	98.23-98.58	0.847	0.78-0.91	1	1.537	2899/8356	96.64	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence

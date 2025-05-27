@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593230_trimmed_1.fastq.gz	GCF_000014445.1.fna	60.0544	50.2344	95.24	4.556	NA-NA	HIGH	NA-NA	4	4.556	1957/8862	95.24	6	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593230_trimmed_1.fastq.gz	GCF_000010145.1.fna	23.9203	20.2299	97.97	1.815	97.86-98.05	1.815	1.72-1.95	2	2.511	3716/8356	97.42	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593230_trimmed_1.fastq.gz	GCF_000010825.1.fna	5.1707	6.9600	98.52	0.392	98.29-98.72	0.392	0.36-0.42	1	1.281	2677/13089	95.01	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593230_trimmed_1.fastq.gz	GCF_000014485.1.fna	5.0215	3.7723	99.04	0.381	98.77-99.39	0.381	0.34-0.42	1	1.236	1789/7600	95.44	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593230_trimmed_1.fastq.gz	GCF_000146045.2.fna	3.1560	15.4614	99.35	0.239	99.20-99.50	0.239	0.23-0.25	1	1.144	8593/49417	94.51	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593230_trimmed_1.fastq.gz	GCF_000014525.1.fna	1.5945	1.8791	95.07	0.121	93.67-96.36	0.121	0.08-0.18	1	1.397	287/11907	88.68	10	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR27593230_trimmed_1.fastq.gz	GCF_018351295.1.fna	1.0825	1.4630	97.10	0.082	95.78-98.63	0.082	0.05-0.12	1	1.309	460/14497	89.47	11	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome

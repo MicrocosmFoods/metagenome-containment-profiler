@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593173_trimmed_1.fastq.gz	GCF_000010145.1.fna	34.7376	33.7580	99.52	29.000	NA-NA	HIGH	NA-NA	29	27.730	7207/8356	99.52	9	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593173_trimmed_1.fastq.gz	GCF_000015385.1.fna	32.3419	31.1640	98.25	27.000	NA-NA	HIGH	NA-NA	27	27.299	4481/7756	98.25	95	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593173_trimmed_1.fastq.gz	GCF_000056065.1.fna	20.3634	17.5857	98.38	17.000	NA-NA	HIGH	NA-NA	17	16.565	4486/7436	98.38	16	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593173_trimmed_1.fastq.gz	GCF_018351295.1.fna	8.6740	13.4702	99.61	7.241	NA-NA	HIGH	NA-NA	6	7.241	12851/14497	99.61	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593173_trimmed_1.fastq.gz	GCF_000006865.1.fna	1.9588	2.1456	99.17	1.635	99.08-99.24	1.635	1.55-1.73	2	2.511	6066/9757	98.48	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593173_trimmed_1.fastq.gz	GCF_000014445.1.fna	1.0722	1.0306	96.55	0.895	96.34-96.72	0.895	0.82-0.99	1	1.839	1782/8862	94.96	23	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593173_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.3735	0.3224	98.75	0.312	98.27-99.07	0.312	0.27-0.36	1	1.217	1378/7600	94.64	16	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593173_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.2815	0.2472	96.03	0.235	95.22-96.75	0.235	0.18-0.31	1	1.426	479/7943	91.34	77	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR27593173_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.1972	0.2763	96.30	0.165	95.55-97.02	0.165	0.12-0.21	1	1.576	628/12830	90.73	43	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

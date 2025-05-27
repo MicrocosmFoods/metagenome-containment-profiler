@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR18335014_trimmed_1.fastq.gz	GCF_018351295.1.fna	65.0791	73.6946	99.43	20.000	NA-NA	HIGH	NA-NA	20	19.725	12128/14497	99.43	12	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR18335014_trimmed_1.fastq.gz	GCF_000014465.1.fna	19.1587	15.1389	99.55	5.888	NA-NA	HIGH	NA-NA	6	5.888	8692/10002	99.55	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR18335014_trimmed_1.fastq.gz	GCF_000010145.1.fna	13.2228	9.3700	99.12	4.064	NA-NA	HIGH	NA-NA	4	4.064	6351/8356	99.12	11	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR18335014_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.9640	0.7700	98.67	0.296	98.30-99.04	0.296	0.26-0.33	1	1.173	1650/9757	94.43	4	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR18335014_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.6884	0.4259	98.81	0.212	98.29-99.41	0.212	0.17-0.25	1	1.142	1053/7865	93.72	27	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR18335014_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.5368	0.3762	98.96	0.165	98.24-99.53	0.165	0.14-0.20	1	1.138	983/8862	93.15	56	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR18335014_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.3503	0.2243	99.23	0.108	98.33-100.19	0.108	0.08-0.14	1	1.250	643/7943	92.21	8	NC_010471.1 Leuconostoc citreum KM20, complete sequence

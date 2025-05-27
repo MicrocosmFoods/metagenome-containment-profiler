@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR26215954_trimmed_1.fastq.gz	GCF_000146045.2.fna	78.3300	95.3685	99.63	17.000	NA-NA	HIGH	NA-NA	17	17.027	44097/49417	99.63	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR26215954_trimmed_1.fastq.gz	GCF_000014445.1.fna	20.1802	4.1952	98.97	4.380	NA-NA	HIGH	NA-NA	4	4.380	6431/8862	98.97	0	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR26215954_trimmed_1.fastq.gz	GCF_000014525.1.fna	1.4898	0.4363	98.29	0.323	97.96-98.59	0.323	0.29-0.36	1	1.141	1975/11907	94.37	1	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence

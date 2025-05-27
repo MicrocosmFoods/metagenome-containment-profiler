@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395116_trimmed_1.fastq.gz	GCF_000006865.1.fna	43.0843	45.3406	99.97	1962.000	NA-NA	HIGH	NA-NA	1962	1767.857	9663/9757	99.97	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25395116_trimmed_1.fastq.gz	GCF_000014485.1.fna	42.2499	35.0382	99.70	1924.000	NA-NA	HIGH	NA-NA	1924	1897.120	6922/7600	99.70	47	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR25395116_trimmed_1.fastq.gz	GCF_018351295.1.fna	6.1267	9.1407	99.87	279.000	NA-NA	HIGH	NA-NA	279	319.310	13911/14497	99.87	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR25395116_trimmed_1.fastq.gz	GCF_000014525.1.fna	4.0625	5.2850	99.84	185.000	NA-NA	HIGH	NA-NA	185	166.875	11344/11907	99.84	18	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR25395116_trimmed_1.fastq.gz	GCF_000014545.1.fna	3.0084	3.4775	99.59	137.000	NA-NA	HIGH	NA-NA	137	225.830	9209/10467	99.59	713	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25395116_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.8345	1.1231	96.03	38.000	NA-NA	HIGH	NA-NA	38	106.304	3649/12830	96.03	7979	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome
+SRR25395116_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.3953	0.3650	99.35	18.000	NA-NA	HIGH	NA-NA	18	17.025	7232/8862	99.35	25	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR25395116_trimmed_1.fastq.gz	GCF_000015385.1.fna	0.1468	0.1359	99.74	6.686	NA-NA	HIGH	NA-NA	6	6.686	7162/7756	99.74	41	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR25395116_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.0847	0.0882	99.75	3.858	NA-NA	HIGH	NA-NA	4	3.858	9269/10002	99.75	16	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR25395116_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.0069	0.0058	99.22	0.315	98.85-99.58	0.315	0.27-0.35	1	1.271	1749/7943	95.24	97	NC_010471.1 Leuconostoc citreum KM20, complete sequence

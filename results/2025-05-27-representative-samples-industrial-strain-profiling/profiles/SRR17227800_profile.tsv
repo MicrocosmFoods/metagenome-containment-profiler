@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR17227800_trimmed_1.fastq.gz	GCF_000014485.1.fna	90.7390	86.5969	99.32	19.000	NA-NA	HIGH	NA-NA	19	18.422	6153/7600	99.32	13	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR17227800_trimmed_1.fastq.gz	GCF_000014525.1.fna	7.6478	11.4494	98.73	1.601	98.66-98.81	1.601	1.52-1.67	2	2.026	6404/11907	98.02	0	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR17227800_trimmed_1.fastq.gz	GCF_000006865.1.fna	1.6132	1.9536	99.68	0.338	99.41-99.97	0.338	0.30-0.37	1	1.197	2547/9757	95.76	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence

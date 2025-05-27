@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR23816542_trimmed_1.fastq.gz	GCA_000184455.3.fna	80.0885	98.8026	99.52	81.000	NA-NA	HIGH	NA-NA	81	84.694	136750/158662	99.52	0	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR23816542_trimmed_1.fastq.gz	GCF_000014505.1.fna	19.7749	1.1791	98.94	20.000	NA-NA	HIGH	NA-NA	20	20.871	5656/7865	98.94	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR23816542_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.1366	0.0183	95.16	0.138	94.19-96.42	0.138	0.09-0.19	1	2.594	497/17194	89.20	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence

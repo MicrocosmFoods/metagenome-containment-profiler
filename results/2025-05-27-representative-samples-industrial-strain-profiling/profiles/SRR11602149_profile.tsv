@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR11602149_trimmed_1.fastq.gz	GCF_000010825.1.fna	77.9436	77.0049	99.78	174.000	NA-NA	HIGH	NA-NA	174	228.544	12227/13089	99.78	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR11602149_trimmed_1.fastq.gz	GCF_018351295.1.fna	15.2304	15.1075	99.76	34.000	NA-NA	HIGH	NA-NA	34	31.886	13447/14497	99.76	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR11602149_trimmed_1.fastq.gz	GCF_000014465.1.fna	5.0571	3.5004	98.92	11.289	NA-NA	HIGH	NA-NA	12	11.289	7144/10002	98.92	9	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR11602149_trimmed_1.fastq.gz	GCF_000146045.2.fna	1.0727	3.8573	99.67	2.395	99.64-99.68	2.395	2.33-2.46	2	2.632	40524/49417	99.36	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR11602149_trimmed_1.fastq.gz	GCF_000010145.1.fna	0.6199	0.3848	98.91	1.384	98.83-98.99	1.384	1.31-1.47	2	2.059	4469/8356	98.00	9	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR11602149_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.0703	0.0854	98.80	0.157	98.28-99.17	0.157	0.14-0.18	1	1.083	1716/17194	92.84	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR11602149_trimmed_1.fastq.gz	GCA_000002855.2.fna	0.0059	0.0596	98.54	0.013	97.12-100.75	0.013	0.01-0.02	1	1.008	1218/145947	85.69	1	AM270988.1 Aspergillus niger supercontig An09

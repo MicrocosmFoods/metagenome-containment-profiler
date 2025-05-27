@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395274_trimmed_1.fastq.gz	GCF_000014485.1.fna	77.1489	75.8902	99.84	986.000	NA-NA	HIGH	NA-NA	986	886.314	7227/7600	99.84	31	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR25395274_trimmed_1.fastq.gz	GCF_000015385.1.fna	11.8931	13.0594	99.99	152.000	NA-NA	HIGH	NA-NA	152	160.010	7739/7756	99.99	0	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR25395274_trimmed_1.fastq.gz	GCF_000056065.1.fna	10.0935	9.9332	97.97	129.000	NA-NA	HIGH	NA-NA	129	135.273	3941/7436	97.97	156	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR25395274_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.5676	0.7085	99.93	7.254	NA-NA	HIGH	NA-NA	7	7.254	9533/9757	99.93	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25395274_trimmed_1.fastq.gz	GCF_000014545.1.fna	0.2893	0.3966	99.27	3.697	NA-NA	HIGH	NA-NA	3	3.697	8334/10467	99.27	728	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25395274_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.0076	0.0121	99.63	0.097	98.97-100.53	0.097	0.07-0.12	1	1.121	1073/12830	92.31	25	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

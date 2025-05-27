@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757812_trimmed_1.fastq.gz	GCF_000014445.1.fna	74.1358	57.0170	99.76	8.916	NA-NA	HIGH	NA-NA	9	8.916	8237/8862	99.76	0	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR4757812_trimmed_1.fastq.gz	GCF_018351295.1.fna	14.1549	17.5886	99.60	1.702	99.55-99.65	1.702	1.63-1.77	2	2.257	10468/14497	98.96	19	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR4757812_trimmed_1.fastq.gz	GCF_000014545.1.fna	6.7210	6.4703	98.37	0.808	98.22-98.58	0.808	0.74-0.87	1	1.535	3491/10467	96.52	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757812_trimmed_1.fastq.gz	GCF_000146045.2.fna	4.0558	18.2688	99.48	0.488	99.40-99.59	0.488	0.47-0.50	1	1.273	16273/49417	96.48	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+ERR4757812_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.9325	0.6553	98.39	0.112	97.09-99.51	0.112	0.08-0.17	1	1.541	540/7943	91.69	86	NC_010471.1 Leuconostoc citreum KM20, complete sequence

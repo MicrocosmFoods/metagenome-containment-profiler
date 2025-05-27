@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757829_trimmed_1.fastq.gz	GCF_000007525.1.fna	63.3604	66.2839	99.19	1.413	99.11-99.25	1.413	1.36-1.49	2	1.952	5642/9595	98.30	0	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757829_trimmed_1.fastq.gz	GCA_014058685.1.fna	32.9744	29.7823	98.12	0.735	97.95-98.31	0.735	0.67-0.78	1	1.440	2321/8025	96.08	1	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757829_trimmed_1.fastq.gz	GCF_000015385.1.fna	1.9789	1.9059	97.27	0.044	94.09-97.60	0.044	0.04-0.11	1	1.063	142/7756	87.89	6	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+ERR4757829_trimmed_1.fastq.gz	GCF_000014545.1.fna	1.6863	2.0279	98.86	0.038	96.41-100.53	0.038	0.02-0.08	1	1.018	271/10467	88.88	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence

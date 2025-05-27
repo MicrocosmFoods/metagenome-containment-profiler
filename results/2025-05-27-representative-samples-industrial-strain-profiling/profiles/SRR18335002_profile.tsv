@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR18335002_trimmed_1.fastq.gz	GCF_000010145.1.fna	79.1886	74.3264	99.05	1.750	98.95-99.12	1.750	1.66-1.86	2	2.192	5142/8356	98.45	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR18335002_trimmed_1.fastq.gz	GCF_000014465.1.fna	9.5504	9.9957	98.88	0.211	98.40-99.38	0.211	0.18-0.25	1	1.241	1372/10002	93.79	1	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR18335002_trimmed_1.fastq.gz	GCF_018351295.1.fna	9.1400	13.7089	97.72	0.202	97.26-98.26	0.202	0.17-0.23	1	1.278	1396/14497	92.73	18	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR18335002_trimmed_1.fastq.gz	GCF_000014445.1.fna	2.1210	1.9690	96.56	0.047	93.55-97.26	0.047	0.04-0.11	1	1.203	138/8862	87.44	11	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence

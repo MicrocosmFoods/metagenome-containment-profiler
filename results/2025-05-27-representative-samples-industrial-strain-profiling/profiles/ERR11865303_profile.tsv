@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR11865303_trimmed_1.fastq.gz	GCF_000014545.1.fna	66.6596	70.0193	98.40	132.000	NA-NA	HIGH	NA-NA	132	132.641	6354/10467	98.40	629	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR11865303_trimmed_1.fastq.gz	GCF_000214785.1.fna	16.1599	15.3787	99.63	32.000	NA-NA	HIGH	NA-NA	32	32.733	8601/9636	99.63	34	NC_015602.1 Lactobacillus kefiranofaciens subsp. kefiranofaciens, complete sequence
+ERR11865303_trimmed_1.fastq.gz	GCF_000015385.1.fna	14.1399	11.8949	98.33	28.000	NA-NA	HIGH	NA-NA	28	28.772	4599/7756	98.33	567	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+ERR11865303_trimmed_1.fastq.gz	GCF_000014445.1.fna	2.0140	1.6900	98.68	3.988	NA-NA	HIGH	NA-NA	4	3.988	5873/8862	98.68	1	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR11865303_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.7060	0.7104	99.83	1.398	99.75-99.90	1.398	1.34-1.46	2	1.879	7441/10398	98.93	0	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+ERR11865303_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.3206	0.3066	99.33	0.635	99.12-99.53	0.635	0.58-0.68	1	1.199	4327/9757	97.41	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence

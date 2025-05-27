@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395290_trimmed_1.fastq.gz	GCF_000006865.1.fna	47.9283	50.8683	99.79	4.531	NA-NA	HIGH	NA-NA	4	4.531	9144/9757	99.79	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25395290_trimmed_1.fastq.gz	GCF_000014485.1.fna	34.8522	29.1496	99.78	3.295	NA-NA	HIGH	NA-NA	3	3.295	7104/7600	99.78	16	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR25395290_trimmed_1.fastq.gz	GCF_000014545.1.fna	16.4254	19.1483	99.12	1.553	99.02-99.20	1.553	1.47-1.64	2	2.431	6336/10467	98.39	700	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25395290_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.7941	0.8338	98.05	0.075	96.59-99.41	0.075	0.05-0.12	1	1.090	400/10002	90.14	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence

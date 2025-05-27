@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25203513_trimmed_1.fastq.gz	GCF_000209795.2.fna	82.1935	46.3006	99.05	7.140	NA-NA	HIGH	NA-NA	7	7.140	12788/17194	99.05	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR25203513_trimmed_1.fastq.gz	GCA_000184455.3.fna	8.7478	45.4414	99.39	0.760	99.36-99.42	0.760	0.75-0.77	1	1.457	69999/158662	97.39	1	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR25203513_trimmed_1.fastq.gz	GCF_000146045.2.fna	3.7113	6.1820	99.45	0.322	99.33-99.59	0.322	0.31-0.34	1	1.221	11500/49417	95.41	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR25203513_trimmed_1.fastq.gz	GCF_018351295.1.fna	3.5184	1.6168	99.12	0.306	98.89-99.40	0.306	0.27-0.33	1	1.178	2924/14497	94.97	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR25203513_trimmed_1.fastq.gz	GCF_000014505.1.fna	1.8291	0.4592	98.44	0.159	97.82-99.14	0.159	0.13-0.19	1	1.012	774/7865	92.79	13	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence

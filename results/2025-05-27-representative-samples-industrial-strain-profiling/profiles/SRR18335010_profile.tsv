@@ -1,0 +1,14 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR18335010_trimmed_1.fastq.gz	GCF_018351295.1.fna	76.8159	78.2302	99.78	10.329	NA-NA	HIGH	NA-NA	10	10.329	13522/14497	99.78	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR18335010_trimmed_1.fastq.gz	GCF_000014465.1.fna	8.1244	5.7736	99.44	1.092	99.33-99.53	1.092	1.03-1.15	1	1.768	5623/10002	98.16	12	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR18335010_trimmed_1.fastq.gz	GCF_000026405.1.fna	3.6410	2.0970	98.91	0.490	98.71-99.14	0.490	0.44-0.52	1	1.292	2190/7943	95.93	8	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR18335010_trimmed_1.fastq.gz	GCF_000091765.1.fna	2.8458	1.7657	98.31	0.383	97.97-98.64	0.383	0.34-0.43	1	1.291	1620/8614	94.75	4	NC_014106.1 Lactobacillus crispatus ST1, complete sequence
+SRR18335010_trimmed_1.fastq.gz	GCF_000010145.1.fna	1.7597	1.1214	98.35	0.237	97.85-98.85	0.237	0.20-0.28	1	1.232	1067/8356	93.58	11	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR18335010_trimmed_1.fastq.gz	GCA_014058685.1.fna	1.7450	1.0341	95.54	0.235	94.78-96.21	0.235	0.17-0.31	1	1.157	408/8025	90.84	15	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+SRR18335010_trimmed_1.fastq.gz	GCF_000014445.1.fna	1.4928	0.9409	97.04	0.201	96.36-97.69	0.201	0.16-0.24	1	1.208	639/8862	91.87	61	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR18335010_trimmed_1.fastq.gz	GCF_000209795.2.fna	1.3149	1.6416	98.13	0.177	97.66-98.48	0.177	0.15-0.21	1	1.095	1552/17194	92.54	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR18335010_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.9444	0.5255	97.94	0.127	97.09-99.26	0.127	0.08-0.17	1	1.230	501/7865	91.50	32	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR18335010_trimmed_1.fastq.gz	GCA_026225675.1.fna	0.4356	1.7161	97.75	0.059	96.87-98.59	0.059	0.04-0.08	1	1.031	1478/52676	89.11	0	JAPJTW010000001.1 Saccharomyces boulardii (nom. inval.) strain KCTC 13826BP contig1, whole genome shotgun sequence
+SRR18335010_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.4346	0.3122	98.22	0.058	96.20-100.20	0.058	0.03-0.11	1	1.028	317/9757	89.53	3	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR18335010_trimmed_1.fastq.gz	GCA_000002855.2.fna	0.2428	2.5047	96.63	0.033	95.57-97.65	0.033	0.02-0.04	1	1.018	1620/145947	86.49	0	AM270988.1 Aspergillus niger supercontig An09
+SRR18335010_trimmed_1.fastq.gz	GCA_000184455.3.fna	0.2030	2.3369	96.34	0.027	95.18-97.56	0.027	0.02-0.04	1	1.033	1350/158662	85.75	3	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1

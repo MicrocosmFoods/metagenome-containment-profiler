@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593151_trimmed_1.fastq.gz	GCF_000010145.1.fna	47.3276	26.1952	98.05	5.777	NA-NA	HIGH	NA-NA	5	5.777	4538/8356	98.05	3	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593151_trimmed_1.fastq.gz	GCF_000091765.1.fna	26.9583	14.5263	95.61	3.290	NA-NA	HIGH	NA-NA	3	3.290	2142/8614	95.61	4	NC_014106.1 Lactobacillus crispatus ST1, complete sequence
+SRR27593151_trimmed_1.fastq.gz	GCF_000146045.2.fna	15.8200	50.7222	99.33	1.931	99.30-99.36	1.931	1.89-1.97	2	2.476	34319/49417	98.83	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593151_trimmed_1.fastq.gz	GCF_000010825.1.fna	8.4677	7.4594	97.04	1.034	96.89-97.20	1.034	0.96-1.11	2	2.036	3341/13089	95.69	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593151_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.9627	0.7681	98.38	0.117	97.67-99.01	0.117	0.10-0.15	1	1.091	860/12830	91.65	0	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome
+SRR27593151_trimmed_1.fastq.gz	GCA_001044095.1.fna	0.4638	0.3288	97.96	0.057	96.12-100.37	0.057	0.02-0.10	1	1.012	332/11256	89.26	13	JUIN01000001.1 Lacticaseibacillus rhamnosus strain Lr032 contig00001, whole genome shotgun sequence

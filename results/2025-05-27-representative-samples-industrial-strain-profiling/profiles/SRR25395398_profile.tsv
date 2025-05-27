@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395398_trimmed_1.fastq.gz	GCF_000006865.1.fna	98.1641	97.9961	99.93	1696.000	NA-NA	HIGH	NA-NA	1696	1463.900	9562/9757	99.93	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25395398_trimmed_1.fastq.gz	GCF_000014545.1.fna	1.7943	1.9674	99.71	31.000	NA-NA	HIGH	NA-NA	31	212.939	9558/10467	99.71	699	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25395398_trimmed_1.fastq.gz	GCF_000015385.1.fna	0.0162	0.0143	98.46	0.280	97.95-98.90	0.280	0.24-0.33	1	1.246	1181/7756	94.11	4	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR25395398_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.0129	0.0113	97.18	0.223	96.62-97.71	0.223	0.18-0.27	1	1.289	745/8862	92.32	0	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR25395398_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.0104	0.0083	96.60	0.179	95.83-97.52	0.179	0.13-0.23	1	1.180	467/7943	91.26	48	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR25395398_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0021	0.0026	97.11	0.037	94.03-97.48	0.037	0.03-0.09	1	1.101	188/11907	87.47	40	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence

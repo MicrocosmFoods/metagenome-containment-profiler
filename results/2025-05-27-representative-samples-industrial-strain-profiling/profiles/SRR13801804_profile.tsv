@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13801804_trimmed_1.fastq.gz	GCF_000214785.1.fna	94.2215	93.5416	100.00	1111.000	NA-NA	HIGH	NA-NA	1111	1191.012	9624/9636	100.00	0	NC_015602.1 Lactobacillus kefiranofaciens subsp. kefiranofaciens, complete sequence
+SRR13801804_trimmed_1.fastq.gz	GCF_009739535.1.fna	5.6821	5.9645	99.97	67.000	NA-NA	HIGH	NA-NA	67	74.175	10315/10398	99.97	35	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR13801804_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0963	0.4939	99.36	1.136	99.32-99.40	1.136	1.11-1.16	1	1.730	27620/49417	98.14	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

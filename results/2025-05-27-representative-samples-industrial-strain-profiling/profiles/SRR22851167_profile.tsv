@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR22851167_trimmed_1.fastq.gz	GCF_000014485.1.fna	55.8421	51.1664	99.73	475.000	NA-NA	HIGH	NA-NA	475	456.142	6997/7600	99.73	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR22851167_trimmed_1.fastq.gz	GCF_000006865.1.fna	27.1569	31.5759	99.26	231.000	NA-NA	HIGH	NA-NA	231	218.142	7752/9757	99.26	13	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR22851167_trimmed_1.fastq.gz	GCF_000015385.1.fna	13.7548	14.0685	98.94	117.000	NA-NA	HIGH	NA-NA	117	111.365	5577/7756	98.94	156	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR22851167_trimmed_1.fastq.gz	GCF_000014445.1.fna	1.8810	1.9191	99.24	16.000	NA-NA	HIGH	NA-NA	16	16.090	7000/8862	99.24	7	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR22851167_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.9333	0.8555	99.48	7.938	NA-NA	HIGH	NA-NA	8	7.938	6323/7436	99.48	11	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR22851167_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.3913	0.3648	99.05	3.329	NA-NA	HIGH	NA-NA	3	3.329	5908/7943	99.05	86	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR22851167_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.0407	0.0498	98.66	0.346	98.32-99.02	0.346	0.31-0.38	1	1.209	2035/10398	94.87	21	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome

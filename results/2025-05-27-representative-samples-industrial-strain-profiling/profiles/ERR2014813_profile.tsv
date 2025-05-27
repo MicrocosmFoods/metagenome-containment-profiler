@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR2014813_trimmed_1.fastq.gz	GCF_000014505.1.fna	100.0000	100.0000	97.86	0.141	96.95-98.68	0.141	0.10-0.18	1	1.066	530/7865	91.67	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence

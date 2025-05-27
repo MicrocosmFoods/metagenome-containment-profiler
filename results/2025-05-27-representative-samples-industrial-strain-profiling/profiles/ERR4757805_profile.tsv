@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757805_trimmed_1.fastq.gz	GCF_000014445.1.fna	91.8104	86.8931	99.71	16.000	NA-NA	HIGH	NA-NA	16	15.790	8106/8862	99.71	0	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR4757805_trimmed_1.fastq.gz	GCF_009739535.1.fna	6.5993	7.4893	97.19	1.150	97.04-97.34	1.150	1.06-1.23	2	1.760	2989/10398	96.06	12	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+ERR4757805_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.8419	4.6665	99.53	0.147	99.26-99.76	0.147	0.14-0.16	1	1.104	5856/49417	93.35	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+ERR4757805_trimmed_1.fastq.gz	GCF_000014545.1.fna	0.5613	0.6650	97.08	0.098	95.70-98.41	0.098	0.06-0.15	1	1.062	390/10467	89.93	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757805_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.1871	0.2861	99.40	0.033	97.18-101.52	0.033	0.02-0.06	1	0.965	458/14497	89.45	19	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome

@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR12227961_trimmed_1.fastq.gz	GCF_000014505.1.fna	96.4425	95.9462	98.76	20.000	NA-NA	HIGH	NA-NA	20	20.823	5342/7865	98.76	2	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR12227961_trimmed_1.fastq.gz	GCF_000026405.1.fna	1.3431	1.3830	99.05	0.279	98.64-99.54	0.279	0.24-0.31	1	1.319	1443/7943	94.65	0	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR12227961_trimmed_1.fastq.gz	GCF_000014445.1.fna	1.0472	1.1802	97.11	0.217	96.50-97.77	0.217	0.18-0.26	1	1.461	698/8862	92.13	39	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR12227961_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.6219	0.7901	99.34	0.129	98.73-99.94	0.129	0.11-0.15	1	1.105	994/10002	92.82	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR12227961_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.5454	0.7005	99.02	0.113	98.20-99.66	0.113	0.09-0.14	1	1.059	768/9757	92.13	2	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence

@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757827_trimmed_1.fastq.gz	GCF_000007525.1.fna	56.9717	58.9591	99.09	4.454	NA-NA	HIGH	NA-NA	4	4.454	7218/9595	99.09	0	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757827_trimmed_1.fastq.gz	GCA_014058685.1.fna	30.4025	27.1639	98.04	2.377	97.96-98.22	2.377	1.93-2.50	2	2.762	3940/8025	97.73	2	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757827_trimmed_1.fastq.gz	GCF_000014445.1.fna	3.2408	3.0801	99.45	0.253	99.05-99.85	0.253	0.22-0.29	1	1.388	1754/8862	94.91	6	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR4757827_trimmed_1.fastq.gz	GCF_000014465.1.fna	2.4684	2.6449	98.77	0.193	98.25-99.31	0.193	0.16-0.23	1	1.256	1279/10002	93.58	1	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+ERR4757827_trimmed_1.fastq.gz	GCF_018351295.1.fna	2.4295	3.7306	97.35	0.190	96.80-97.83	0.190	0.16-0.22	1	1.158	1334/14497	92.59	28	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR4757827_trimmed_1.fastq.gz	GCA_000014425.1.fna	1.3058	1.1326	98.58	0.102	97.65-99.77	0.102	0.07-0.14	1	1.175	473/7578	91.44	235	CP000413.1 Lactobacillus gasseri ATCC 33323, complete genome
+ERR4757827_trimmed_1.fastq.gz	GCF_000014545.1.fna	1.0195	1.2129	98.96	0.080	97.93-99.78	0.080	0.06-0.11	1	1.072	582/10467	91.10	3	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757827_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.8186	0.8866	95.23	0.064	92.57-96.42	0.064	0.05-0.14	1	1.113	133/9757	87.06	61	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR4757827_trimmed_1.fastq.gz	GCF_000016825.1.fna	0.6914	0.6330	95.99	0.054	93.03-96.55	0.054	0.05-0.12	1	1.304	125/8055	87.43	5	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+ERR4757827_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.6518	0.5563	99.55	0.051	97.77-101.75	0.051	0.03-0.08	1	1.064	343/7600	90.49	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence

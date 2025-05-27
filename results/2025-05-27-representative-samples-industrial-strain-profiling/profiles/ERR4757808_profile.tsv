@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757808_trimmed_1.fastq.gz	GCF_000026405.1.fna	43.4104	33.9756	99.42	13.746	NA-NA	HIGH	NA-NA	13	13.746	6627/7943	99.42	83	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+ERR4757808_trimmed_1.fastq.gz	GCF_018351295.1.fna	28.4902	39.4289	99.59	9.022	NA-NA	HIGH	NA-NA	8	9.022	12753/14497	99.59	19	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR4757808_trimmed_1.fastq.gz	GCF_000006865.1.fna	14.3172	13.9763	99.16	4.534	NA-NA	HIGH	NA-NA	4	4.534	7510/9757	99.16	5	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR4757808_trimmed_1.fastq.gz	GCF_000014445.1.fna	5.7048	4.8867	99.76	1.806	99.70-99.81	1.806	1.73-1.91	2	2.725	6886/8862	99.19	0	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR4757808_trimmed_1.fastq.gz	GCF_000014465.1.fna	3.3426	3.2280	99.31	1.058	99.21-99.42	1.058	1.00-1.12	1	1.702	5272/10002	97.96	13	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+ERR4757808_trimmed_1.fastq.gz	GCF_000007525.1.fna	2.2755	2.1224	99.20	0.721	99.06-99.39	0.721	0.67-0.77	1	1.440	3846/9595	97.09	0	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757808_trimmed_1.fastq.gz	GCA_014058685.1.fna	1.6014	1.2896	97.74	0.507	97.51-98.01	0.507	0.44-0.55	1	1.289	1570/8025	94.87	1	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757808_trimmed_1.fastq.gz	GCF_000014545.1.fna	0.7521	0.8064	97.05	0.238	96.44-97.64	0.238	0.18-0.29	1	1.475	883/10467	92.33	638	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757808_trimmed_1.fastq.gz	GCF_018289135.1.fna	0.1057	0.2861	95.89	0.033	93.44-97.19	0.033	0.02-0.07	1	1.016	243/27084	85.89	0	NZ_CP072216.1 Bacteroides xylanisolvens strain CL11T00C03 chromosome, complete genome

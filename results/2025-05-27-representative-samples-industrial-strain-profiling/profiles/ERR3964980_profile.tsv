@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR3964980_trimmed_1.fastq.gz	GCF_000014485.1.fna	96.0457	95.7920	99.71	95.000	NA-NA	HIGH	NA-NA	95	91.061	6943/7600	99.71	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+ERR3964980_trimmed_1.fastq.gz	GCF_000011985.1.fna	3.5969	3.8364	99.77	3.558	NA-NA	HIGH	NA-NA	3	3.558	7853/8425	99.77	0	NC_006814.3 Lactobacillus acidophilus NCFM, complete sequence
+ERR3964980_trimmed_1.fastq.gz	GCF_000220885.1.fna	0.3574	0.3716	99.54	0.354	99.27-99.83	0.354	0.32-0.39	1	1.182	2153/8332	95.73	0	NC_017215.1 Bifidobacterium animalis subsp. lactis CNCM I-2494, complete sequence

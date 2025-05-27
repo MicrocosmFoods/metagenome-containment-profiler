@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR11036331_trimmed_1.fastq.gz	GCF_000010145.1.fna	76.1063	71.9854	99.58	22.000	NA-NA	HIGH	NA-NA	22	20.541	7330/8356	99.58	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR11036331_trimmed_1.fastq.gz	GCF_000006865.1.fna	15.4459	16.4676	99.01	4.465	NA-NA	HIGH	NA-NA	4	4.465	7175/9757	99.01	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR11036331_trimmed_1.fastq.gz	GCF_000056065.1.fna	8.1542	6.8539	98.17	2.357	98.12-98.40	2.357	1.82-2.45	2	2.740	3798/7436	97.86	14	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR11036331_trimmed_1.fastq.gz	GCA_000002855.2.fna	0.1818	2.7836	99.59	0.053	99.15-99.96	0.053	0.05-0.06	1	1.034	6577/145947	90.48	0	AM270988.1 Aspergillus niger supercontig An09
+SRR11036331_trimmed_1.fastq.gz	GCA_000184455.3.fna	0.1118	1.9095	99.39	0.032	98.69-100.10	0.032	0.03-0.04	1	1.035	4185/158662	88.93	11	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1

@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13308523_trimmed_1.fastq.gz	GCF_000015385.1.fna	90.0744	89.8178	99.70	4599.000	NA-NA	HIGH	NA-NA	4599	4627.176	7075/7756	99.70	22	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR13308523_trimmed_1.fastq.gz	GCF_000006865.1.fna	4.7397	5.3727	99.66	242.000	NA-NA	HIGH	NA-NA	242	197.986	8781/9757	99.66	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR13308523_trimmed_1.fastq.gz	GCF_000014485.1.fna	4.5439	4.0590	99.25	232.000	NA-NA	HIGH	NA-NA	232	231.973	6023/7600	99.25	32	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR13308523_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.4113	0.4906	99.97	21.000	NA-NA	HIGH	NA-NA	21	20.993	10299/10398	99.97	0	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR13308523_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.2022	0.2011	98.51	10.325	NA-NA	HIGH	NA-NA	10	10.325	5571/8862	98.51	10	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR13308523_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0162	0.0227	99.27	0.827	99.14-99.42	0.827	0.77-0.88	1	1.523	5368/11907	97.46	32	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR13308523_trimmed_1.fastq.gz	GCF_000014545.1.fna	0.0058	0.0072	97.72	0.297	97.26-98.22	0.297	0.25-0.34	1	0.943	1803/10467	94.48	714	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR13308523_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0044	0.0255	99.12	0.223	98.93-99.31	0.223	0.21-0.24	1	1.131	7522/49417	94.11	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR13308523_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.0021	0.0033	97.98	0.106	96.97-98.85	0.106	0.08-0.15	1	1.071	816/14497	91.14	67	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome

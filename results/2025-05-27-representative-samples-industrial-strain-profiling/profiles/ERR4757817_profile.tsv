@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757817_trimmed_1.fastq.gz	GCF_000056065.1.fna	50.4632	45.2220	98.39	6.137	NA-NA	HIGH	NA-NA	6	6.137	4489/7436	98.39	16	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+ERR4757817_trimmed_1.fastq.gz	GCF_000014465.1.fna	14.0772	15.8296	99.52	1.712	99.45-99.58	1.712	1.63-1.81	2	2.205	7054/10002	98.88	1	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+ERR4757817_trimmed_1.fastq.gz	GCF_000026405.1.fna	10.2944	9.3816	99.64	1.252	99.54-99.73	1.252	1.19-1.32	2	1.840	5121/7943	98.59	0	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+ERR4757817_trimmed_1.fastq.gz	GCF_000006865.1.fna	8.5606	9.7307	99.22	1.041	99.12-99.33	1.041	0.99-1.10	1	1.638	4958/9757	97.84	5	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR4757817_trimmed_1.fastq.gz	GCF_000014445.1.fna	5.3622	5.3483	99.02	0.652	98.83-99.22	0.652	0.60-0.70	1	1.332	3189/8862	96.76	97	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR4757817_trimmed_1.fastq.gz	GCF_018351295.1.fna	5.3302	8.5895	99.48	0.648	99.33-99.63	0.648	0.61-0.68	1	1.422	5896/14497	97.14	24	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR4757817_trimmed_1.fastq.gz	GCF_000014505.1.fna	2.7156	2.3910	98.58	0.330	98.16-98.98	0.330	0.29-0.37	1	1.185	1432/7865	94.65	28	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+ERR4757817_trimmed_1.fastq.gz	GCF_000010145.1.fna	2.5592	2.5808	99.56	0.311	99.21-99.87	0.311	0.28-0.34	1	1.341	1961/8356	95.43	1	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+ERR4757817_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.6374	0.9266	97.39	0.078	95.88-99.11	0.078	0.04-0.13	1	1.179	441/12830	89.70	35	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757840_trimmed_1.fastq.gz	GCF_000014545.1.fna	99.0954	99.1859	99.58	258.000	NA-NA	HIGH	NA-NA	258	275.089	9180/10467	99.58	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757840_trimmed_1.fastq.gz	GCF_000007525.1.fna	0.3755	0.3269	99.13	0.978	99.00-99.25	0.978	0.92-1.02	1	1.642	4562/9595	97.63	0	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757840_trimmed_1.fastq.gz	GCA_014058685.1.fna	0.2205	0.1658	97.76	0.574	97.48-98.00	0.574	0.52-0.62	1	1.312	1738/8025	95.18	1	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757840_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.1583	0.1783	99.18	0.412	98.98-99.46	0.412	0.37-0.45	1	1.242	3128/11907	95.78	14	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+ERR4757840_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.0759	0.0692	98.93	0.198	98.44-99.38	0.198	0.17-0.23	1	0.808	1661/9757	94.45	659	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR4757840_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.0631	0.0453	98.98	0.164	98.26-99.62	0.164	0.13-0.20	1	1.067	857/7600	93.20	22	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+ERR4757840_trimmed_1.fastq.gz	GCF_018289135.1.fna	0.0113	0.0286	96.66	0.030	94.14-97.77	0.030	0.02-0.06	1	1.015	275/27084	86.24	0	NZ_CP072216.1 Bacteroides xylanisolvens strain CL11T00C03 chromosome, complete genome

@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757816_trimmed_1.fastq.gz	GCF_000146045.2.fna	90.4878	97.1818	99.63	0.668	99.57-99.71	0.668	0.65-0.69	1	1.413	21491/49417	97.35	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+ERR4757816_trimmed_1.fastq.gz	GCF_018351295.1.fna	9.5122	2.8182	95.86	0.070	93.93-98.16	0.070	0.03-0.13	1	1.373	268/14497	87.92	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome

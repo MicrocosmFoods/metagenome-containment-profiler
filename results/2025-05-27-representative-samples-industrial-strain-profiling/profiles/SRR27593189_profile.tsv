@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593189_trimmed_1.fastq.gz	GCF_000209795.2.fna	99.4940	99.6097	99.21	70.000	NA-NA	HIGH	NA-NA	70	62.472	13451/17194	99.21	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR27593189_trimmed_1.fastq.gz	GCF_000756285.1.fna	0.4134	0.3482	95.79	0.291	95.27-96.21	0.291	0.24-0.34	1	1.225	1011/14866	91.69	2	NZ_JPSK01000001.1 Heyndrickxia coagulans strain GBI-30, 6086 contig1, whole genome shotgun sequence
+SRR27593189_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.0926	0.0421	98.75	0.065	97.29-100.37	0.065	0.04-0.11	1	1.038	318/7436	90.33	0	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence

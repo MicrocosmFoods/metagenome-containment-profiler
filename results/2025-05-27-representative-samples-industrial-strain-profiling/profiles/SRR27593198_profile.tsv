@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593198_trimmed_1.fastq.gz	GCF_000014505.1.fna	72.7670	67.7386	99.40	4.983	NA-NA	HIGH	NA-NA	5	4.983	6518/7865	99.40	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593198_trimmed_1.fastq.gz	GCF_000006865.1.fna	14.7197	17.6898	99.19	1.008	99.06-99.31	1.008	0.95-1.06	1	1.826	4808/9757	97.74	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593198_trimmed_1.fastq.gz	GCF_000014485.1.fna	6.4113	6.0718	98.74	0.439	98.50-98.98	0.439	0.39-0.48	1	1.276	1827/7600	95.51	12	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593198_trimmed_1.fastq.gz	GCF_018351295.1.fna	2.8213	4.8068	98.54	0.193	98.08-98.90	0.193	0.17-0.22	1	1.155	1614/14497	93.16	32	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593198_trimmed_1.fastq.gz	GCF_000014465.1.fna	2.4217	2.8791	96.25	0.166	95.36-97.32	0.166	0.11-0.22	1	1.374	468/10002	90.59	7	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR27593198_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.8590	0.8139	96.53	0.059	93.93-97.82	0.059	0.04-0.14	1	1.106	142/7436	88.01	3	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence

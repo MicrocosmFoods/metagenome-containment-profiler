@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR3017097_trimmed_1.fastq.gz	GCF_000146045.2.fna	99.6232	99.8999	99.90	167.000	NA-NA	HIGH	NA-NA	167	156.126	47977/49417	99.90	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR3017097_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.2605	0.0721	99.62	0.437	99.44-99.82	0.437	0.41-0.46	1	1.271	4557/14497	96.34	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR3017097_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.1163	0.0281	98.76	0.195	98.33-99.23	0.195	0.17-0.23	1	1.136	1435/11907	93.40	7	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence

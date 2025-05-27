@@ -1,0 +1,12 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593225_trimmed_1.fastq.gz	GCF_000014505.1.fna	43.3319	36.2360	99.71	33.000	NA-NA	HIGH	NA-NA	33	32.552	7197/7865	99.71	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593225_trimmed_1.fastq.gz	GCF_000010145.1.fna	35.4534	33.9563	99.19	27.000	NA-NA	HIGH	NA-NA	27	24.947	6499/8356	99.19	11	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593225_trimmed_1.fastq.gz	GCF_018351295.1.fna	8.7933	13.4584	99.66	6.697	NA-NA	HIGH	NA-NA	6	6.697	13046/14497	99.66	33	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593225_trimmed_1.fastq.gz	GCA_035231985.1.fna	5.5882	5.2823	97.62	4.256	NA-NA	HIGH	NA-NA	4	4.256	4015/8468	97.62	8	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+SRR27593225_trimmed_1.fastq.gz	GCF_000209795.2.fna	3.9783	7.4642	98.78	3.030	NA-NA	HIGH	NA-NA	3	3.030	11742/17194	98.78	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR27593225_trimmed_1.fastq.gz	GCF_000016825.1.fna	1.2941	1.1809	98.74	0.986	98.62-98.90	0.986	0.92-1.05	1	1.636	3426/8055	97.28	6	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+SRR27593225_trimmed_1.fastq.gz	GCF_000015385.1.fna	1.1672	1.1084	98.32	0.889	98.16-98.48	0.889	0.82-0.95	1	1.589	2729/7756	96.69	21	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593225_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.2614	0.2792	97.25	0.199	96.66-97.84	0.199	0.16-0.25	1	1.253	811/10002	92.22	15	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR27593225_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.0563	0.0479	97.58	0.043	94.80-98.12	0.043	0.04-0.10	1	1.109	147/7436	88.11	46	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593225_trimmed_1.fastq.gz	GCA_000184455.3.fna	0.0481	0.8318	97.91	0.037	97.08-98.79	0.037	0.03-0.05	1	1.030	2990/158662	87.98	0	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR27593225_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0278	0.1545	96.06	0.021	93.47-96.32	0.021	0.02-0.04	1	1.224	308/49417	84.89	1	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

@@ -1,0 +1,12 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593224_trimmed_1.fastq.gz	GCF_000016825.1.fna	72.8437	66.6556	99.06	222.000	NA-NA	HIGH	NA-NA	222	211.423	6005/8055	99.06	2	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+SRR27593224_trimmed_1.fastq.gz	GCF_000010825.1.fna	13.1250	20.0620	95.96	40.000	NA-NA	HIGH	NA-NA	40	40.275	3643/13089	95.96	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593224_trimmed_1.fastq.gz	GCF_000010145.1.fna	7.5469	7.2479	98.96	23.000	NA-NA	HIGH	NA-NA	23	22.661	6050/8356	98.96	11	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593224_trimmed_1.fastq.gz	GCF_000056065.1.fna	3.7606	3.2095	98.57	11.461	NA-NA	HIGH	NA-NA	11	11.461	4754/7436	98.57	15	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593224_trimmed_1.fastq.gz	GCA_035231985.1.fna	1.8431	1.7470	97.70	5.617	NA-NA	HIGH	NA-NA	5	5.617	4112/8468	97.70	7	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+SRR27593224_trimmed_1.fastq.gz	GCF_000015385.1.fna	0.3613	0.3440	98.06	1.101	97.94-98.22	1.101	1.01-1.17	1	1.786	2843/7756	96.81	185	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593224_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.1739	0.2669	99.43	0.530	99.28-99.59	0.530	0.50-0.56	1	1.353	5042/14497	96.65	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593224_trimmed_1.fastq.gz	GCF_000091765.1.fna	0.1364	0.1276	98.42	0.416	98.11-98.70	0.416	0.38-0.46	1	1.251	1803/8614	95.08	9	NC_014106.1 Lactobacillus crispatus ST1, complete sequence
+SRR27593224_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.0769	0.1447	99.42	0.234	99.18-99.70	0.234	0.21-0.26	1	1.124	3004/17194	94.53	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR27593224_trimmed_1.fastq.gz	GCF_000756285.1.fna	0.0738	0.1169	98.65	0.225	98.25-99.10	0.225	0.19-0.25	1	1.155	1973/14866	93.69	1	NZ_JPSK01000001.1 Heyndrickxia coagulans strain GBI-30, 6086 contig1, whole genome shotgun sequence
+SRR27593224_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0583	0.0781	98.34	0.178	97.72-98.75	0.178	0.15-0.21	1	1.134	1190/11907	92.84	34	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence

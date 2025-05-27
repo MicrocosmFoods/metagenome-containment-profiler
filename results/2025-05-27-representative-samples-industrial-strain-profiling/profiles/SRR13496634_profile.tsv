@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13496634_trimmed_1.fastq.gz	GCA_000286295.1.fna	66.7119	67.2412	95.00	188.000	NA-NA	HIGH	NA-NA	188	186.542	1972/9656	95.00	9	ALIF01000007.1 Streptococcus salivarius K12 plasmid pRSSL1, complete sequence, whole genome shotgun sequence
+SRR13496634_trimmed_1.fastq.gz	GCF_000006865.1.fna	33.0011	32.4298	99.38	93.000	NA-NA	HIGH	NA-NA	93	98.128	8055/9757	99.38	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR13496634_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.1216	0.1694	96.41	0.343	96.04-96.84	0.343	0.29-0.39	1	1.334	1361/14497	92.65	37	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR13496634_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.0801	0.0779	98.26	0.226	97.72-98.69	0.226	0.20-0.27	1	1.177	1172/10002	93.32	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR13496634_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.0485	0.0369	98.90	0.137	98.17-99.77	0.137	0.10-0.17	1	1.093	720/7865	92.58	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR13496634_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0369	0.0448	98.17	0.104	97.12-98.94	0.104	0.08-0.14	1	1.115	676/11907	91.16	6	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence

@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395512_trimmed_1.fastq.gz	GCF_000014485.1.fna	77.1454	72.1321	99.95	5134.000	NA-NA	HIGH	NA-NA	5134	4796.983	7494/7600	99.95	16	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR25395512_trimmed_1.fastq.gz	GCF_000006865.1.fna	16.3487	19.3979	99.98	1088.000	NA-NA	HIGH	NA-NA	1088	1110.495	9688/9757	99.98	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25395512_trimmed_1.fastq.gz	GCF_000014545.1.fna	6.4613	8.4208	99.57	430.000	NA-NA	HIGH	NA-NA	430	434.062	9152/10467	99.57	709	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25395512_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.0172	0.0161	99.35	1.143	99.24-99.46	1.143	1.07-1.21	1	1.728	4145/7436	98.13	11	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR25395512_trimmed_1.fastq.gz	GCF_000214785.1.fna	0.0114	0.0135	99.18	0.762	99.03-99.34	0.762	0.71-0.81	1	1.462	3989/9636	97.20	50	NC_015602.1 Lactobacillus kefiranofaciens subsp. kefiranofaciens, complete sequence
+SRR25395512_trimmed_1.fastq.gz	GCF_000015385.1.fna	0.0107	0.0112	98.79	0.713	98.62-98.96	0.713	0.66-0.77	1	1.396	2727/7756	96.68	529	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR25395512_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.0028	0.0029	95.02	0.187	93.86-96.40	0.187	0.10-0.27	1	1.649	407/8862	90.54	7	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR25395512_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.0019	0.0024	99.55	0.127	98.88-100.23	0.127	0.10-0.16	1	1.139	1086/10398	92.97	4	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR25395512_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0005	0.0032	99.12	0.035	98.08-100.10	0.035	0.02-0.05	1	1.029	1289/49417	88.90	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR2182539_trimmed_1.fastq.gz	GCA_000155515.2.fna	32.9967	38.6552	99.17	137.000	NA-NA	HIGH	NA-NA	137	140.207	9910/12830	99.17	168	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome
+SRR2182539_trimmed_1.fastq.gz	GCA_001044095.1.fna	30.1065	31.3360	98.23	125.000	NA-NA	HIGH	NA-NA	125	127.666	6466/11256	98.23	173	JUIN01000001.1 Lacticaseibacillus rhamnosus strain Lr032 contig00001, whole genome shotgun sequence
+SRR2182539_trimmed_1.fastq.gz	GCA_002914895.1.fna	17.1005	12.6904	100.00	71.000	NA-NA	HIGH	NA-NA	71	74.390	8358/8359	100.00	0	NIGQ01000001.1 Bifidobacterium animalis subsp. lactis strain LMG P-17502_2 contig000001, whole genome shotgun sequence
+SRR2182539_trimmed_1.fastq.gz	GCF_000011985.1.fna	12.5243	9.6682	99.99	52.000	NA-NA	HIGH	NA-NA	52	54.847	8395/8425	99.99	0	NC_006814.3 Lactobacillus acidophilus NCFM, complete sequence
+SRR2182539_trimmed_1.fastq.gz	GCF_018351295.1.fna	3.3976	4.4123	99.33	14.107	NA-NA	HIGH	NA-NA	14	14.107	11782/14497	99.33	21	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR2182539_trimmed_1.fastq.gz	GCF_000016825.1.fna	2.4411	1.8902	97.79	10.135	NA-NA	HIGH	NA-NA	11	10.135	4025/8055	97.79	6	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+SRR2182539_trimmed_1.fastq.gz	GCF_000829055.1.fna	0.6553	0.7493	99.72	2.721	NA-NA	HIGH	NA-NA	3	2.721	10757/11730	99.72	0	NZ_AP012544.1 Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393 chromosome, complete genome
+SRR2182539_trimmed_1.fastq.gz	GCA_035231985.1.fna	0.3961	0.3177	97.82	1.645	97.72-97.93	1.645	1.53-1.73	2	2.118	3453/8468	97.15	15	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+SRR2182539_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.3213	0.2319	99.29	1.334	99.19-99.37	1.334	1.26-1.39	2	1.831	4484/7600	98.31	7	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR2182539_trimmed_1.fastq.gz	GCF_000015385.1.fna	0.0606	0.0488	98.23	0.251	97.77-98.77	0.251	0.21-0.30	1	1.129	997/7756	93.60	146	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence

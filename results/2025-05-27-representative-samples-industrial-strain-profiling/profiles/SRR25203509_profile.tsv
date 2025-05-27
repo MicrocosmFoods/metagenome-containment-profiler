@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25203509_trimmed_1.fastq.gz	GCA_000184455.3.fna	98.9001	99.8795	99.46	5.971	NA-NA	HIGH	NA-NA	6	5.971	134048/158662	99.46	0	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR25203509_trimmed_1.fastq.gz	GCF_000209795.2.fna	1.0999	0.1205	98.97	0.066	97.90-99.94	0.066	0.05-0.09	1	0.923	975/17194	91.16	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence

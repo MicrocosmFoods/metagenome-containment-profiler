@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593233_trimmed_1.fastq.gz	GCF_000056065.1.fna	69.1929	65.8836	98.57	101.000	NA-NA	HIGH	NA-NA	101	96.959	4751/7436	98.57	99	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593233_trimmed_1.fastq.gz	GCF_000015385.1.fna	20.5523	21.8352	98.66	30.000	NA-NA	HIGH	NA-NA	30	33.010	5105/7756	98.66	23	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593233_trimmed_1.fastq.gz	GCF_000010145.1.fna	6.7270	7.2079	99.44	9.819	NA-NA	HIGH	NA-NA	10	9.819	7019/8356	99.44	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593233_trimmed_1.fastq.gz	GCF_000016825.1.fna	2.2798	2.3275	98.43	3.328	NA-NA	HIGH	NA-NA	3	3.328	4933/8055	98.43	6	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+SRR27593233_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.7679	0.7308	98.95	1.121	98.83-99.06	1.121	1.05-1.18	1	1.696	3699/7600	97.70	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593233_trimmed_1.fastq.gz	GCA_026225675.1.fna	0.2516	1.6660	99.11	0.367	99.00-99.21	0.367	0.35-0.38	1	1.199	12276/52676	95.41	0	JAPJTW010000001.1 Saccharomyces boulardii (nom. inval.) strain KCTC 13826BP contig1, whole genome shotgun sequence
+SRR27593233_trimmed_1.fastq.gz	GCA_035231985.1.fna	0.2076	0.2195	98.18	0.303	97.72-98.56	0.303	0.26-0.35	1	1.197	1251/8468	94.02	4	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+SRR27593233_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0209	0.1296	96.78	0.030	95.35-99.01	0.030	0.01-0.05	1	1.039	537/49417	86.43	4	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

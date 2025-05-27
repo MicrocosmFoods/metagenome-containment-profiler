@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR22851168_trimmed_1.fastq.gz	GCF_000014485.1.fna	55.9304	51.2466	99.75	697.000	NA-NA	HIGH	NA-NA	697	676.891	7035/7600	99.75	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR22851168_trimmed_1.fastq.gz	GCF_000006865.1.fna	27.0424	31.4423	99.28	337.000	NA-NA	HIGH	NA-NA	337	316.844	7810/9757	99.28	13	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR22851168_trimmed_1.fastq.gz	GCF_000015385.1.fna	13.8823	14.1987	98.93	173.000	NA-NA	HIGH	NA-NA	173	163.317	5562/7756	98.93	177	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR22851168_trimmed_1.fastq.gz	GCF_000014445.1.fna	1.9259	1.9649	99.27	24.000	NA-NA	HIGH	NA-NA	24	23.868	7069/8862	99.27	8	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR22851168_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.7962	0.7298	99.49	9.922	NA-NA	HIGH	NA-NA	10	9.922	6343/7436	99.49	11	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR22851168_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.3627	0.3381	99.23	4.520	NA-NA	HIGH	NA-NA	4	4.520	6243/7943	99.23	87	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR22851168_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.0329	0.0402	99.40	0.410	99.21-99.65	0.410	0.37-0.44	1	1.252	2943/10398	96.01	2	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR22851168_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.0138	0.0228	95.94	0.172	95.10-96.55	0.172	0.14-0.22	1	0.984	734/14497	90.83	50	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR22851168_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0086	0.0123	95.24	0.107	93.88-96.71	0.107	0.06-0.16	1	1.128	289/11907	88.70	49	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR22851168_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.0049	0.0044	98.32	0.061	96.30-100.40	0.061	0.03-0.10	1	1.080	286/7865	89.86	3	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence

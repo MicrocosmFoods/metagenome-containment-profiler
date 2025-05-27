@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR11865472_trimmed_1.fastq.gz	GCF_000006865.1.fna	42.3256	46.3957	99.42	91.000	NA-NA	HIGH	NA-NA	91	92.252	8157/9757	99.42	13	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR11865472_trimmed_1.fastq.gz	GCF_000015385.1.fna	37.6744	36.3279	98.63	81.000	NA-NA	HIGH	NA-NA	81	83.070	5054/7756	98.63	16	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+ERR11865472_trimmed_1.fastq.gz	GCF_000014485.1.fna	20.0000	17.2764	99.68	43.000	NA-NA	HIGH	NA-NA	43	42.300	6891/7600	99.68	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence

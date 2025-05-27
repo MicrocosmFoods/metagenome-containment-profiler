@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25393915_trimmed_1.fastq.gz	GCF_000014445.1.fna	100.0000	100.0000	98.28	0.279	97.80-98.76	0.279	0.23-0.33	1	1.429	1270/8862	93.93	0	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence

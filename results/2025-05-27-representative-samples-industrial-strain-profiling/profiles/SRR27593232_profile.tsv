@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593232_trimmed_1.fastq.gz	GCF_000014445.1.fna	50.2401	37.1231	95.22	4.730	NA-NA	HIGH	NA-NA	4	4.730	1939/8862	95.22	11	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593232_trimmed_1.fastq.gz	GCF_000010145.1.fna	29.9447	22.3708	97.60	2.819	NA-NA	HIGH	NA-NA	3	2.819	3941/8356	97.60	12	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593232_trimmed_1.fastq.gz	GCF_000146045.2.fna	6.5227	28.2276	99.19	0.614	99.11-99.27	0.614	0.59-0.63	1	1.364	17625/49417	96.73	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593232_trimmed_1.fastq.gz	GCF_000010825.1.fna	5.6848	6.7594	98.11	0.535	97.91-98.35	0.535	0.48-0.57	1	1.331	3006/13089	95.37	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593232_trimmed_1.fastq.gz	GCF_000014485.1.fna	5.0820	3.3724	98.68	0.478	98.46-98.96	0.478	0.43-0.52	1	1.284	1920/7600	95.66	5	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593232_trimmed_1.fastq.gz	GCF_000091765.1.fna	1.1802	0.8584	96.18	0.111	94.77-97.67	0.111	0.07-0.17	1	1.039	285/8614	89.59	4	NC_014106.1 Lactobacillus crispatus ST1, complete sequence
+SRR27593232_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.4756	0.3158	97.25	0.045	94.26-97.82	0.045	0.04-0.10	1	1.007	139/7436	87.95	4	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593232_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.4388	0.5238	100.00	0.041	98.61-101.97	0.041	0.02-0.07	1	1.175	636/14497	90.41	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593232_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.4310	0.4487	99.23	0.041	96.88-101.59	0.041	0.02-0.07	1	1.341	381/11907	89.49	7	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence

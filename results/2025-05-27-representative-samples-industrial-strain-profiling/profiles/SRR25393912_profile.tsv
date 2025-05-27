@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25393912_trimmed_1.fastq.gz	GCF_000014485.1.fna	100.0000	100.0000	97.34	0.085	95.89-99.51	0.085	0.04-0.14	1	1.033	271/7600	89.80	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence

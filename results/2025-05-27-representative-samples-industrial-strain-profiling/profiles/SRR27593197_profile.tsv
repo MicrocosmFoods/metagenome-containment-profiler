@@ -1,0 +1,12 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593197_trimmed_1.fastq.gz	GCF_000015385.1.fna	89.0395	87.0309	98.54	98.000	NA-NA	HIGH	NA-NA	98	92.634	4913/7756	98.54	30	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593197_trimmed_1.fastq.gz	GCF_000056065.1.fna	3.7873	3.3177	98.06	4.168	NA-NA	HIGH	NA-NA	4	4.168	4050/7436	98.06	86	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593197_trimmed_1.fastq.gz	GCF_000010825.1.fna	3.7598	5.8990	98.81	4.138	NA-NA	HIGH	NA-NA	5	4.138	9044/13089	98.81	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593197_trimmed_1.fastq.gz	GCF_000010145.1.fna	1.3919	1.3721	99.24	1.532	99.14-99.32	1.532	1.46-1.64	2	2.213	5190/8356	98.48	7	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593197_trimmed_1.fastq.gz	GCF_000091765.1.fna	0.7788	0.7474	95.50	0.857	95.21-95.84	0.857	0.74-0.95	1	1.752	1312/8614	94.11	133	NC_014106.1 Lactobacillus crispatus ST1, complete sequence
+SRR27593197_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.4989	0.7090	99.62	0.549	99.49-99.79	0.549	0.51-0.58	1	1.355	4834/12830	96.90	0	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome
+SRR27593197_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.2019	0.2243	98.17	0.222	97.65-98.55	0.222	0.19-0.26	1	1.114	1098/9757	93.20	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593197_trimmed_1.fastq.gz	GCA_001044095.1.fna	0.1869	0.2360	98.46	0.206	97.92-98.87	0.206	0.18-0.25	1	1.120	1297/11256	93.27	50	JUIN01000001.1 Lacticaseibacillus rhamnosus strain Lr032 contig00001, whole genome shotgun sequence
+SRR27593197_trimmed_1.fastq.gz	GCF_000026505.1.fna	0.1528	0.2161	95.57	0.168	94.69-96.23	0.168	0.12-0.22	1	1.127	472/12422	89.99	966	NC_013198.1 Lacticaseibacillus rhamnosus GG, complete sequence
+SRR27593197_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.1183	0.1153	96.97	0.130	96.01-97.88	0.130	0.09-0.18	1	1.127	418/8862	90.62	12	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593197_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.0839	0.1322	97.35	0.092	96.28-98.36	0.092	0.06-0.12	1	1.250	585/14497	90.16	39	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome

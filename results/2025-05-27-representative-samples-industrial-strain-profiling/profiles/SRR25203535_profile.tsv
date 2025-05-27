@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25203535_trimmed_1.fastq.gz	GCF_000014505.1.fna	81.5847	17.8271	99.02	16.000	NA-NA	HIGH	NA-NA	16	15.998	5787/7865	99.02	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR25203535_trimmed_1.fastq.gz	GCA_000184455.3.fna	18.1527	82.0679	99.34	3.560	NA-NA	HIGH	NA-NA	3	3.560	129073/158662	99.34	0	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR25203535_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.2626	0.1050	98.67	0.052	97.34-100.27	0.052	0.03-0.08	1	0.984	504/14497	89.73	9	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome

@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757845_trimmed_1.fastq.gz	GCF_018351295.1.fna	50.5956	60.0735	99.63	30.000	NA-NA	HIGH	NA-NA	30	30.352	12927/14497	99.63	12	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR4757845_trimmed_1.fastq.gz	GCF_000014465.1.fna	42.1630	34.9330	99.86	25.000	NA-NA	HIGH	NA-NA	25	24.332	9565/10002	99.86	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+ERR4757845_trimmed_1.fastq.gz	GCF_000026405.1.fna	5.1736	3.4739	99.37	3.068	NA-NA	HIGH	NA-NA	3	3.068	6537/7943	99.37	94	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+ERR4757845_trimmed_1.fastq.gz	GCF_000014445.1.fna	2.0678	1.5196	99.49	1.226	99.41-99.58	1.226	1.17-1.29	2	2.011	5360/8862	98.39	22	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence

@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR1981166_trimmed_1.fastq.gz	GCF_000006865.1.fna	67.1585	65.1362	96.61	1.743	96.50-96.73	1.743	1.62-1.85	2	2.283	2773/9757	96.02	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR1981166_trimmed_1.fastq.gz	GCF_018351295.1.fna	13.5629	18.6492	98.18	0.352	97.89-98.45	0.352	0.32-0.39	1	1.182	2462/14497	94.44	9	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR1981166_trimmed_1.fastq.gz	GCF_000014505.1.fna	10.2466	7.6980	98.63	0.266	98.15-99.08	0.266	0.22-0.31	1	1.160	1210/7865	94.14	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+ERR1981166_trimmed_1.fastq.gz	GCA_000286295.1.fna	5.7242	5.6945	96.48	0.149	95.60-97.82	0.149	0.09-0.19	1	1.369	488/9656	90.82	11	ALIF01000007.1 Streptococcus salivarius K12 plasmid pRSSL1, complete sequence, whole genome shotgun sequence
+ERR1981166_trimmed_1.fastq.gz	GCF_000015385.1.fna	3.3078	2.8222	97.14	0.086	95.54-99.02	0.086	0.05-0.14	1	1.242	265/7756	89.68	7	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence

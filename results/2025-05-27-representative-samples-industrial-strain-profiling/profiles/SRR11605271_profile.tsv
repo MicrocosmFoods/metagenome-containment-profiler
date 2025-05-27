@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR11605271_trimmed_1.fastq.gz	GCF_000014485.1.fna	45.3292	41.4258	100.00	231.000	NA-NA	HIGH	NA-NA	231	235.846	7593/7600	100.00	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR11605271_trimmed_1.fastq.gz	GCA_000220135.1.fna	29.0421	34.4929	99.44	148.000	NA-NA	HIGH	NA-NA	148	149.317	8615/10247	99.44	14	CP000303.1 Bifidobacterium breve UCC2003, complete genome
+SRR11605271_trimmed_1.fastq.gz	GCA_002914895.1.fna	18.2494	17.1459	100.00	93.000	NA-NA	HIGH	NA-NA	93	99.685	8357/8359	100.00	0	NIGQ01000001.1 Bifidobacterium animalis subsp. lactis strain LMG P-17502_2 contig000001, whole genome shotgun sequence
+SRR11605271_trimmed_1.fastq.gz	GCF_000056065.1.fna	4.7095	4.3059	99.55	24.000	NA-NA	HIGH	NA-NA	24	24.887	6464/7436	99.55	15	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR11605271_trimmed_1.fastq.gz	GCF_000011985.1.fna	2.6356	2.5758	99.99	13.431	NA-NA	HIGH	NA-NA	13	13.431	8389/8425	99.99	0	NC_006814.3 Lactobacillus acidophilus NCFM, complete sequence
+SRR11605271_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.0177	0.0291	96.86	0.090	95.64-98.15	0.090	0.06-0.13	1	1.047	465/14497	89.50	10	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR11605271_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.0166	0.0247	97.28	0.085	96.01-98.56	0.085	0.05-0.13	1	1.034	446/12830	89.73	11	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

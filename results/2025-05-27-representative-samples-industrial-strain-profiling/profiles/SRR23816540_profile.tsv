@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR23816540_trimmed_1.fastq.gz	GCA_000184455.3.fna	97.0641	99.7331	99.45	1.340	99.43-99.48	1.340	1.32-1.36	2	1.934	98808/158662	98.48	0	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR23816540_trimmed_1.fastq.gz	GCF_018351295.1.fna	2.9359	0.2669	95.77	0.041	93.43-96.09	0.041	0.04-0.08	1	1.020	151/14497	86.31	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome

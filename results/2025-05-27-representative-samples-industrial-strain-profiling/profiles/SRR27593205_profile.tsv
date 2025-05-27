@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593205_trimmed_1.fastq.gz	GCF_000209795.2.fna	42.8634	52.1154	99.69	1.549	99.65-99.74	1.549	1.49-1.60	2	2.282	12313/17194	98.93	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR27593205_trimmed_1.fastq.gz	GCF_000756285.1.fna	33.8079	34.5803	96.76	1.222	96.66-96.88	1.222	1.14-1.30	2	2.034	3811/14866	95.70	2	NZ_JPSK01000001.1 Heyndrickxia coagulans strain GBI-30, 6086 contig1, whole genome shotgun sequence
+SRR27593205_trimmed_1.fastq.gz	GCF_000014485.1.fna	14.2374	7.8492	98.61	0.515	98.40-98.86	0.515	0.46-0.55	1	1.302	1983/7600	95.76	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593205_trimmed_1.fastq.gz	GCF_000010145.1.fna	4.0095	2.4885	97.97	0.145	97.20-98.78	0.145	0.11-0.18	1	1.079	604/8356	91.87	1	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593205_trimmed_1.fastq.gz	GCF_000091765.1.fna	3.1057	1.8766	99.23	0.112	98.34-99.95	0.112	0.09-0.15	1	1.079	719/8614	92.30	0	NC_014106.1 Lactobacillus crispatus ST1, complete sequence
+SRR27593205_trimmed_1.fastq.gz	GCF_000056065.1.fna	1.9761	1.0899	95.32	0.071	93.02-96.62	0.071	0.05-0.14	1	1.034	116/7436	87.44	4	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence

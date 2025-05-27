@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593183_trimmed_1.fastq.gz	GCF_000014505.1.fna	52.7300	46.8288	99.69	79.000	NA-NA	HIGH	NA-NA	79	74.890	7134/7865	99.69	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593183_trimmed_1.fastq.gz	GCF_000006865.1.fna	40.7156	46.6807	99.02	61.000	NA-NA	HIGH	NA-NA	61	56.696	7180/9757	99.02	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593183_trimmed_1.fastq.gz	GCF_000091765.1.fna	6.5544	6.4905	98.50	9.820	NA-NA	HIGH	NA-NA	9	9.820	5384/8614	98.50	6	NC_014106.1 Lactobacillus crispatus ST1, complete sequence

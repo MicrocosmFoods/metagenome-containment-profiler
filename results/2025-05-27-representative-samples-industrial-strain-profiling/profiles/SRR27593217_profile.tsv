@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593217_trimmed_1.fastq.gz	GCF_000146045.2.fna	97.3432	99.4395	99.55	75.000	NA-NA	HIGH	NA-NA	75	72.918	42914/49417	99.55	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593217_trimmed_1.fastq.gz	GCF_000015385.1.fna	1.6048	0.2806	98.06	1.236	97.92-98.21	1.236	1.15-1.31	2	1.833	3001/7756	96.98	0	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593217_trimmed_1.fastq.gz	GCF_000010825.1.fna	0.9046	0.2539	97.92	0.697	97.75-98.09	0.697	0.65-0.74	1	1.419	3431/13089	95.77	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593217_trimmed_1.fastq.gz	GCF_000010145.1.fna	0.1473	0.0260	97.43	0.114	96.12-98.61	0.114	0.07-0.17	1	1.150	401/8356	90.67	1	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence

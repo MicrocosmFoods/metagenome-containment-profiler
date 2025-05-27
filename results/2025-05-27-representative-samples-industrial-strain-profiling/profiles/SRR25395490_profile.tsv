@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395490_trimmed_1.fastq.gz	GCF_000014545.1.fna	87.9394	89.2827	100.00	2142.000	NA-NA	HIGH	NA-NA	2142	2133.870	10458/10467	100.00	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25395490_trimmed_1.fastq.gz	GCF_000006865.1.fna	8.0878	7.4758	99.72	197.000	NA-NA	HIGH	NA-NA	197	320.919	8947/9757	99.72	710	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25395490_trimmed_1.fastq.gz	GCF_000014445.1.fna	3.9002	3.1634	98.83	95.000	NA-NA	HIGH	NA-NA	95	89.100	6152/8862	98.83	2	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR25395490_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.0321	0.0312	99.82	0.781	99.67-99.96	0.781	0.73-0.83	1	1.474	5339/10398	97.87	2	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR25395490_trimmed_1.fastq.gz	GCF_000015385.1.fna	0.0141	0.0115	98.48	0.344	98.14-98.88	0.344	0.30-0.38	1	1.252	1425/7756	94.68	55	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR25395490_trimmed_1.fastq.gz	GCF_000214785.1.fna	0.0099	0.0091	95.25	0.241	94.47-95.95	0.241	0.19-0.32	1	1.660	471/9636	90.72	189	NC_015602.1 Lactobacillus kefiranofaciens subsp. kefiranofaciens, complete sequence
+SRR25395490_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.0053	0.0048	98.26	0.129	97.56-99.10	0.129	0.10-0.16	1	1.171	707/10002	91.81	10	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR25395490_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0046	0.0053	99.26	0.112	98.66-100.09	0.112	0.08-0.14	1	1.203	1059/11907	92.49	22	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR25395490_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.0037	0.0027	98.82	0.090	97.72-99.81	0.090	0.06-0.13	1	0.965	510/7600	91.65	34	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR25395490_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0028	0.0135	96.90	0.069	96.11-97.64	0.069	0.05-0.09	1	1.106	1249/49417	88.81	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

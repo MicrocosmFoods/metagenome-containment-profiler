@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13496631_trimmed_1.fastq.gz	GCF_000014465.1.fna	38.8448	35.2438	99.06	10.904	NA-NA	HIGH	NA-NA	11	10.904	7473/10002	99.06	8	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR13496631_trimmed_1.fastq.gz	GCF_000006865.1.fna	27.6715	25.3784	99.65	7.767	NA-NA	HIGH	NA-NA	8	7.767	8764/9757	99.65	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR13496631_trimmed_1.fastq.gz	GCF_018351295.1.fna	24.5265	31.8898	95.54	6.885	NA-NA	HIGH	NA-NA	5	6.885	3525/14497	95.54	51	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR13496631_trimmed_1.fastq.gz	GCF_000014445.1.fna	8.0520	6.4800	99.29	2.260	99.23-99.34	2.260	2.13-2.37	2	2.575	6369/8862	98.94	2	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR13496631_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.7081	0.8028	99.54	0.199	99.10-99.95	0.199	0.17-0.23	1	1.169	1969/11907	94.36	0	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR13496631_trimmed_1.fastq.gz	GCA_001044095.1.fna	0.1970	0.2053	96.90	0.055	94.90-98.95	0.055	0.03-0.10	1	1.068	234/11256	88.25	27	JUIN01000001.1 Lacticaseibacillus rhamnosus strain Lr032 contig00001, whole genome shotgun sequence

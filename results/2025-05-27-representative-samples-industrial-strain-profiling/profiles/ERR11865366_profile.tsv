@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR11865366_trimmed_1.fastq.gz	GCF_000006865.1.fna	69.7724	70.0858	99.64	119.000	NA-NA	HIGH	NA-NA	119	118.035	8735/9757	99.64	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR11865366_trimmed_1.fastq.gz	GCF_000014545.1.fna	17.0033	18.7603	98.68	29.000	NA-NA	HIGH	NA-NA	29	26.336	6937/10467	98.68	687	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR11865366_trimmed_1.fastq.gz	GCF_000016825.1.fna	10.5538	8.9611	97.56	18.000	NA-NA	HIGH	NA-NA	18	17.121	3741/8055	97.56	1	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+ERR11865366_trimmed_1.fastq.gz	GCA_014058685.1.fna	1.7469	1.4475	98.19	2.979	NA-NA	HIGH	NA-NA	3	2.979	4554/8025	98.19	1	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR11865366_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.7487	0.5929	96.51	1.277	96.32-96.69	1.277	1.16-1.41	2	1.815	1796/7436	95.52	7	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+ERR11865366_trimmed_1.fastq.gz	GCF_000091765.1.fna	0.1237	0.1073	96.90	0.211	96.08-97.54	0.211	0.17-0.27	2	1.829	841/8614	92.77	37	NC_014106.1 Lactobacillus crispatus ST1, complete sequence
+ERR11865366_trimmed_1.fastq.gz	GCA_035231985.1.fna	0.0512	0.0450	97.13	0.087	95.67-98.68	0.087	0.05-0.14	1	1.306	297/8468	89.76	4	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome

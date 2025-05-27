@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395159_trimmed_1.fastq.gz	GCF_000006865.1.fna	58.3167	56.2790	99.97	618.000	NA-NA	HIGH	NA-NA	618	654.081	9662/9757	99.97	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25395159_trimmed_1.fastq.gz	GCF_000014545.1.fna	40.0102	42.4113	98.54	424.000	NA-NA	HIGH	NA-NA	424	464.327	6632/10467	98.54	708	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25395159_trimmed_1.fastq.gz	GCF_000014485.1.fna	1.4155	1.0765	99.40	15.000	NA-NA	HIGH	NA-NA	15	14.628	6311/7600	99.40	16	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR25395159_trimmed_1.fastq.gz	GCF_000015385.1.fna	0.1850	0.1571	98.22	1.961	98.13-98.32	1.961	1.78-2.06	2	2.401	3827/7756	97.75	420	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR25395159_trimmed_1.fastq.gz	GCF_000214785.1.fna	0.0441	0.0424	98.93	0.468	98.72-99.17	0.468	0.43-0.51	1	1.564	2583/9636	95.84	2	NC_015602.1 Lactobacillus kefiranofaciens subsp. kefiranofaciens, complete sequence
+SRR25395159_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.0128	0.0153	97.83	0.136	97.14-98.51	0.136	0.11-0.17	1	1.043	791/11907	91.62	29	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+SRR25395159_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.0081	0.0111	96.39	0.086	95.03-97.74	0.086	0.05-0.13	1	1.413	392/14497	89.01	51	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR25395159_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.0039	0.0040	99.42	0.042	97.64-101.40	0.042	0.02-0.07	1	1.163	356/10398	89.69	41	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR25395159_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.0037	0.0035	99.44	0.039	97.03-101.47	0.039	0.02-0.08	1	1.139	324/10002	89.53	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence

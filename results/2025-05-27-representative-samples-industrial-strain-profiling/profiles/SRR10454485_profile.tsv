@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10454485_trimmed_1.fastq.gz	GCF_000014465.1.fna	39.1861	15.2538	99.44	3.553	NA-NA	HIGH	NA-NA	3	3.553	8411/10002	99.44	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR10454485_trimmed_1.fastq.gz	GCF_000146045.2.fna	37.3363	75.5002	99.43	3.386	NA-NA	HIGH	NA-NA	3	3.386	41444/49417	99.43	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR10454485_trimmed_1.fastq.gz	GCF_000006865.1.fna	18.2584	7.1844	99.46	1.656	99.39-99.53	1.656	1.59-1.72	2	2.110	6675/9757	98.78	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR10454485_trimmed_1.fastq.gz	GCF_000014545.1.fna	3.3717	1.4572	96.73	0.306	96.29-97.34	0.306	0.25-0.36	1	1.696	984/10467	92.66	555	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR10454485_trimmed_1.fastq.gz	GCF_000026405.1.fna	1.1244	0.3547	96.68	0.102	95.16-98.74	0.102	0.05-0.16	1	1.047	274/7943	89.71	3	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR10454485_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.7231	0.2497	97.49	0.066	95.72-99.67	0.066	0.03-0.11	1	1.073	261/8862	89.25	14	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence

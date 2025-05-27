@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757860_trimmed_1.fastq.gz	GCF_000007525.1.fna	66.2277	67.2217	98.94	3.171	NA-NA	HIGH	NA-NA	3	3.171	6906/9595	98.94	0	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757860_trimmed_1.fastq.gz	GCA_014058685.1.fna	26.3599	23.0995	98.02	1.262	97.89-98.18	1.262	1.15-1.33	2	1.895	3100/8025	96.98	0	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757860_trimmed_1.fastq.gz	GCF_000014485.1.fna	2.8269	2.3665	97.85	0.135	96.92-98.69	0.135	0.10-0.18	1	1.067	490/7600	91.54	1	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+ERR4757860_trimmed_1.fastq.gz	GCF_000016825.1.fna	1.6978	1.5245	95.20	0.081	92.87-96.93	0.081	0.05-0.17	1	1.263	137/8055	87.68	0	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+ERR4757860_trimmed_1.fastq.gz	GCF_000014545.1.fna	1.5280	1.7829	97.53	0.073	95.91-99.42	0.073	0.04-0.13	1	1.035	340/10467	89.53	3	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757860_trimmed_1.fastq.gz	GCF_018289135.1.fna	1.3598	4.0049	97.04	0.065	95.88-98.51	0.065	0.04-0.09	1	1.054	672/27084	88.76	0	NZ_CP072216.1 Bacteroides xylanisolvens strain CL11T00C03 chromosome, complete genome

@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR11605264_trimmed_1.fastq.gz	GCF_000014485.1.fna	99.8924	99.8213	100.00	599.000	NA-NA	HIGH	NA-NA	599	608.902	7593/7600	100.00	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR11605264_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.0573	0.0727	99.27	0.344	98.96-99.54	0.344	0.31-0.37	1	1.206	2267/9757	95.40	14	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR11605264_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.0402	0.0402	98.32	0.241	97.77-98.74	0.241	0.21-0.28	1	1.136	943/7436	93.56	11	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR11605264_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0101	0.0659	95.45	0.061	94.34-96.66	0.061	0.04-0.09	1	1.055	686/49417	87.11	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

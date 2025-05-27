@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR8830667_trimmed_1.fastq.gz	GCF_000209795.2.fna	100.0000	100.0000	99.74	1.218	99.68-99.80	1.218	1.18-1.25	1	1.761	11174/17194	98.62	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence

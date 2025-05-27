@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR9640348_trimmed_1.fastq.gz	GCF_000010825.1.fna	91.6045	94.4743	99.66	666.000	NA-NA	HIGH	NA-NA	666	647.983	11764/13089	99.66	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR9640348_trimmed_1.fastq.gz	GCF_000010145.1.fna	8.2527	5.3476	98.71	60.000	NA-NA	HIGH	NA-NA	60	55.115	5595/8356	98.71	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR9640348_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.1265	0.1606	98.50	0.920	98.39-98.60	0.920	0.87-0.96	1	1.553	6479/17194	96.90	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR9640348_trimmed_1.fastq.gz	GCF_000756285.1.fna	0.0163	0.0174	97.70	0.119	96.91-98.42	0.119	0.09-0.15	1	1.068	813/14866	91.05	2	NZ_JPSK01000001.1 Heyndrickxia coagulans strain GBI-30, 6086 contig1, whole genome shotgun sequence

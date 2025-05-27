@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593182_trimmed_1.fastq.gz	GCF_000010145.1.fna	59.5381	60.4028	98.23	0.744	98.03-98.40	0.744	0.68-0.81	1	1.464	2525/8356	96.21	0	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593182_trimmed_1.fastq.gz	GCF_000014485.1.fna	27.5294	24.8084	98.71	0.344	98.29-99.11	0.344	0.30-0.39	1	1.162	1558/7600	95.02	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593182_trimmed_1.fastq.gz	GCF_000006865.1.fna	12.9324	14.7888	98.48	0.162	97.85-98.93	0.162	0.13-0.20	1	1.101	909/9757	92.63	6	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence

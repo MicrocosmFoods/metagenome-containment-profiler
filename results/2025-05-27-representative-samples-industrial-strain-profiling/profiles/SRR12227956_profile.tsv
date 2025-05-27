@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR12227956_trimmed_1.fastq.gz	GCF_000014505.1.fna	76.3235	71.5589	99.23	36.000	NA-NA	HIGH	NA-NA	36	35.269	6187/7865	99.23	1	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR12227956_trimmed_1.fastq.gz	GCF_000014445.1.fna	18.5843	19.7384	99.39	8.766	NA-NA	HIGH	NA-NA	9	8.766	7335/8862	99.39	0	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR12227956_trimmed_1.fastq.gz	GCF_018351295.1.fna	4.9303	8.4603	98.99	2.326	98.94-99.04	2.326	2.23-2.43	2	2.550	9580/14497	98.67	49	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR12227956_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.1620	0.2423	97.10	0.076	95.87-99.49	0.076	0.03-0.11	1	1.622	392/11907	89.57	18	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence

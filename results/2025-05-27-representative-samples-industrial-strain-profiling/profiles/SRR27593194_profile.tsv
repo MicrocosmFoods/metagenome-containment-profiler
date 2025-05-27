@@ -1,0 +1,11 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593194_trimmed_1.fastq.gz	GCF_000015385.1.fna	77.5708	75.2979	98.54	119.000	NA-NA	HIGH	NA-NA	119	114.548	4919/7756	98.54	32	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593194_trimmed_1.fastq.gz	GCF_000010145.1.fna	7.6388	7.4783	99.33	11.719	NA-NA	HIGH	NA-NA	12	11.719	6777/8356	99.33	8	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593194_trimmed_1.fastq.gz	GCF_000056065.1.fna	6.8239	5.9366	98.28	10.468	NA-NA	HIGH	NA-NA	10	10.468	4340/7436	98.28	90	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593194_trimmed_1.fastq.gz	GCF_000010825.1.fna	4.3943	6.8470	97.77	6.741	NA-NA	HIGH	NA-NA	7	6.741	6509/13089	97.77	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593194_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.8893	0.8611	96.10	1.364	95.88-96.24	1.364	1.24-1.52	2	2.009	1929/8862	95.20	25	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593194_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.7164	0.7905	99.14	1.099	99.04-99.25	1.099	1.04-1.15	1	1.717	4978/9757	97.85	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593194_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.6548	1.0244	98.53	1.005	98.42-98.66	1.005	0.95-1.06	1	1.791	5833/14497	97.11	41	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593194_trimmed_1.fastq.gz	GCA_001044095.1.fna	0.5336	0.6691	99.26	0.819	99.12-99.39	0.819	0.77-0.87	1	1.563	4998/11256	97.42	72	JUIN01000001.1 Lacticaseibacillus rhamnosus strain Lr032 contig00001, whole genome shotgun sequence
+SRR27593194_trimmed_1.fastq.gz	GCF_000026505.1.fna	0.3992	0.5605	96.16	0.612	95.95-96.42	0.612	0.55-0.66	1	1.399	1691/12422	93.77	3292	NC_013198.1 Lacticaseibacillus rhamnosus GG, complete sequence
+SRR27593194_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.3787	0.5345	99.45	0.581	99.30-99.62	0.581	0.54-0.62	1	1.394	4803/12830	96.88	0	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome

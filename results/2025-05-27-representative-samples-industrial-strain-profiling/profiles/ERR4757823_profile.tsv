@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757823_trimmed_1.fastq.gz	GCF_000014545.1.fna	84.8689	86.5097	99.97	187.000	NA-NA	HIGH	NA-NA	187	189.911	10367/10467	99.97	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757823_trimmed_1.fastq.gz	GCF_000006865.1.fna	9.9846	9.2659	99.68	22.000	NA-NA	HIGH	NA-NA	22	21.296	8838/9757	99.68	710	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR4757823_trimmed_1.fastq.gz	GCF_000014445.1.fna	4.8746	3.9695	98.67	10.741	NA-NA	HIGH	NA-NA	11	10.741	5848/8862	98.67	1	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR4757823_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.2288	0.2234	99.97	0.504	99.81-100.18	0.504	0.46-0.53	1	1.296	4082/10398	97.03	2	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+ERR4757823_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.0432	0.0316	96.24	0.095	94.34-97.98	0.095	0.05-0.16	1	1.155	232/7600	89.35	34	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence

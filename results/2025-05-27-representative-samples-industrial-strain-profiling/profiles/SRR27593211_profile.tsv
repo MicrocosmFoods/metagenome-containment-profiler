@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593211_trimmed_1.fastq.gz	GCF_000014445.1.fna	78.7413	77.8774	96.93	99.000	NA-NA	HIGH	NA-NA	99	94.658	3367/8862	96.93	101	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593211_trimmed_1.fastq.gz	GCF_000010145.1.fna	18.2934	18.2925	99.56	23.000	NA-NA	HIGH	NA-NA	23	21.733	7295/8356	99.56	8	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593211_trimmed_1.fastq.gz	GCF_000006865.1.fna	1.3534	1.5255	99.17	1.702	99.09-99.25	1.702	1.60-1.81	2	2.928	6168/9757	98.53	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593211_trimmed_1.fastq.gz	GCF_018351295.1.fna	1.0858	1.7351	99.58	1.365	99.51-99.65	1.365	1.31-1.42	2	1.978	9493/14497	98.64	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593211_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.2630	0.2337	97.74	0.331	97.29-98.16	0.331	0.28-0.39	1	1.193	1033/7436	93.83	13	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593211_trimmed_1.fastq.gz	GCF_000026405.1.fna	0.1685	0.1523	97.16	0.212	96.44-97.99	0.212	0.15-0.28	1	1.289	827/7943	92.96	12	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR27593211_trimmed_1.fastq.gz	GCA_035231985.1.fna	0.0757	0.0748	98.24	0.095	97.07-99.12	0.095	0.07-0.14	1	1.059	443/8468	90.92	2	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+SRR27593211_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0188	0.1088	97.91	0.024	96.04-99.80	0.024	0.01-0.04	1	1.012	600/49417	86.74	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

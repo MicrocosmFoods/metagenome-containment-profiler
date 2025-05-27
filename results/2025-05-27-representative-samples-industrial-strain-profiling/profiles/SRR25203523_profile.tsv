@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25203523_trimmed_1.fastq.gz	GCF_000014505.1.fna	97.2571	89.5013	99.43	653.000	NA-NA	HIGH	NA-NA	653	581.205	6581/7865	99.43	30	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR25203523_trimmed_1.fastq.gz	GCF_018351295.1.fna	2.3830	4.0137	99.71	16.000	NA-NA	HIGH	NA-NA	16	16.128	13264/14497	99.71	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR25203523_trimmed_1.fastq.gz	GCA_000184455.3.fna	0.3306	6.2943	99.44	2.220	99.42-99.45	2.220	2.19-2.24	2	2.541	118776/158662	99.07	0	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR25203523_trimmed_1.fastq.gz	GCA_026225675.1.fna	0.0293	0.1907	99.34	0.197	99.13-99.53	0.197	0.18-0.21	1	1.118	7665/52676	93.97	0	JAPJTW010000001.1 Saccharomyces boulardii (nom. inval.) strain KCTC 13826BP contig1, whole genome shotgun sequence

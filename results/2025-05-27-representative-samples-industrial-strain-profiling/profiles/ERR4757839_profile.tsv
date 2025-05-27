@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757839_trimmed_1.fastq.gz	GCF_000007525.1.fna	62.3852	63.9840	99.23	1.418	99.14-99.29	1.418	1.36-1.50	2	1.955	5720/9595	98.35	0	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757839_trimmed_1.fastq.gz	GCA_014058685.1.fna	33.8743	29.9951	97.95	0.770	97.79-98.16	0.770	0.70-0.82	1	1.462	2267/8025	96.00	0	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757839_trimmed_1.fastq.gz	GCF_000014485.1.fna	2.3994	2.0297	95.98	0.055	92.44-97.04	0.055	0.05-0.14	1	1.027	113/7600	87.31	1	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+ERR4757839_trimmed_1.fastq.gz	GCF_018289135.1.fna	1.3411	3.9912	97.17	0.030	95.04-98.46	0.030	0.02-0.06	1	1.021	334/27084	86.78	0	NZ_CP072216.1 Bacteroides xylanisolvens strain CL11T00C03 chromosome, complete genome

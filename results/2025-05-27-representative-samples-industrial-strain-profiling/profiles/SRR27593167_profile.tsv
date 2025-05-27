@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593167_trimmed_1.fastq.gz	GCF_000014445.1.fna	98.6411	98.7778	95.99	60.000	NA-NA	HIGH	NA-NA	60	59.810	2489/8862	95.99	6	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR27593167_trimmed_1.fastq.gz	GCF_000014485.1.fna	1.1945	1.0743	98.94	0.727	98.74-99.14	0.727	0.66-0.79	1	1.468	2829/7600	96.86	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593167_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.1644	0.1479	97.00	0.100	95.56-98.86	0.100	0.06-0.16	1	1.065	275/7436	89.91	3	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence

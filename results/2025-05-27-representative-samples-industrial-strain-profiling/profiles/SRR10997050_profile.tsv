@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR10997050_trimmed_1.fastq.gz	GCF_000014445.1.fna	54.8740	52.7148	98.02	3.234	NA-NA	HIGH	NA-NA	3	3.234	4763/8862	98.02	46	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR10997050_trimmed_1.fastq.gz	GCF_000014545.1.fna	23.0639	27.7343	98.03	1.359	97.90-98.14	1.359	1.26-1.43	2	1.872	4207/10467	97.10	0	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR10997050_trimmed_1.fastq.gz	GCF_000026405.1.fna	21.3833	18.7690	98.77	1.260	98.63-98.89	1.260	1.17-1.33	2	1.792	3933/7943	97.76	0	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR10997050_trimmed_1.fastq.gz	GCF_009739535.1.fna	0.6788	0.7819	97.09	0.040	94.55-97.55	0.040	0.04-0.08	1	1.201	169/10398	87.56	0	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome

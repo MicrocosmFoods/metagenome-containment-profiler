@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395483_trimmed_1.fastq.gz	GCF_000014545.1.fna	83.7025	86.1557	99.71	2191.000	NA-NA	HIGH	NA-NA	2191	2202.213	9580/10467	99.71	699	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+SRR25395483_trimmed_1.fastq.gz	GCF_000015385.1.fna	11.6519	9.6051	99.54	305.000	NA-NA	HIGH	NA-NA	305	313.408	6730/7756	99.54	4	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR25395483_trimmed_1.fastq.gz	GCF_000006865.1.fna	3.6675	3.4368	99.95	96.000	NA-NA	HIGH	NA-NA	96	415.553	9603/9757	99.95	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR25395483_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.9551	0.7853	98.25	25.000	NA-NA	HIGH	NA-NA	25	24.826	5134/8862	98.25	6	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR25395483_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.0231	0.0171	99.37	0.605	99.15-99.58	0.605	0.55-0.65	1	1.315	2876/7600	96.91	40	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence

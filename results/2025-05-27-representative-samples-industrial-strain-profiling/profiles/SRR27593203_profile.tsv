@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593203_trimmed_1.fastq.gz	GCF_000014485.1.fna	36.3843	28.0640	99.02	1.044	98.90-99.14	1.044	0.98-1.11	1	1.655	3630/7600	97.64	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593203_trimmed_1.fastq.gz	GCF_000756285.1.fna	31.9193	45.6777	95.63	0.916	95.44-95.82	0.916	0.83-0.99	1	1.626	2268/14866	94.12	0	NZ_JPSK01000001.1 Heyndrickxia coagulans strain GBI-30, 6086 contig1, whole genome shotgun sequence
+SRR27593203_trimmed_1.fastq.gz	GCF_000010145.1.fna	9.0352	7.8457	98.54	0.259	98.07-98.97	0.259	0.22-0.30	1	1.159	1213/8356	93.96	1	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593203_trimmed_1.fastq.gz	GCA_035231985.1.fna	6.8146	5.8401	98.18	0.196	97.53-98.79	0.196	0.16-0.25	1	1.116	852/8468	92.86	0	CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+SRR27593203_trimmed_1.fastq.gz	GCA_014058685.1.fna	5.2965	4.2765	95.48	0.152	94.29-96.62	0.152	0.10-0.22	1	1.104	270/8025	89.64	2	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+SRR27593203_trimmed_1.fastq.gz	GCF_000056065.1.fna	4.4483	3.4326	96.56	0.128	95.23-97.89	0.128	0.07-0.19	1	1.066	301/7436	90.17	6	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593203_trimmed_1.fastq.gz	GCF_000016825.1.fna	3.4274	2.8357	96.59	0.098	95.03-97.87	0.098	0.06-0.16	1	1.062	257/8055	89.48	0	NC_009513.1 Limosilactobacillus reuteri subsp. reuteri, complete sequence
+SRR27593203_trimmed_1.fastq.gz	GCF_000014505.1.fna	2.6744	2.0276	99.27	0.077	97.99-100.53	0.077	0.05-0.11	1	1.052	464/7865	91.27	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence

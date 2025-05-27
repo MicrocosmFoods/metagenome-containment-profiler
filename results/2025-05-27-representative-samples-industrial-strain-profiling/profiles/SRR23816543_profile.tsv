@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR23816543_trimmed_1.fastq.gz	GCF_000014505.1.fna	46.7091	16.8547	99.80	27.000	NA-NA	HIGH	NA-NA	27	25.622	7393/7865	99.80	32	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR23816543_trimmed_1.fastq.gz	GCF_018351295.1.fna	39.7892	26.2780	99.85	23.000	NA-NA	HIGH	NA-NA	23	22.382	13859/14497	99.85	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR23816543_trimmed_1.fastq.gz	GCA_000184455.3.fna	7.2307	53.9833	99.40	4.180	NA-NA	HIGH	NA-NA	4	4.180	131573/158662	99.40	2	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+SRR23816543_trimmed_1.fastq.gz	GCF_000014465.1.fna	3.2329	1.4899	99.70	1.869	99.65-99.76	1.869	1.78-1.96	2	2.471	7742/10002	99.18	12	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR23816543_trimmed_1.fastq.gz	GCF_000026405.1.fna	2.3071	0.8617	99.26	1.334	99.18-99.33	1.334	1.27-1.40	2	1.851	4666/7943	98.30	11	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+SRR23816543_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.3573	0.2893	98.46	0.207	98.10-98.94	0.207	0.17-0.23	1	1.494	2006/17194	93.30	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR23816543_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.2763	0.1129	98.71	0.160	97.98-99.25	0.160	0.13-0.20	1	1.198	888/8862	92.85	79	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+SRR23816543_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.0534	0.0249	100.00	0.031	97.67-101.62	0.031	0.02-0.06	1	1.051	331/9757	89.66	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR23816543_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.0440	0.1052	99.68	0.025	98.31-101.18	0.025	0.02-0.04	1	1.034	1122/49417	88.51	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence

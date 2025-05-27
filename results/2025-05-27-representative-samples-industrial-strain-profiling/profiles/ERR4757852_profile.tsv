@@ -1,0 +1,12 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757852_trimmed_1.fastq.gz	GCF_000007525.1.fna	46.8801	43.6523	99.10	2.224	99.03-99.16	2.224	2.12-2.38	2	2.557	6463/9595	98.73	0	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+ERR4757852_trimmed_1.fastq.gz	GCA_014058685.1.fna	21.6532	17.4073	98.08	1.027	97.93-98.23	1.027	0.95-1.09	1	1.669	2822/8025	96.68	1	CP059055.1 Lactobacillus johnsonii strain NCK2677 chromosome, complete genome
+ERR4757852_trimmed_1.fastq.gz	GCF_018351295.1.fna	13.6379	18.8422	99.28	0.647	99.13-99.41	0.647	0.61-0.68	1	1.362	5563/14497	96.96	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR4757852_trimmed_1.fastq.gz	GCF_000006865.1.fna	5.3944	5.2571	98.54	0.256	98.13-98.94	0.256	0.22-0.29	1	1.146	1398/9757	93.92	2	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR4757852_trimmed_1.fastq.gz	GCF_000014545.1.fna	2.5292	2.7073	95.34	0.120	94.05-96.64	0.120	0.07-0.18	1	1.119	270/10467	88.87	169	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757852_trimmed_1.fastq.gz	GCF_000014465.1.fna	2.4755	2.3866	98.65	0.117	97.90-99.46	0.117	0.09-0.15	1	1.472	763/10002	92.03	10	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+ERR4757852_trimmed_1.fastq.gz	GCF_000026405.1.fna	2.1857	1.7078	98.98	0.104	97.96-99.87	0.104	0.07-0.14	1	1.044	574/7943	91.87	7	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+ERR4757852_trimmed_1.fastq.gz	GCF_000014525.1.fna	2.0679	2.4912	95.81	0.098	94.37-97.87	0.098	0.05-0.15	1	1.115	340/11907	89.16	15	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+ERR4757852_trimmed_1.fastq.gz	GCF_018289135.1.fna	1.5735	4.2513	95.90	0.075	94.74-97.13	0.075	0.04-0.11	1	1.053	532/27084	88.09	0	NZ_CP072216.1 Bacteroides xylanisolvens strain CL11T00C03 chromosome, complete genome
+ERR4757852_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.8431	0.6474	98.79	0.040	95.82-100.31	0.040	0.03-0.09	1	1.005	207/7600	89.03	11	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+ERR4757852_trimmed_1.fastq.gz	GCF_000014445.1.fna	0.7595	0.6495	98.98	0.036	96.21-100.18	0.036	0.03-0.08	1	1.035	230/8862	88.89	28	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence

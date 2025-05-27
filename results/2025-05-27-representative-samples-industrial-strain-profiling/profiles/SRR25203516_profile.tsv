@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25203516_trimmed_1.fastq.gz	GCA_000184455.3.fna	100.0000	100.0000	99.49	1.561	99.47-99.51	1.561	1.54-1.58	2	2.085	106884/158662	98.73	0	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1

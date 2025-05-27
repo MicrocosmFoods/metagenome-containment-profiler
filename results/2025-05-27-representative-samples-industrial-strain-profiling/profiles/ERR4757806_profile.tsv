@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757806_trimmed_1.fastq.gz	GCF_000014465.1.fna	44.3638	47.4424	99.77	7.813	NA-NA	HIGH	NA-NA	8	7.813	9302/10002	99.77	0	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+ERR4757806_trimmed_1.fastq.gz	GCF_000026405.1.fna	39.6180	34.3361	99.45	6.977	NA-NA	HIGH	NA-NA	7	6.977	6700/7943	99.45	94	NC_010471.1 Leuconostoc citreum KM20, complete sequence
+ERR4757806_trimmed_1.fastq.gz	GCF_000014445.1.fna	8.2502	7.8257	99.72	1.453	99.63-99.79	1.453	1.39-1.53	2	2.134	6303/8862	98.91	2	NC_008531.1 Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete sequence
+ERR4757806_trimmed_1.fastq.gz	GCF_018351295.1.fna	4.5998	7.0492	99.42	0.810	99.31-99.54	0.810	0.77-0.85	1	1.900	7150/14497	97.75	32	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR4757806_trimmed_1.fastq.gz	GCF_000006865.1.fna	1.2575	1.3593	98.76	0.221	98.30-99.18	0.221	0.19-0.26	1	1.141	1320/9757	93.75	5	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR4757806_trimmed_1.fastq.gz	GCF_000014545.1.fna	1.1067	1.3141	98.05	0.195	97.52-98.57	0.195	0.16-0.23	1	1.132	1011/10467	92.74	229	NC_008527.1 Lactococcus cremoris subsp. cremoris SK11, complete sequence
+ERR4757806_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.8040	0.6732	95.52	0.142	94.29-96.54	0.142	0.10-0.22	1	1.117	283/7865	89.83	22	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence

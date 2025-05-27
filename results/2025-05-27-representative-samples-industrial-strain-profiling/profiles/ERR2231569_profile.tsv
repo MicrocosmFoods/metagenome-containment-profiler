@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR2231569_trimmed_1.fastq.gz	GCF_000006865.1.fna	58.0438	54.5020	99.48	11.090	NA-NA	HIGH	NA-NA	11	11.090	8289/9757	99.48	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+ERR2231569_trimmed_1.fastq.gz	GCF_000014465.1.fna	24.7503	22.9909	98.81	4.729	NA-NA	HIGH	NA-NA	4	4.729	6911/10002	98.81	10	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+ERR2231569_trimmed_1.fastq.gz	GCF_018351295.1.fna	16.1617	21.5144	99.19	3.088	NA-NA	HIGH	NA-NA	3	3.088	11253/14497	99.19	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+ERR2231569_trimmed_1.fastq.gz	GCF_000014525.1.fna	0.5382	0.6247	96.81	0.103	95.49-97.90	0.103	0.06-0.16	1	1.146	432/11907	89.85	18	NC_008526.1 Lacticaseibacillus paracasei ATCC 334, complete sequence
+ERR2231569_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.5060	0.3680	97.75	0.097	96.56-99.04	0.097	0.06-0.13	1	1.125	368/7865	90.59	24	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence

@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR11605263_trimmed_1.fastq.gz	GCF_000007525.1.fna	36.7304	32.3670	99.03	190.000	NA-NA	HIGH	NA-NA	190	196.446	7102/9595	99.03	11	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence
+SRR11605263_trimmed_1.fastq.gz	GCF_018351295.1.fna	32.8641	42.9698	99.21	170.000	NA-NA	HIGH	NA-NA	170	172.839	11337/14497	99.21	6	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR11605263_trimmed_1.fastq.gz	GCF_000015385.1.fna	30.3509	24.6233	98.56	157.000	NA-NA	HIGH	NA-NA	157	166.161	4941/7756	98.56	13	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR11605263_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.0478	0.0348	99.36	0.248	98.89-99.78	0.248	0.21-0.29	1	1.120	1371/7600	94.63	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR11605263_trimmed_1.fastq.gz	GCF_000220885.1.fna	0.0067	0.0051	100.00	0.035	98.13-102.70	0.035	0.02-0.07	1	0.970	369/8332	90.43	0	NC_017215.1 Bifidobacterium animalis subsp. lactis CNCM I-2494, complete sequence

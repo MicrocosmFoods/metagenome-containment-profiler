@@ -1,0 +1,13 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593193_trimmed_1.fastq.gz	GCF_000056065.1.fna	47.9444	41.2594	98.67	17.000	NA-NA	HIGH	NA-NA	17	16.514	4903/7436	98.67	25	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_000014465.1.fna	33.3305	35.9920	98.03	11.818	NA-NA	HIGH	NA-NA	12	11.818	5402/10002	98.03	12	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_000010145.1.fna	8.6864	8.4119	98.72	3.080	NA-NA	HIGH	NA-NA	3	3.080	5613/8356	98.72	10	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_000010825.1.fna	3.2256	4.9717	96.16	1.144	95.97-96.27	1.144	1.07-1.25	2	1.904	2650/13089	94.98	0	NC_013209.1 Acetobacter pasteurianus IFO 3283-01, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_000015385.1.fna	2.1328	2.0479	98.33	0.756	98.11-98.51	0.756	0.70-0.83	1	1.501	2467/7756	96.37	108	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_000014485.1.fna	1.4148	1.2170	98.78	0.502	98.53-99.07	0.502	0.45-0.55	1	1.310	2137/7600	95.99	17	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_018351295.1.fna	1.3683	2.1174	98.87	0.485	98.68-99.07	0.485	0.44-0.52	1	1.372	3990/14497	95.92	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593193_trimmed_1.fastq.gz	GCF_000014505.1.fna	0.7357	0.6221	97.61	0.261	97.14-98.12	0.261	0.21-0.30	1	1.184	859/7865	93.11	18	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_000209795.2.fna	0.4725	0.8964	99.19	0.168	98.80-99.48	0.168	0.15-0.19	1	1.095	2063/17194	93.39	0	NC_017196.2 Bacillus subtilis subsp. natto BEST195, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.4101	0.4476	98.81	0.145	98.14-99.33	0.145	0.12-0.18	1	1.077	924/9757	92.68	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCF_000146045.2.fna	0.2408	1.3508	98.39	0.085	97.84-98.90	0.085	0.07-0.10	1	1.076	2448/49417	90.76	0	NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+SRR27593193_trimmed_1.fastq.gz	GCA_000184455.3.fna	0.0381	0.6658	96.70	0.013	94.82-98.31	0.013	0.01-0.02	1	1.017	756/158662	84.16	1	BA000049.1 Aspergillus oryzae RIB40 DNA, chromosome 1

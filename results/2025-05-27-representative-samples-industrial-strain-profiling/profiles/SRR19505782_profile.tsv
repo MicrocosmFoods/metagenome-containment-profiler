@@ -1,0 +1,5 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR19505782_trimmed_1.fastq.gz	GCF_000015385.1.fna	82.7357	80.7034	98.47	777.000	NA-NA	HIGH	NA-NA	777	777.405	4810/7756	98.47	591	NC_010080.1 Lactobacillus helveticus DPC 4571, complete sequence
+SRR19505782_trimmed_1.fastq.gz	GCF_000214785.1.fna	13.3101	14.6874	99.97	125.000	NA-NA	HIGH	NA-NA	125	176.660	9549/9636	99.97	34	NC_015602.1 Lactobacillus kefiranofaciens subsp. kefiranofaciens, complete sequence
+SRR19505782_trimmed_1.fastq.gz	GCF_009739535.1.fna	3.9398	4.5967	99.99	37.000	NA-NA	HIGH	NA-NA	37	44.622	10359/10398	99.99	0	NZ_CP029971.1 Lentilactobacillus kefiri strain DH5 chromosome, complete genome
+SRR19505782_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.0143	0.0125	99.59	0.135	98.87-100.20	0.135	0.11-0.17	1	1.048	858/7600	93.21	3	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence

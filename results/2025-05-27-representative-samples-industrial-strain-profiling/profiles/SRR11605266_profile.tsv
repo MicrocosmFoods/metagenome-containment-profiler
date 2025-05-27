@@ -1,0 +1,10 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR11605266_trimmed_1.fastq.gz	GCF_000014485.1.fna	99.0690	98.8153	99.97	333.000	NA-NA	HIGH	NA-NA	333	413.889	7534/7600	99.97	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR11605266_trimmed_1.fastq.gz	GCF_000006865.1.fna	0.5470	0.6923	99.77	1.839	99.72-99.84	1.839	1.75-1.92	2	2.759	7651/9757	99.22	14	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR11605266_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.1867	0.1863	98.51	0.628	98.24-98.77	0.628	0.57-0.70	1	1.762	2182/7436	96.12	11	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
+SRR11605266_trimmed_1.fastq.gz	GCF_000011985.1.fna	0.0557	0.0594	96.53	0.187	95.71-97.25	0.187	0.14-0.25	1	1.098	482/8425	91.18	1	NC_006814.3 Lactobacillus acidophilus NCFM, complete sequence
+SRR11605266_trimmed_1.fastq.gz	GCA_000155515.2.fna	0.0504	0.0816	96.24	0.169	95.51-96.97	0.169	0.13-0.21	1	1.232	609/12830	90.64	3	CP002391.1 Lactobacillus paracasei subsp. paracasei 8700:2, complete genome
+SRR11605266_trimmed_1.fastq.gz	GCF_018351295.1.fna	0.0380	0.0683	95.56	0.128	94.23-96.85	0.128	0.08-0.19	1	1.143	428/14497	89.26	13	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR11605266_trimmed_1.fastq.gz	GCF_000220885.1.fna	0.0215	0.0223	97.75	0.072	96.00-100.05	0.072	0.03-0.12	1	1.035	287/8332	89.70	0	NC_017215.1 Bifidobacterium animalis subsp. lactis CNCM I-2494, complete sequence
+SRR11605266_trimmed_1.fastq.gz	GCA_001044095.1.fna	0.0178	0.0255	95.11	0.060	92.48-96.33	0.060	0.04-0.13	1	1.000	142/11256	86.84	2	JUIN01000001.1 Lacticaseibacillus rhamnosus strain Lr032 contig00001, whole genome shotgun sequence
+SRR11605266_trimmed_1.fastq.gz	GCF_018289135.1.fna	0.0139	0.0489	95.11	0.047	93.37-96.77	0.047	0.03-0.08	1	1.023	262/27084	86.10	0	NZ_CP072216.1 Bacteroides xylanisolvens strain CL11T00C03 chromosome, complete genome

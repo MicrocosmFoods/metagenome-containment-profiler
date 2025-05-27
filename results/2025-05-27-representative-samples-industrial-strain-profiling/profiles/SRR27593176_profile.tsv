@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593176_trimmed_1.fastq.gz	GCF_000006865.1.fna	44.5843	37.0830	99.16	102.000	NA-NA	HIGH	NA-NA	102	95.820	7520/9757	99.16	0	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593176_trimmed_1.fastq.gz	GCF_018351295.1.fna	43.7101	51.5419	99.76	100.000	NA-NA	HIGH	NA-NA	100	95.498	13444/14497	99.76	0	NZ_CP063750.1 Lactiplantibacillus plantarum strain ATCC 202195 chromosome, complete genome
+SRR27593176_trimmed_1.fastq.gz	GCF_000010145.1.fna	6.5565	4.8381	99.24	15.000	NA-NA	HIGH	NA-NA	15	13.906	6594/8356	99.24	11	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593176_trimmed_1.fastq.gz	GCF_000014505.1.fna	3.4379	2.2149	99.41	7.865	NA-NA	HIGH	NA-NA	8	7.865	6541/7865	99.41	32	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593176_trimmed_1.fastq.gz	GCA_026225675.1.fna	0.7929	3.6162	99.56	1.814	99.52-99.58	1.814	1.78-1.85	2	2.502	38409/52676	98.99	0	JAPJTW010000001.1 Saccharomyces boulardii (nom. inval.) strain KCTC 13826BP contig1, whole genome shotgun sequence
+SRR27593176_trimmed_1.fastq.gz	GCF_000014465.1.fna	0.6211	0.5111	98.84	1.421	98.75-98.91	1.421	1.35-1.50	2	2.215	5296/10002	97.97	11	NC_008497.1 Levilactobacillus brevis ATCC 367, complete sequence
+SRR27593176_trimmed_1.fastq.gz	GCF_000014485.1.fna	0.2740	0.1796	98.93	0.627	98.73-99.13	0.627	0.57-0.67	1	1.408	2544/7600	96.53	18	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593176_trimmed_1.fastq.gz	GCF_000056065.1.fna	0.0231	0.0152	97.83	0.053	95.29-99.65	0.053	0.03-0.11	1	1.021	195/7436	88.92	12	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence

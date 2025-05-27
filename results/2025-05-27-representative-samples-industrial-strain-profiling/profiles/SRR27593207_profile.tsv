@@ -1,0 +1,6 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593207_trimmed_1.fastq.gz	GCF_000014505.1.fna	67.3715	65.3124	99.24	6.725	NA-NA	HIGH	NA-NA	6	6.725	6215/7865	99.24	0	NC_008525.1 Pediococcus pentosaceus ATCC 25745, complete sequence
+SRR27593207_trimmed_1.fastq.gz	GCF_000014485.1.fna	19.4919	19.2240	99.12	1.946	99.07-99.20	1.946	1.81-2.06	2	2.506	4961/7600	98.63	0	NC_008532.1 Streptococcus thermophilus LMD-9, complete sequence
+SRR27593207_trimmed_1.fastq.gz	GCF_000006865.1.fna	7.6041	9.5168	98.68	0.759	98.51-98.85	0.759	0.71-0.81	1	1.467	3444/9757	96.70	11	NC_002662.1 Lactococcus lactis subsp. lactis Il1403, complete sequence
+SRR27593207_trimmed_1.fastq.gz	GCF_000010145.1.fna	3.9466	4.3820	98.69	0.394	98.35-98.99	0.394	0.35-0.44	1	1.252	1812/8356	95.19	6	NC_010610.1 Limosilactobacillus fermentum IFO 3956, complete sequence
+SRR27593207_trimmed_1.fastq.gz	GCF_000056065.1.fna	1.5860	1.5649	97.93	0.158	97.22-98.57	0.158	0.12-0.20	1	1.123	570/7436	92.05	8	NC_008054.1 Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002, complete sequence
