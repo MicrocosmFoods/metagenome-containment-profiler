@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR13801804_trimmed_1.fastq.gz	MAG_S8.fa	93.8285	92.3811	99.66	1057.000	NA-NA	HIGH	NA-NA	1057	1066.092	7358/8185	99.66	5	MAG_S8_NODE_23_length_137624_cov_30.0706
+SRR13801804_trimmed_1.fastq.gz	SalgadoTS_2021__SRR13801804__bin.3.fa	5.9475	6.7762	100.00	67.000	NA-NA	HIGH	NA-NA	67	70.854	9652/9652	100.00	0	NODE_1_length_182977_cov_70.9954_ID_2060
+SRR13801804_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	0.1010	0.6231	99.41	1.137	99.37-99.45	1.137	1.11-1.16	1	1.729	27922/49112	98.19	0	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR13801804_trimmed_1.fastq.gz	SRR10454516C127_okinawensis_assembly.fa	0.0427	0.0592	96.77	0.481	96.44-97.11	0.481	0.43-0.54	1	1.472	1607/11628	93.82	165	SRR10454516C0
+SRR13801804_trimmed_1.fastq.gz	MortensenS_xxxx__WK040-2-L-48h-03F4_S68__bin.4.fa	0.0385	0.0489	98.12	0.434	97.86-98.41	0.434	0.39-0.47	1	1.326	2086/10670	94.87	0	WK040-2-L-48h-03F4_S68_k141_241
+SRR13801804_trimmed_1.fastq.gz	MAG_15.fa	0.0208	0.0282	97.00	0.234	96.48-97.40	0.234	0.20-0.28	1	1.205	924/11359	92.23	289	MAG_15_0
+SRR13801804_trimmed_1.fastq.gz	G_514_1B_orientalis_assembly.fa	0.0131	0.0209	95.42	0.147	94.35-96.15	0.147	0.11-0.21	1	1.206	437/13382	89.55	18	NODE_1_length_900359_cov_75.777345
+SRR13801804_trimmed_1.fastq.gz	MASTER_WP4_CSIC_2__P2545__bin.25.fa	0.0078	0.0624	98.00	0.088	97.56-98.43	0.088	0.08-0.10	1	1.055	3048/66192	90.55	8	P2545_k141_46

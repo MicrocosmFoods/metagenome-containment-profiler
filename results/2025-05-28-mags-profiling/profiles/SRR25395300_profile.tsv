@@ -1,0 +1,7 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25395300_trimmed_1.fastq.gz	ODFM-BA-A-0148-001_Lactococcus_lactis_subsp._cremoris_LMG6897.fa	52.2837	55.0226	98.49	1372.000	NA-NA	HIGH	NA-NA	1372	1463.946	6354/10183	98.49	630	ODFM-BA-A-0148-001_Lactococcus_lactis_subsp._cremoris_LMG6897_NZ_LISZ01000065.1 Lactococcus lactis subsp. cremoris strain LMG6897 contig_0, whole genome shotgun sequence
+SRR25395300_trimmed_1.fastq.gz	MAG_501.fa	28.8475	29.3489	99.68	757.000	NA-NA	HIGH	NA-NA	757	868.313	8795/9710	99.68	10	MAG_501_0
+SRR25395300_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	16.8055	13.7490	99.71	441.000	NA-NA	HIGH	NA-NA	441	470.624	6819/7470	99.71	0	s8.ctg000010c
+SRR25395300_trimmed_1.fastq.gz	MASTER_WP4_FFoQSI_1__DC18-02__bin.11.fa	2.0197	1.8138	100.00	53.000	NA-NA	HIGH	NA-NA	53	53.690	8688/8690	100.00	0	DC18-02_k141_281
+SRR25395300_trimmed_1.fastq.gz	MASTER_WP4_UNINA_1__PM002_71775__bin.13.fa	0.0424	0.0643	98.61	1.113	98.50-98.73	1.113	1.05-1.17	2	1.690	6679/14408	97.55	69	PM002_71775_k141_238
+SRR25395300_trimmed_1.fastq.gz	CM_UNINA_FFOOD__FFOOD_408__bin.5.fa	0.0012	0.0014	98.03	0.032	95.02-98.32	0.032	0.03-0.08	1	1.016	191/11274	87.67	0	NODE_6_length_149100_cov_225.9819_ID_15424

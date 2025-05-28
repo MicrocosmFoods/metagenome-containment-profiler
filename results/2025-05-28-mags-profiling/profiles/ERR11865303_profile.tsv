@@ -1,0 +1,12 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR11865303_trimmed_1.fastq.gz	ODFM-BA-A-0148-001_Lactococcus_lactis_subsp._cremoris_LMG6897.fa	64.3026	67.2502	98.38	135.000	NA-NA	HIGH	NA-NA	135	147.004	6137/10183	98.38	579	ODFM-BA-A-0148-001_Lactococcus_lactis_subsp._cremoris_LMG6897_NZ_LISZ01000065.1 Lactococcus lactis subsp. cremoris strain LMG6897 contig_0, whole genome shotgun sequence
+ERR11865303_trimmed_1.fastq.gz	MAG_S8.fa	16.6710	14.0938	99.36	35.000	NA-NA	HIGH	NA-NA	35	37.895	6698/8185	99.36	39	MAG_S8_NODE_23_length_137624_cov_30.0706
+ERR11865303_trimmed_1.fastq.gz	FontanaF_2023__SRR20746979__bin.3.fa	13.8132	10.3675	98.41	29.000	NA-NA	HIGH	NA-NA	29	28.990	4357/7154	98.41	401	NODE_10_length_61143_cov_28.9945_ID_1888
+ERR11865303_trimmed_1.fastq.gz	GCF_009913915.1_ASM991391v1_genomic.fa	1.9078	1.7352	98.70	4.005	NA-NA	HIGH	NA-NA	4	4.005	5902/8865	98.70	5	GCF_009913915.1_ASM991391v1_genomic_NZ_CP028251.1 Leuconostoc mesenteroides strain SRCM102733 chromosome, complete genome
+ERR11865303_trimmed_1.fastq.gz	SRR10454491C1008_acetobacter_assembly.fa	0.7214	0.9709	97.97	1.515	97.88-98.06	1.515	1.42-1.59	2	2.035	5511/13335	97.19	23	SRR10454491C0
+ERR11865303_trimmed_1.fastq.gz	MASTER_WP4_UNINA_2__F-22__bin.7.fa	0.6821	3.5652	99.85	1.432	99.81-99.88	1.432	1.40-1.47	2	2.002	36716/50582	98.97	0	F-22_k141_163
+ERR11865303_trimmed_1.fastq.gz	SalgadoTS_2021__SRR13801804__bin.3.fa	0.6600	0.6457	99.77	1.386	99.69-99.84	1.386	1.33-1.46	2	1.851	6742/9652	98.85	129	NODE_1_length_182977_cov_70.9954_ID_2060
+ERR11865303_trimmed_1.fastq.gz	MAG_15.fa	0.6257	0.7277	99.99	1.314	99.92-100.05	1.314	1.25-1.37	2	1.901	8271/11359	98.98	0	MAG_15_0
+ERR11865303_trimmed_1.fastq.gz	MAG_501.fa	0.3025	0.3059	99.24	0.635	99.06-99.42	0.635	0.59-0.68	1	1.129	4160/9710	97.30	2	MAG_501_0
+ERR11865303_trimmed_1.fastq.gz	GCF_002276885.1_ASM227688v1_genomic.fa	0.2752	0.3034	99.83	0.578	99.64-100.01	0.578	0.54-0.62	1	1.404	4520/10692	97.26	4	GCF_002276885.1_ASM227688v1_genomic_NZ_NCXA01000099.1 Lentilactobacillus parakefiri strain KR NODE_100_length_1145_cov_335.802, whole genome shotgun sequence
+ERR11865303_trimmed_1.fastq.gz	FontanaF_2023__SRR20746866__bin.6.fa	0.0384	0.0346	98.49	0.081	97.19-99.76	0.081	0.05-0.12	1	1.123	431/8729	90.75	17	NODE_1_length_116121_cov_33.0000_ID_1072

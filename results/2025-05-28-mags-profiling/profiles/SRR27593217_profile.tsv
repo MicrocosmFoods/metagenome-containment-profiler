@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593217_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	94.5912	99.1469	99.57	76.000	NA-NA	HIGH	NA-NA	76	76.731	42948/49112	99.57	0	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR27593217_trimmed_1.fastq.gz	FontanaF_2023__SRR20746979__bin.3.fa	1.5555	0.2310	98.11	1.250	97.98-98.28	1.250	1.15-1.33	2	1.833	2830/7154	97.05	2	NODE_10_length_61143_cov_28.9945_ID_1888
+SRR27593217_trimmed_1.fastq.gz	MAG_46.fa	1.4682	0.2248	99.19	1.180	99.09-99.30	1.180	1.11-1.26	1	1.764	4064/7548	98.02	19	MAG_46_0
+SRR27593217_trimmed_1.fastq.gz	MortensenS_xxxx__WK032-1-L-48h-03B6_S34__bin.2.fa	0.8619	0.1977	98.15	0.693	97.99-98.33	0.693	0.64-0.74	1	1.401	3173/11346	95.97	0	WK032-1-L-48h-03B6_S34_k141_400
+SRR27593217_trimmed_1.fastq.gz	GCF_008876665.1_ASM887666v1_genomic.fa	0.6039	0.0925	99.46	0.485	99.21-99.70	0.485	0.44-0.52	1	1.271	2410/7399	96.45	0	GCF_008876665.1_ASM887666v1_genomic_NZ_CP044534.1 Limosilactobacillus frumenti strain LF145 chromosome, complete genome
+SRR27593217_trimmed_1.fastq.gz	LeechJ_xxxx__AF51__bin.9.fa	0.5397	0.0505	95.63	0.434	95.13-96.27	0.434	0.32-0.52	1	1.259	390/4432	92.46	569	AF51_k141_148
+SRR27593217_trimmed_1.fastq.gz	GCF_009428965.1_ASM942896v1_genomic.fa	0.2746	0.0412	98.80	0.221	98.31-99.32	0.221	0.18-0.26	1	1.147	963/7077	93.77	45	GCF_009428965.1_ASM942896v1_genomic_NZ_CP045530.1 Limosilactobacillus pontis strain LP475 chromosome, complete genome
+SRR27593217_trimmed_1.fastq.gz	FontanaF_2023__SRR20746839__bin.4.fa	0.1049	0.0155	98.57	0.084	97.31-99.67	0.084	0.05-0.13	1	1.137	379/7322	90.89	6	NODE_2_length_148631_cov_25.9785_ID_15265

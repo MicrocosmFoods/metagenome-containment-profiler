@@ -1,0 +1,13 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR3017094_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	78.7583	86.6611	99.82	165.000	NA-NA	HIGH	NA-NA	165	172.767	46499/49112	99.82	4	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR3017094_trimmed_1.fastq.gz	SternesPR_2017__Y2D1_A_shotgun__bin.3.fa	11.4557	9.0821	99.97	24.000	NA-NA	HIGH	NA-NA	24	24.200	36804/37189	99.97	0	SternesPR_2017_k119_25
+SRR3017094_trimmed_1.fastq.gz	EBC_113.1.fa	8.5918	2.7124	99.66	18.000	NA-NA	HIGH	NA-NA	18	18.035	13424/14908	99.66	0	EBC_113.1_EBC_113_scaffold_11
+SRR3017094_trimmed_1.fastq.gz	SternesPR_2017__Y2D1_A_shotgun__bin.5.fa	0.6213	0.7967	99.12	1.302	99.08-99.16	1.302	1.27-1.33	2	2.210	32346/58479	98.11	19	SternesPR_2017_k119_35
+SRR3017094_trimmed_1.fastq.gz	SternesPR_2017__Y3D1_B_shotgun__bin.2.fa	0.1952	0.4736	99.59	0.409	99.53-99.66	0.409	0.40-0.42	1	1.228	33228/112389	96.15	2	SternesPR_2017_k119_7
+SRR3017094_trimmed_1.fastq.gz	GCF_020510245.1_ASM2051024v1_genomic.fa	0.1012	0.0176	98.42	0.212	97.83-98.91	0.212	0.18-0.25	1	1.114	927/7959	93.30	0	GCF_020510245.1_ASM2051024v1_genomic_NZ_CP084701.1 Oenococcus oeni strain AWRIB429 chromosome, complete genome
+SRR3017094_trimmed_1.fastq.gz	SternesPR_2017__T1D1_A_shotgun__bin.1.fa	0.0925	0.1474	99.69	0.194	99.53-99.82	0.194	0.18-0.20	1	1.100	11870/74252	94.26	0	SternesPR_2017_k119_19
+SRR3017094_trimmed_1.fastq.gz	SternesPR_2017__T1D1_A_shotgun__bin.3.fa	0.0803	0.0617	98.95	0.168	98.65-99.23	0.168	0.15-0.19	1	1.088	4064/36025	93.20	235	SternesPR_2017_k119_65
+SRR3017094_trimmed_1.fastq.gz	MASTER_WP4_UNINA_1__AS006_71775__bin.7.fa	0.0434	0.0289	99.36	0.091	98.83-99.86	0.091	0.08-0.11	1	1.047	2239/31401	91.83	18	AS006_71775_k141_28
+SRR3017094_trimmed_1.fastq.gz	GCF_001433825.1_ASM143382v1_genomic.fa	0.0269	0.0037	97.12	0.056	94.40-98.40	0.056	0.04-0.13	1	1.041	147/6638	88.43	1	GCF_001433825.1_ASM143382v1_genomic_NZ_AZCK01000001.1 Apilactobacillus kunkeei DSM 12361 = ATCC 700308 strain DSM 12361 NODE_1, whole genome shotgun sequence
+SRR3017094_trimmed_1.fastq.gz	XieM_2019__SAMC044639__bin.32.fa	0.0177	0.0074	96.24	0.037	94.11-97.28	0.037	0.03-0.07	1	1.018	220/19857	86.48	20	SAMC044639_k141_719
+SRR3017094_trimmed_1.fastq.gz	LeechJ_2020__ERS3967711__bin.13.fa	0.0156	0.0075	99.18	0.033	97.22-101.17	0.033	0.02-0.06	1	1.005	570/22651	88.80	12	ERS3967711_k141_339

@@ -1,0 +1,3 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538184_trimmed_1.fastq.gz	G_361_1B_senegalensis_assembly.fa	99.9765	99.9669	100.00	122.000	NA-NA	HIGH	NA-NA	122	137.525	16099/16100	100.00	0	NODE_1_length_842798_cov_130.063494
+SRR29538184_trimmed_1.fastq.gz	MASTER_WP4_TEAGASC_1__TGS08-29__bin.64.fa	0.0235	0.0331	99.91	0.029	98.26-101.63	0.029	0.01-0.05	1	1.013	638/23201	89.05	2	TGS08-29_k141_17440

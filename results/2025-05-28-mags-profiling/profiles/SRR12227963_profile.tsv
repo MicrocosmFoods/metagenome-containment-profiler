@@ -1,0 +1,12 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR12227963_trimmed_1.fastq.gz	ODFM-BA-A-0027-003_Lactobacillus_sakei_WiKim0072.fa	64.9760	68.6207	99.87	112.000	NA-NA	HIGH	NA-NA	112	101.271	8203/8532	99.87	24	ODFM-BA-A-0027-003_Lactobacillus_sakei_WiKim0072_NZ_CP025136.1 Lactobacillus sakei strain WiKim0072 chromosome, complete genome
+SRR12227963_trimmed_1.fastq.gz	KharnaiorP_2023__SRR22859379__bin.8.fa	19.7249	16.2914	99.44	34.000	NA-NA	HIGH	NA-NA	34	32.312	5739/6826	99.44	38	NODE_3_length_161229_cov_37.0000_ID_62026
+SRR12227963_trimmed_1.fastq.gz	CM_UNINA_FFOOD__FFOOD_229__bin.10.fa	4.3911	3.5741	99.95	7.569	NA-NA	HIGH	NA-NA	7	7.569	6632/6739	99.95	0	NODE_1_length_371145_cov_15.9998_ID_63609
+SRR12227963_trimmed_1.fastq.gz	GCF_009913915.1_ASM991391v1_genomic.fa	4.2420	4.5377	99.19	7.312	NA-NA	HIGH	NA-NA	7	7.312	6900/8865	99.19	31	GCF_009913915.1_ASM991391v1_genomic_NZ_CP028251.1 Leuconostoc mesenteroides strain SRCM102733 chromosome, complete genome
+SRR12227963_trimmed_1.fastq.gz	CM_UNINA_FFOOD__FFOOD_425__bin.9.fa	4.0023	3.8683	99.99	6.899	NA-NA	HIGH	NA-NA	7	6.899	8050/8063	99.99	0	NODE_1_length_598382_cov_75.9985_ID_32759
+SRR12227963_trimmed_1.fastq.gz	ODFM-BA-A-0005-002_Lactobacillus_curvatus_WiKim38.fa	1.7680	1.7823	98.70	3.048	NA-NA	HIGH	NA-NA	3	3.048	5342/8010	98.70	239	ODFM-BA-A-0005-002_Lactobacillus_curvatus_WiKim38_NZ_CP017124.1 Lactobacillus curvatus strain WiKim38, complete genome
+SRR12227963_trimmed_1.fastq.gz	FalardeauJ_2023__SRR20811279__bin.3.fa	0.4944	0.7994	99.19	0.852	99.07-99.33	0.852	0.80-0.89	1	1.516	6082/13589	97.44	21	NODE_1_length_274429_cov_22.9992_ID_7781
+SRR12227963_trimmed_1.fastq.gz	LandisEA_2021__SRS5653333__bin.1.fa	0.1481	0.1906	98.65	0.255	98.25-99.04	0.255	0.22-0.29	1	1.172	1579/10617	94.04	21	SRS5653333_k141_170
+SRR12227963_trimmed_1.fastq.gz	FranciosaI_2021__SRR12227952__bin.4.fa	0.1401	0.2203	95.76	0.241	95.02-96.31	0.241	0.20-0.31	1	1.434	751/13068	91.20	704	NODE_4_length_136482_cov_25.9989_ID_213579
+SRR12227963_trimmed_1.fastq.gz	MASTER_WP4_UNINA_2__V-25.1__bin.1.fa	0.0672	0.0577	97.36	0.116	96.15-98.40	0.116	0.08-0.17	1	1.220	341/7120	90.66	9	V-25.1_k141_213
+SRR12227963_trimmed_1.fastq.gz	MASTER_WP4_TEAGASC_1__TGS12-29__bin.6.fa	0.0460	0.0573	95.82	0.079	93.69-98.10	0.079	0.04-0.14	1	1.038	210/10372	88.18	0	TGS12-29_k141_701

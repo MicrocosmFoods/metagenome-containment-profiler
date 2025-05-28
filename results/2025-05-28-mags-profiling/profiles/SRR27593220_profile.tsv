@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593220_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	63.9738	63.0360	99.47	180.000	NA-NA	HIGH	NA-NA	180	168.046	6328/7470	99.47	0	s8.ctg000010c
+SRR27593220_trimmed_1.fastq.gz	GCF_006740305.1_ASM674030v1_genomic.fa	35.8964	36.7163	98.47	101.000	NA-NA	HIGH	NA-NA	101	94.075	4827/7797	98.47	6	GCF_006740305.1_ASM674030v1_genomic_NZ_AP019750.1 Lactobacillus delbrueckii subsp. delbrueckii strain NBRC 3202 chromosome, complete genome
+SRR27593220_trimmed_1.fastq.gz	DeFilippisF_xxxx__DF_58__bin.5.fa	0.0725	0.0725	98.01	0.204	97.32-98.62	0.204	0.16-0.25	1	1.102	782/7901	92.81	0	DF_58_k141_272
+SRR27593220_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	0.0194	0.1247	96.24	0.055	95.22-97.25	0.055	0.04-0.08	1	1.042	795/49112	87.55	0	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR27593220_trimmed_1.fastq.gz	CM_UNINA_FFOOD__FFOOD_286__bin.4.fa	0.0168	0.0215	97.45	0.047	95.09-99.10	0.047	0.03-0.10	1	1.023	217/10478	88.24	0	NODE_10_length_98713_cov_16.0000_ID_19272
+SRR27593220_trimmed_1.fastq.gz	ODFM-BA-A-0139-001_Enterococcus_lactis_CICC_24101.fa	0.0147	0.0226	96.24	0.041	93.82-96.85	0.041	0.04-0.08	1	1.072	153/12230	86.82	10	ODFM-BA-A-0139-001_Enterococcus_lactis_CICC_24101_NZ_WOTS01000010.1 Enterococcus lactis strain CICC 24101 NODE_10_length_82300_cov_4.602353, whole genome shotgun sequence
+SRR27593220_trimmed_1.fastq.gz	MAG_314.fa	0.0064	0.0064	100.00	0.018	100.09-102.99	0.018	0.02-0.04	1	1.024	339/7965	90.32	0	MAG_314_0

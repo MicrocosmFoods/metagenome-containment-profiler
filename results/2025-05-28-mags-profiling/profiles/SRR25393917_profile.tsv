@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR25393917_trimmed_1.fastq.gz	AlvarezOrdonezA_xxxx__F05-18__bin.3.fa	89.8027	91.0405	99.99	159.000	NA-NA	HIGH	NA-NA	159	156.452	111786/112296	99.99	0	F05-18_k141_74
+SRR25393917_trimmed_1.fastq.gz	AlvarezOrdonezA_xxxx__C05-19__bin.5.fa	9.0368	8.3385	99.26	16.000	NA-NA	HIGH	NA-NA	16	15.433	79684/100470	99.26	20205	C05-19_k141_32
+SRR25393917_trimmed_1.fastq.gz	MASTER_WP4_UNINA_1__GO005_71775__bin.6.fa	0.5892	0.2688	98.81	1.043	98.74-98.86	1.043	1.02-1.07	2	2.733	22985/51361	97.44	0	GO005_71775_k141_129
+SRR25393917_trimmed_1.fastq.gz	AlvarezOrdonezA_xxxx__C02-19__bin.10.fa	0.2416	0.0867	97.39	0.428	97.20-97.57	0.428	0.40-0.46	1	1.903	6100/39666	94.14	4935	C02-19_k141_110
+SRR25393917_trimmed_1.fastq.gz	AlvarezOrdonezA_xxxx__C02-19__bin.11.fa	0.1514	0.0644	95.34	0.268	95.00-95.65	0.268	0.24-0.29	1	1.406	2501/46431	91.01	1149	C02-19_k141_5
+SRR25393917_trimmed_1.fastq.gz	AlvarezOrdonezA_xxxx__F05-18__bin.5.fa	0.1200	0.1275	99.33	0.213	99.22-99.46	0.213	0.20-0.22	1	1.088	19315/118614	94.31	120	F05-18_k141_98
+SRR25393917_trimmed_1.fastq.gz	MASTER_WP4_CSIC_2__P2560__bin.1.fa	0.0582	0.0735	98.64	0.103	98.38-98.85	0.103	0.10-0.11	1	1.056	9059/141365	91.52	3950	P2560_k141_88

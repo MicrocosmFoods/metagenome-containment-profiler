@@ -1,0 +1,13 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR3017095_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	77.1524	86.0293	99.82	161.000	NA-NA	HIGH	NA-NA	161	169.131	46487/49112	99.82	4	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR3017095_trimmed_1.fastq.gz	SternesPR_2017__Y2D1_A_shotgun__bin.3.fa	11.0218	8.8549	99.97	23.000	NA-NA	HIGH	NA-NA	23	23.284	36812/37189	99.97	0	SternesPR_2017_k119_25
+SRR3017095_trimmed_1.fastq.gz	EBC_113.1.fa	10.5426	3.3727	99.69	22.000	NA-NA	HIGH	NA-NA	22	21.335	13533/14908	99.69	12	EBC_113.1_EBC_113_scaffold_11
+SRR3017095_trimmed_1.fastq.gz	SternesPR_2017__Y2D1_A_shotgun__bin.5.fa	0.6416	0.8337	99.17	1.339	99.12-99.20	1.339	1.30-1.37	2	2.337	33325/58479	98.20	12	SternesPR_2017_k119_35
+SRR3017095_trimmed_1.fastq.gz	SternesPR_2017__Y3D1_B_shotgun__bin.2.fa	0.2338	0.5748	99.57	0.488	99.53-99.62	0.488	0.48-0.50	1	1.274	37999/112389	96.56	1	SternesPR_2017_k119_7
+SRR3017095_trimmed_1.fastq.gz	SternesPR_2017__T1D1_A_shotgun__bin.1.fa	0.1238	0.1998	99.67	0.258	99.57-99.80	0.258	0.25-0.27	1	1.135	15282/74252	95.03	0	SternesPR_2017_k119_19
+SRR3017095_trimmed_1.fastq.gz	GCF_020510245.1_ASM2051024v1_genomic.fa	0.1032	0.0182	98.42	0.215	97.88-98.89	0.215	0.19-0.25	1	1.107	941/7959	93.34	0	GCF_020510245.1_ASM2051024v1_genomic_NZ_CP084701.1 Oenococcus oeni strain AWRIB429 chromosome, complete genome
+SRR3017095_trimmed_1.fastq.gz	SternesPR_2017__T1D1_A_shotgun__bin.3.fa	0.0824	0.0641	98.83	0.172	98.54-99.09	0.172	0.16-0.19	1	1.090	3992/36025	93.15	235	SternesPR_2017_k119_65
+SRR3017095_trimmed_1.fastq.gz	MASTER_WP4_UNINA_1__AS006_71775__bin.7.fa	0.0486	0.0328	98.98	0.101	98.45-99.41	0.101	0.09-0.12	1	1.053	2204/31401	91.79	24	AS006_71775_k141_28
+SRR3017095_trimmed_1.fastq.gz	LeechJ_2020__ERS3967690__bin.4.fa	0.0201	0.0062	95.59	0.042	93.29-96.08	0.042	0.04-0.09	1	1.021	146/14362	86.24	0	ERS3967690_k141_4916
+SRR3017095_trimmed_1.fastq.gz	XieM_2019__SAMC044639__bin.32.fa	0.0150	0.0064	97.26	0.031	94.82-98.26	0.031	0.02-0.05	1	1.015	259/19857	86.94	20	SAMC044639_k141_719
+SRR3017095_trimmed_1.fastq.gz	LeechJ_2020__ERS3967711__bin.13.fa	0.0147	0.0071	99.91	0.031	98.12-102.33	0.031	0.01-0.05	1	0.990	683/22651	89.32	0	ERS3967711_k141_339

@@ -1,0 +1,14 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757840_trimmed_1.fastq.gz	ODFM-BA-A-0148-001_Lactococcus_lactis_subsp._cremoris_LMG6897.fa	97.9706	97.9097	99.63	261.000	NA-NA	HIGH	NA-NA	261	300.983	9069/10183	99.63	0	ODFM-BA-A-0148-001_Lactococcus_lactis_subsp._cremoris_LMG6897_NZ_LISZ01000065.1 Lactococcus lactis subsp. cremoris strain LMG6897 contig_0, whole genome shotgun sequence
+ERR4757840_trimmed_1.fastq.gz	CM_UNINA_FFOOD__FFOOD_296__bin.3.fa	0.5611	0.4587	99.33	1.495	99.24-99.40	1.495	1.42-1.58	2	2.066	5304/8419	98.52	14	NODE_7_length_181696_cov_14.9995_ID_46043
+ERR4757840_trimmed_1.fastq.gz	LeechJ_2020__ERS3967703__bin.6.fa	0.4987	0.3839	99.92	1.328	99.82-100.01	1.328	1.25-1.39	2	1.897	5673/7915	98.93	0	ERS3967703_k141_852
+ERR4757840_trimmed_1.fastq.gz	LeechJ_2020__ERS3967706__bin.3.fa	0.3800	0.3510	99.91	1.012	99.81-100.01	1.012	0.97-1.06	1	1.643	5891/9505	98.47	0	ERS3967706_k141_98
+ERR4757840_trimmed_1.fastq.gz	LeechJ_2020__ERS3967711__bin.14.fa	0.1942	0.1388	99.60	0.517	99.41-99.81	0.517	0.47-0.55	1	1.267	2580/7200	96.74	12	ERS3967711_k141_542
+ERR4757840_trimmed_1.fastq.gz	FontanaF_2023__SRR20746951__bin.4.fa	0.1619	0.1923	98.52	0.431	98.29-98.77	0.431	0.39-0.47	1	1.250	2669/12064	95.25	4	NODE_1_length_333540_cov_36.9994_ID_1661
+ERR4757840_trimmed_1.fastq.gz	MAG_501.fa	0.0716	0.0692	98.93	0.191	98.43-99.34	0.191	0.16-0.22	1	0.846	1525/9710	94.20	626	MAG_501_0
+ERR4757840_trimmed_1.fastq.gz	MASTER_WP4_CSIC_2__P2545__bin.25.fa	0.0537	0.3509	98.48	0.143	98.23-98.74	0.143	0.13-0.15	1	1.073	5539/66192	92.31	9	P2545_k141_46
+ERR4757840_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	0.0509	0.0395	99.30	0.136	98.58-100.06	0.136	0.11-0.16	1	1.034	789/7470	93.01	27	s8.ctg000010c
+ERR4757840_trimmed_1.fastq.gz	GCF_900618535.1_TH39_genomic.fa	0.0233	0.0494	98.58	0.062	97.49-99.50	0.062	0.04-0.09	1	1.032	832/21532	90.04	2	GCF_900618535.1_TH39_genomic_NZ_UYJA01000001.1 Pseudomonas bubulae strain Pseudomonas parafragi, whole genome shotgun sequence
+ERR4757840_trimmed_1.fastq.gz	MAG_34.fa	0.0150	0.0157	97.74	0.040	95.12-99.02	0.040	0.03-0.08	1	1.020	204/10569	88.04	0	MAG_34_0
+ERR4757840_trimmed_1.fastq.gz	WalshL_xxxx__D9__bin.6.fa	0.0109	0.0250	96.35	0.029	92.94-96.84	0.029	0.03-0.06	1	1.014	210/23245	85.91	43	D9_k141_227
+ERR4757840_trimmed_1.fastq.gz	MAG_352.fa	0.0081	0.0159	99.57	0.022	97.20-100.55	0.022	0.02-0.04	1	1.011	373/19888	87.96	0	MAG_352_0

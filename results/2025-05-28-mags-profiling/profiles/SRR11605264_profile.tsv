@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR11605264_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	99.8768	99.7199	99.67	627.000	NA-NA	HIGH	NA-NA	627	654.759	6734/7470	99.67	0	s8.ctg000010c
+SRR11605264_trimmed_1.fastq.gz	MAG_501.fa	0.0555	0.0689	99.04	0.348	98.73-99.38	0.348	0.31-0.39	1	1.192	2117/9710	95.21	10	MAG_501_0
+SRR11605264_trimmed_1.fastq.gz	GCF_006740305.1_ASM674030v1_genomic.fa	0.0372	0.0385	96.35	0.233	95.69-96.85	0.233	0.19-0.29	1	1.125	512/7797	91.59	6	GCF_006740305.1_ASM674030v1_genomic_NZ_AP019750.1 Lactobacillus delbrueckii subsp. delbrueckii strain NBRC 3202 chromosome, complete genome
+SRR11605264_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	0.0124	0.0810	95.10	0.078	94.17-96.21	0.078	0.05-0.11	1	1.216	779/49112	87.49	1	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR11605264_trimmed_1.fastq.gz	BertuzziAS_2018__ERS2032125__bin.3.fa	0.0077	0.0462	97.68	0.048	96.45-98.63	0.048	0.03-0.07	1	1.023	1066/47112	88.50	0	ERS2032125_k141_10
+SRR11605264_trimmed_1.fastq.gz	MASTER_WP4_CSIC_1__P2246_73323__bin.19.fa	0.0057	0.0326	97.51	0.036	96.18-99.21	0.036	0.02-0.05	1	1.016	737/45509	87.55	1	P2246_73323_k141_1723
+SRR11605264_trimmed_1.fastq.gz	AlvarezOrdonezA_xxxx__Q02-30__bin.22.fa	0.0047	0.0131	96.45	0.029	93.90-97.00	0.029	0.03-0.06	1	1.014	207/21884	86.04	0	Q02-30_k141_3773

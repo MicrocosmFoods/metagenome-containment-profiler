@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR11605273_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	99.9715	99.9601	99.65	597.000	NA-NA	HIGH	NA-NA	597	578.383	6710/7470	99.65	0	s8.ctg000010c
+SRR11605273_trimmed_1.fastq.gz	GCF_006740305.1_ASM674030v1_genomic.fa	0.0215	0.0223	97.63	0.129	96.39-98.67	0.129	0.09-0.19	1	1.060	447/7797	91.19	6	GCF_006740305.1_ASM674030v1_genomic_NZ_AP019750.1 Lactobacillus delbrueckii subsp. delbrueckii strain NBRC 3202 chromosome, complete genome
+SRR11605273_trimmed_1.fastq.gz	MAG_352.fa	0.0070	0.0175	98.68	0.042	97.21-100.59	0.042	0.02-0.07	1	1.020	538/19888	89.01	0	MAG_352_0

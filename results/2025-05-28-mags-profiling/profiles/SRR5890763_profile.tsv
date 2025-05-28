@@ -1,0 +1,13 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR5890763_trimmed_1.fastq.gz	DeRoosJ_2020__B13M__bin.3.fa	27.4067	7.0300	99.90	53.000	NA-NA	HIGH	NA-NA	53	55.526	8159/8405	99.90	0	B13M_k141_193
+SRR5890763_trimmed_1.fastq.gz	GCF_011074885.1_ASM1107488v2_genomic.fa	19.6501	33.3700	99.22	38.000	NA-NA	HIGH	NA-NA	38	38.495	42440/54094	99.22	180	GCF_011074885.1_ASM1107488v2_genomic_NC_054682.1 Brettanomyces bruxellensis chromosome 1, complete sequence
+SRR5890763_trimmed_1.fastq.gz	MASTER_WP4_CSIC_2__P2597__bin.1.fa	19.1330	25.9620	99.83	37.000	NA-NA	HIGH	NA-NA	37	37.725	42776/45159	99.83	5	P2597_k141_298
+SRR5890763_trimmed_1.fastq.gz	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1.fa	13.9619	15.1483	99.72	27.000	NA-NA	HIGH	NA-NA	27	27.012	33229/36208	99.72	43	WK038-1-L-48h-03E3_S58_k141_11
+SRR5890763_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	9.3079	14.4158	99.89	18.000	NA-NA	HIGH	NA-NA	18	18.545	47516/49112	99.89	15	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR5890763_trimmed_1.fastq.gz	G_24_1A_oryzifermentans_assembly.fa	4.9693	1.8999	98.75	9.610	NA-NA	HIGH	NA-NA	9	9.610	8504/12550	98.75	118	NODE_1_length_900296_cov_116.234665
+SRR5890763_trimmed_1.fastq.gz	MotaGutierrezJ_2021__SRR11602150__bin.9.fa	2.3215	0.6938	98.57	4.489	NA-NA	HIGH	NA-NA	4	4.489	6427/10040	98.57	2	NODE_36_length_112572_cov_15.0000_ID_47355
+SRR5890763_trimmed_1.fastq.gz	SRR10454486C2703_ghanensis_assembly.fa	1.7586	0.5835	98.24	3.401	NA-NA	HIGH	NA-NA	3	3.401	6398/11078	98.24	559	SRR10454486C0
+SRR5890763_trimmed_1.fastq.gz	GCF_011516885.1_ASM1151688v1_genomic.fa	0.4819	0.2024	99.63	0.932	99.54-99.74	0.932	0.89-0.97	1	1.814	7577/13936	98.05	0	GCF_011516885.1_ASM1151688v1_genomic_NZ_WOTD01000001.1 Acetobacter lambici strain LMG 27439 contig00001, whole genome shotgun sequence
+SRR5890763_trimmed_1.fastq.gz	MAG_15.fa	0.4768	0.1621	98.29	0.922	98.13-98.44	0.922	0.86-0.99	1	1.668	4005/11359	96.69	532	MAG_15_0
+SRR5890763_trimmed_1.fastq.gz	SRR10454517C1506_cerevisiae_assembly.fa	0.2810	0.1140	97.08	0.543	96.83-97.30	0.543	0.50-0.58	1	1.332	2280/13609	94.40	68	SRR10454517C0
+SRR5890763_trimmed_1.fastq.gz	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396.fa	0.2514	0.4181	99.70	0.486	99.62-99.79	0.486	0.47-0.50	1	1.263	19138/54094	96.70	4	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396_LCTY01000001.1 Brettanomyces anomalus strain YV396 scaffold1, whole genome shotgun sequence

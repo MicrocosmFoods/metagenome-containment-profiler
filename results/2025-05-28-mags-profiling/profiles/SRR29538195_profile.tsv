@@ -1,0 +1,2 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR29538195_trimmed_1.fastq.gz	MortensenS_xxxx__WK067-1-L-48h-05C1_S71__bin.5.fa	100.0000	100.0000	97.11	174.000	NA-NA	HIGH	NA-NA	174	172.642	5000/12413	97.11	0	WK067-1-L-48h-05C1_S71_k141_209

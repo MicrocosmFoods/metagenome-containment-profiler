@@ -1,0 +1,4 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR3964980_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	96.0035	95.8146	99.52	94.000	NA-NA	HIGH	NA-NA	94	88.011	6431/7470	99.52	0	s8.ctg000010c
+ERR3964980_trimmed_1.fastq.gz	PatroJN_2016__SRS1044738__bin.12.fa	3.6266	3.7993	99.79	3.551	NA-NA	HIGH	NA-NA	3	3.551	7782/8312	99.79	0	SRS1044738_k141_579
+ERR3964980_trimmed_1.fastq.gz	MAG_502.fa	0.3700	0.3861	99.50	0.362	99.23-99.80	0.362	0.32-0.40	1	1.190	2184/8402	95.75	0	MAG_502_0

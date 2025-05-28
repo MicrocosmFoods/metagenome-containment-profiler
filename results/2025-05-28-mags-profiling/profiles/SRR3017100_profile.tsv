@@ -1,0 +1,13 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR3017100_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	92.0517	95.6122	99.86	185.000	NA-NA	HIGH	NA-NA	185	189.729	47028/49112	99.86	7	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR3017100_trimmed_1.fastq.gz	EBC_113.1.fa	3.8794	1.1561	99.64	7.797	NA-NA	HIGH	NA-NA	7	7.797	13335/14908	99.64	0	EBC_113.1_EBC_113_scaffold_11
+SRR3017100_trimmed_1.fastq.gz	SternesPR_2017__Y2D1_B_shotgun__bin.4.fa	2.4841	2.3393	99.93	4.992	NA-NA	HIGH	NA-NA	5	4.992	45576/46568	99.93	0	SternesPR_2017_k119_23
+SRR3017100_trimmed_1.fastq.gz	SternesPR_2017__Y2D1_A_shotgun__bin.3.fa	0.4224	0.3161	99.75	0.849	99.68-99.82	0.849	0.82-0.87	1	1.510	19686/37189	97.97	9	SternesPR_2017_k119_25
+SRR3017100_trimmed_1.fastq.gz	FontanaF_2023__SRR20746951__bin.4.fa	0.3919	0.0955	98.17	0.788	98.02-98.31	0.788	0.74-0.84	1	1.420	3715/12064	96.27	9	NODE_1_length_333540_cov_36.9994_ID_1661
+SRR3017100_trimmed_1.fastq.gz	GCF_020510245.1_ASM2051024v1_genomic.fa	0.3559	0.0583	99.74	0.715	99.58-99.91	0.715	0.67-0.77	1	1.424	3751/7959	97.60	0	GCF_020510245.1_ASM2051024v1_genomic_NZ_CP084701.1 Oenococcus oeni strain AWRIB429 chromosome, complete genome
+SRR3017100_trimmed_1.fastq.gz	SternesPR_2017__Y2D1_A_shotgun__bin.5.fa	0.2452	0.2968	99.56	0.493	99.49-99.65	0.493	0.48-0.50	1	1.315	19969/58479	96.59	33	SternesPR_2017_k119_35
+SRR3017100_trimmed_1.fastq.gz	MASTER_WP4_UNINA_1__AS006_71775__bin.7.fa	0.0865	0.0544	99.78	0.174	99.55-99.99	0.174	0.16-0.19	1	1.090	4689/31401	94.05	22	AS006_71775_k141_28
+SRR3017100_trimmed_1.fastq.gz	SternesPR_2017__T1D1_A_shotgun__bin.3.fa	0.0399	0.0289	99.45	0.080	98.86-99.98	0.080	0.07-0.10	1	1.030	2371/36025	91.60	186	SternesPR_2017_k119_65
+SRR3017100_trimmed_1.fastq.gz	FalardeauJ_2023__SRR20811279__bin.3.fa	0.0193	0.0052	98.46	0.039	96.52-100.56	0.039	0.02-0.07	1	1.047	321/13589	88.62	1	NODE_1_length_274429_cov_22.9992_ID_7781
+SRR3017100_trimmed_1.fastq.gz	LeechJ_2020__ERS3967714__bin.6.fa	0.0127	0.0121	99.85	0.026	98.39-101.94	0.026	0.01-0.04	1	1.046	1140/46574	88.72	222	ERS3967714_k141_36
+SRR3017100_trimmed_1.fastq.gz	SternesPR_2017__Y3D1_B_shotgun__bin.2.fa	0.0110	0.0251	99.52	0.022	98.39-100.41	0.022	0.02-0.03	1	1.011	2110/112389	87.96	0	SternesPR_2017_k119_7

@@ -1,7 +1,8 @@
 library(tidyverse)
 
 # all curated MAG metadata
-sample_sraruninfo_metadata <- read_tsv("metadata/2025-05-22-sample-sraruninfo-metadata.tsv")
+sample_info_url <- "https://raw.githubusercontent.com/MicrocosmFoods/fermentedfood_metadata_curation/refs/heads/main/data/2025-05-22-sample-sraruninfo-metadata.tsv"
+sample_sraruninfo_metadata <- read_tsv(sample_info_url)
 
 filtered_samples <- sample_sraruninfo_metadata %>% 
   filter(library_layout == "PAIRED") %>% 

@@ -1,0 +1,8 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR11865472_trimmed_1.fastq.gz	MAG_501.fa	34.1147	36.8351	99.37	90.000	NA-NA	HIGH	NA-NA	90	89.831	7980/9710	99.37	10	MAG_501_0
+ERR11865472_trimmed_1.fastq.gz	FontanaF_2023__SRR20746979__bin.3.fa	31.4613	25.2176	98.66	83.000	NA-NA	HIGH	NA-NA	83	86.879	4713/7154	98.66	63	NODE_10_length_61143_cov_28.9945_ID_1888
+ERR11865472_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	16.2993	14.1523	99.57	43.000	NA-NA	HIGH	NA-NA	43	41.899	6527/7470	99.57	0	s8.ctg000010c
+ERR11865472_trimmed_1.fastq.gz	MAG_15.fa	12.1297	15.0668	99.99	32.000	NA-NA	HIGH	NA-NA	32	32.130	11331/11359	99.99	0	MAG_15_0
+ERR11865472_trimmed_1.fastq.gz	G_514_1B_orientalis_assembly.fa	4.8869	7.1486	97.88	12.892	NA-NA	HIGH	NA-NA	13	12.892	6897/13382	97.88	24	NODE_1_length_900359_cov_75.777345
+ERR11865472_trimmed_1.fastq.gz	SRR10454491C1008_acetobacter_assembly.fa	1.0847	1.5590	97.61	2.862	NA-NA	HIGH	NA-NA	3	2.862	6299/13335	97.61	110	SRR10454491C0
+ERR11865472_trimmed_1.fastq.gz	DeFilippisF_xxxx__DF_58__bin.5.fa	0.0234	0.0206	98.56	0.062	96.51-101.04	0.062	0.03-0.11	1	1.030	301/7901	90.00	0	DF_58_k141_272

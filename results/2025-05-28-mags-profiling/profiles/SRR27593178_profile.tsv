@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593178_trimmed_1.fastq.gz	WalshAM_2017__ERS1739834__bin.1.fa	71.9681	68.5154	99.43	124.000	NA-NA	HIGH	NA-NA	124	111.163	6264/7489	99.43	0	ERS1739834_k141_1514
+SRR27593178_trimmed_1.fastq.gz	GCF_006740305.1_ASM674030v1_genomic.fa	16.2509	17.3660	98.80	28.000	NA-NA	HIGH	NA-NA	28	26.916	5369/7797	98.80	0	GCF_006740305.1_ASM674030v1_genomic_NZ_AP019750.1 Lactobacillus delbrueckii subsp. delbrueckii strain NBRC 3202 chromosome, complete genome
+SRR27593178_trimmed_1.fastq.gz	LeechJ_xxxx__AF94__bin.2.fa	11.0274	12.8366	100.00	19.000	NA-NA	HIGH	NA-NA	19	13.864	8889/8895	100.00	0	AF94_k141_14
+SRR27593178_trimmed_1.fastq.gz	LeechJ_xxxx__AF15__bin.4.fa	0.3579	0.7537	97.76	0.617	97.57-97.93	0.617	0.57-0.66	1	1.399	3643/15952	95.35	0	AF15_k141_25
+SRR27593178_trimmed_1.fastq.gz	GCF_004771075.1_ASM477107v1_genomic.fa	0.2648	0.3284	99.54	0.456	99.34-99.79	0.456	0.42-0.49	1	1.271	2950/9278	96.37	0	GCF_004771075.1_ASM477107v1_genomic_NZ_CP027563.1 Weissella confusa strain VTT E-133279 chromosome, complete genome
+SRR27593178_trimmed_1.fastq.gz	FontanaF_2023__SRR20746839__bin.4.fa	0.0522	0.0494	98.69	0.090	97.46-99.98	0.090	0.06-0.14	1	1.048	419/7322	91.18	6	NODE_2_length_148631_cov_25.9785_ID_15265
+SRR27593178_trimmed_1.fastq.gz	LeechJ_2020__ERS3967688__bin.2.fa	0.0394	0.0979	97.87	0.068	96.70-98.74	0.068	0.05-0.10	1	1.042	641/19017	89.64	0	ERS3967688_k141_1437
+SRR27593178_trimmed_1.fastq.gz	CM_UNINA_FFOOD__FFOOD_286__bin.4.fa	0.0393	0.0526	97.10	0.068	95.08-99.06	0.068	0.03-0.13	1	1.033	275/10478	88.92	0	NODE_10_length_98713_cov_16.0000_ID_19272

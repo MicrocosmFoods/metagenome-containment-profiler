@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR11865495_trimmed_1.fastq.gz	MAG_501.fa	67.1210	70.4947	99.41	170.000	NA-NA	HIGH	NA-NA	170	169.869	8084/9710	99.41	0	MAG_501_0
+ERR11865495_trimmed_1.fastq.gz	FontanaF_2023__SRR20746979__bin.3.fa	20.9259	16.3151	98.46	53.000	NA-NA	HIGH	NA-NA	53	58.112	4426/7154	98.46	335	NODE_10_length_61143_cov_28.9945_ID_1888
+ERR11865495_trimmed_1.fastq.gz	GCF_009913915.1_ASM991391v1_genomic.fa	7.1069	6.7149	99.20	18.000	NA-NA	HIGH	NA-NA	18	17.621	6916/8865	99.20	2	GCF_009913915.1_ASM991391v1_genomic_NZ_CP028251.1 Leuconostoc mesenteroides strain SRCM102733 chromosome, complete genome
+ERR11865495_trimmed_1.fastq.gz	SRR10454491C1008_acetobacter_assembly.fa	3.9915	5.5800	97.93	10.109	NA-NA	HIGH	NA-NA	10	10.109	6965/13335	97.93	19	SRR10454491C0
+ERR11865495_trimmed_1.fastq.gz	SalgadoTS_2021__SRR13801804__bin.3.fa	0.3534	0.3591	99.86	0.895	99.74-99.98	0.895	0.85-0.94	1	1.523	5471/9652	98.19	0	NODE_1_length_182977_cov_70.9954_ID_2060
+ERR11865495_trimmed_1.fastq.gz	MAG_15.fa	0.2946	0.3560	99.85	0.746	99.73-99.98	0.746	0.70-0.78	1	1.438	5704/11359	97.80	0	MAG_15_0
+ERR11865495_trimmed_1.fastq.gz	MAG_S8.fa	0.1690	0.1484	98.84	0.428	98.57-99.17	0.428	0.38-0.46	1	1.042	2408/8185	96.13	3	MAG_S8_NODE_23_length_137624_cov_30.0706
+ERR11865495_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	0.0376	0.0318	97.73	0.095	96.25-99.28	0.095	0.05-0.15	1	0.989	358/7470	90.66	22	s8.ctg000010c

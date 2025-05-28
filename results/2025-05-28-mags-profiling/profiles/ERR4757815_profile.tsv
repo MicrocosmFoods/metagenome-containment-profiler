@@ -1,0 +1,9 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+ERR4757815_trimmed_1.fastq.gz	ODFM-BA-A-0148-001_Lactococcus_lactis_subsp._cremoris_LMG6897.fa	91.0793	84.1512	99.16	171.000	NA-NA	HIGH	NA-NA	171	189.488	7828/10183	99.16	3	ODFM-BA-A-0148-001_Lactococcus_lactis_subsp._cremoris_LMG6897_NZ_LISZ01000065.1 Lactococcus lactis subsp. cremoris strain LMG6897 contig_0, whole genome shotgun sequence
+ERR4757815_trimmed_1.fastq.gz	GCF_009913915.1_ASM991391v1_genomic.fa	4.7840	3.8441	98.40	8.982	NA-NA	HIGH	NA-NA	9	8.982	5384/8865	98.40	2	GCF_009913915.1_ASM991391v1_genomic_NZ_CP028251.1 Leuconostoc mesenteroides strain SRCM102733 chromosome, complete genome
+ERR4757815_trimmed_1.fastq.gz	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1.fa	1.8451	7.7647	99.05	3.464	NA-NA	HIGH	NA-NA	3	3.464	33317/44775	99.05	0	WK065-1-L-08h-05B1_S62_k141_23
+ERR4757815_trimmed_1.fastq.gz	MAG_S8.fa	1.2002	0.8964	99.24	2.253	99.21-99.42	2.253	1.89-2.31	2	2.634	5786/8185	98.89	5	MAG_S8_NODE_23_length_137624_cov_30.0706
+ERR4757815_trimmed_1.fastq.gz	EBC_024.4.fa	0.6422	2.5438	98.44	1.206	98.39-98.50	1.206	1.17-1.24	1	1.755	18716/43386	97.32	36	EBC_024.4_EBC_024_scaffold_13
+ERR4757815_trimmed_1.fastq.gz	SalgadoTS_2021__SRR13801804__bin.3.fa	0.3545	0.3064	99.90	0.666	99.76-100.05	0.666	0.63-0.70	1	1.368	4555/9652	97.61	0	NODE_1_length_182977_cov_70.9954_ID_2060
+ERR4757815_trimmed_1.fastq.gz	MASTER_WP4_UNINA_2__F-22__bin.7.fa	0.0551	0.2543	98.87	0.103	98.45-99.24	0.103	0.09-0.12	1	1.059	3496/50582	91.74	1	F-22_k141_163
+ERR4757815_trimmed_1.fastq.gz	MASTER_WP4_CSIC_2__P2545__bin.25.fa	0.0396	0.2392	97.34	0.074	96.81-97.97	0.074	0.06-0.09	1	1.149	2077/66192	89.43	111	P2545_k141_46

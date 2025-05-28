@@ -1,0 +1,13 @@
+Sample_file	Genome_file	Taxonomic_abundance	Sequence_abundance	Adjusted_ANI	Eff_cov	ANI_5-95_percentile	Eff_lambda	Lambda_5-95_percentile	Median_cov	Mean_cov_geq1	Containment_ind	Naive_ANI	kmers_reassigned	Contig_name
+SRR27593228_trimmed_1.fastq.gz	Wy2_bin.circ.1.fa	46.0157	45.4083	99.36	62.000	NA-NA	HIGH	NA-NA	62	58.826	6122/7470	99.36	69	s8.ctg000010c
+SRR27593228_trimmed_1.fastq.gz	GCF_006740305.1_ASM674030v1_genomic.fa	41.5626	42.5749	98.17	56.000	NA-NA	HIGH	NA-NA	56	56.744	4394/7797	98.17	19	GCF_006740305.1_ASM674030v1_genomic_NZ_AP019750.1 Lactobacillus delbrueckii subsp. delbrueckii strain NBRC 3202 chromosome, complete genome
+SRR27593228_trimmed_1.fastq.gz	FontanaF_2023__SRR20746839__bin.4.fa	7.5531	6.8463	99.10	10.177	NA-NA	HIGH	NA-NA	10	10.177	5525/7322	99.10	0	NODE_2_length_148631_cov_25.9785_ID_15265
+SRR27593228_trimmed_1.fastq.gz	FontanaF_2023__SRR20746979__bin.3.fa	3.8517	3.5087	99.05	5.190	NA-NA	HIGH	NA-NA	5	5.190	5322/7154	99.05	60	NODE_10_length_61143_cov_28.9945_ID_1888
+SRR27593228_trimmed_1.fastq.gz	WalshAM_2017__ERS1739834__bin.1.fa	0.4445	0.4056	99.69	0.599	99.48-99.89	0.599	0.55-0.65	1	1.311	3123/7489	97.22	0	ERS1739834_k141_1514
+SRR27593228_trimmed_1.fastq.gz	MASTER_WP4_UNINA_2__P-22__bin.7.fa	0.1761	0.1144	99.65	0.237	99.18-100.09	0.237	0.20-0.28	1	1.126	972/5135	94.77	0	P-22_k141_152
+SRR27593228_trimmed_1.fastq.gz	C-03.Ssa-BR.fa	0.1489	0.1514	98.33	0.201	97.68-99.05	0.201	0.16-0.25	1	0.950	1232/8126	94.10	1000	C-03.Ssa-BR_NODE_6_length_73444_cov_213.282
+SRR27593228_trimmed_1.fastq.gz	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44.fa	0.0974	0.6263	99.15	0.131	98.85-99.42	0.131	0.12-0.14	1	1.128	4642/49112	92.67	0	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44_CM006479.1 Saccharomyces cerevisiae strain beer044 chromosome I, whole genome shotgun sequence
+SRR27593228_trimmed_1.fastq.gz	P.1_bin.1.fa	0.0594	0.1437	95.94	0.080	94.66-97.42	0.080	0.05-0.12	1	1.038	416/19536	88.32	12	P.1_bin.1_k77_21174
+SRR27593228_trimmed_1.fastq.gz	MAG_19.fa	0.0473	0.1330	98.10	0.064	96.91-99.26	0.064	0.04-0.09	1	1.036	779/22889	89.67	0	MAG_19_0
+SRR27593228_trimmed_1.fastq.gz	LeechJ_xxxx__AF89__bin.7.fa	0.0233	0.0502	96.81	0.031	94.17-97.18	0.031	0.03-0.06	1	1.015	194/17149	86.54	17	AF89_k141_40
+SRR27593228_trimmed_1.fastq.gz	MAG_312.fa	0.0201	0.0371	98.25	0.027	95.65-98.56	0.027	0.03-0.06	1	1.142	233/15037	87.42	3	MAG_312_0
