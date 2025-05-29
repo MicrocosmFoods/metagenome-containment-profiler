@@ -1,4 +1,5 @@
 library(tidyverse)
+library(pheatmap)
 
 # MAG metadata from curation repo
 mag_metadata_url <- "https://raw.githubusercontent.com/MicrocosmFoods/fermentedfood_metadata_curation/refs/heads/main/data/2025-05-21-genome-metadata-food-taxonomy.tsv"
@@ -58,7 +59,7 @@ sylph_profiles_stats <- sylph_profiles_metadata %>%
 missing_samples <- food_metadata %>%
   anti_join(sylph_profiles_metadata, by = "accession_name")
 
-# top genomes across samples and within ingredient groups 
+# top genomes across samples
 top_genomes_overall <- sylph_profiles_metadata %>%
   filter(Sequence_abundance > 1) %>%
   distinct(accession_name, genome_accession) %>%
@@ -82,6 +83,7 @@ top_genomes_overall <- sylph_profiles_metadata %>%
     by = "genome_accession"
   )
 
+# top genomes within ingredient groups
 top_genomes_by_group <- sylph_profiles_metadata %>%
   filter(Sequence_abundance > 1) %>%
   distinct(accession_name, genome_accession, ingredient_group) %>%
@@ -106,3 +108,100 @@ top_genomes_by_group <- sylph_profiles_metadata %>%
     by = "genome_accession"
   )
 
+# heatmap for top genomes within ingredient groups 
+ingredient_group_counts <- sylph_profiles_metadata %>%
+  distinct(accession_name, ingredient_group) %>%
+  count(ingredient_group, name = "total_samples") %>%
+  mutate(
+    group_label = paste0(ingredient_group, " (n=", total_samples, ")")
+  )
+
+top_genomes_by_group_labeled <- top_genomes_by_group %>%
+  left_join(ingredient_group_counts, by = "ingredient_group")
+
+select_ingredient_groups <- c("Dairy", "Grain", "Vegetables_Aromatics", "Legumes", "Sugar", "Botanicals")
+
+top_genomes_by_group_labeled %>%
+  filter(ingredient_group %in% select_ingredient_groups) %>%
+  mutate(prop_detected = n / total_samples) %>% 
+  group_by(species) %>%
+  filter(sum(n, na.rm = TRUE) >= 15) %>%
+  ungroup() %>%
+  ggplot(aes(x = group_label, y = species, fill = prop_detected)) +
+  geom_tile(color = "white") +
+  scale_fill_viridis_c(
+    name = "% of Samples Detected",
+    option = "C",
+    labels = scales::percent_format(accuracy = 1),
+    limits = c(0.01, 1)
+  ) +
+  labs(
+    x = "Ingredient Group (with Total Samples)",
+    y = "Species",
+    title = "Species Prevalence Across Ingredient Groups",
+    subtitle = "Only species detected in ≥15 samples overall"
+  ) +
+  theme_classic(base_size = 12) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "right",
+    axis.line = element_blank(), 
+    panel.border = element_blank(),   
+    axis.ticks = element_blank() 
+  )
+
+# comparing abundance of foods in dairy vs grains
+grain_dairy_abundance <- sylph_profiles_metadata %>%
+  filter(ingredient_group %in% c("Grain", "Dairy")) %>%
+  left_join(
+    rep_mags_metadata %>%
+      select(genome_accession, completeness, contamination, contigs, taxonomy, species),
+    by = "genome_accession"
+  ) %>%
+  mutate(sample_id = paste0(food_name, "_", accession_name)) %>%
+  filter(!is.na(species))
+
+species_to_keep <- grain_dairy_abundance %>%
+  filter(Sequence_abundance > 1) %>% 
+  distinct(sample_id, ingredient_group, species) %>%
+  count(ingredient_group, species, name = "n_samples") %>%
+  filter(n_samples >= 7) %>%
+  pull(species) %>%
+  unique()
+
+filtered_abundance <- grain_dairy_abundance %>%
+  filter(species %in% species_to_keep)
+
+abundance_matrix <- filtered_abundance %>%
+  group_by(species, sample_id) %>%
+  summarise(Sequence_abundance = sum(Sequence_abundance, na.rm = TRUE), .groups = "drop") %>%
+  pivot_wider(
+    names_from = sample_id,
+    values_from = Sequence_abundance,
+    values_fill = 0
+  ) %>%
+  column_to_rownames("species")
+
+sample_annotations <- filtered_abundance %>%
+  distinct(sample_id, ingredient_group) %>%
+  column_to_rownames("sample_id")
+
+ordered_samples <- sample_annotations %>%
+  arrange(ingredient_group) %>% 
+  rownames_to_column("sample_id") %>%
+  pull(sample_id)
+
+abundance_matrix <- abundance_matrix[, ordered_samples]
+
+pheatmap(
+  mat = abundance_matrix,
+  scale = "none",
+  cluster_rows = FALSE,
+  cluster_cols = FALSE,
+  annotation_col = sample_annotations,
+  color = viridis::mako(100),
+  show_colnames = TRUE,
+  fontsize_col = 6,
+  main = "Species Abundance (≥7 Samples per Ingredient Group)",
+  na_col = "grey90"
+)
