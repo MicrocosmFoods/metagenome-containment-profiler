@@ -24,10 +24,10 @@ sample_metadata <- read_tsv("inputs/2025-05-22-selected-samples.tsv") %>%
 # reference isolate metadata
 isolate_metadata <- read_csv("metadata/Probiotic_Species_Strains_Manually_Curated.csv")
 
-colnames(isolate_metadata) <- c("species", "updated_name", "typical_use", "ncbi_accession", "ncbi_link", "genome_accession", "contigs", "chromosome", "notes", "kids_products", "GRAS_approved", "GRAS_link", "commercial_product")
+colnames(isolate_metadata) <- c("species", "updated_name", "typical_use", "genome_accession", "contigs", "notes", "cpg_products", "kids_products", "GRAS_approved", "considered_probiotic", "GRAS_link", "commercial_product")
 
 isolate_metadata_modf <- isolate_metadata %>% 
-  select(updated_name, genome_accession, contigs, typical_use, kids_products, GRAS_approved)
+  select(updated_name, genome_accession, contigs, typical_use, cpg_products, kids_products, GRAS_approved, considered_probiotic)
 
 # joined dfs
 industrial_sylph_results_info <- left_join(industrial_sylph_results, sample_metadata, by="accession_name") %>% 
@@ -38,7 +38,8 @@ fungi_list <- c("Saccharomyces boulardii strain KCTC", "Saccharomyces cerevisiae
 industrial_sylph_results_info_filtered <- industrial_sylph_results_info %>% 
   filter(Adjusted_ANI > 99) %>% 
   mutate(sample_code = paste0(accession_name, "_", sample_name)) %>% 
-  filter(!updated_name %in% fungi_list)
+  filter(!updated_name %in% fungi_list) %>% 
+  filter(!is.na(updated_name))
 
 industrial_sylph_results_info_filtered %>% 
   ggplot(aes(x=sample_code, y=updated_name, fill=Sequence_abundance)) +
@@ -81,7 +82,7 @@ label_map <- setNames(strain_names$updated_name, strain_names$genome_accession)
 tree$tip.label <- label_map[tree$tip.label]
 
 industrial_strain_info <- industrial_sylph_results_info_filtered %>% 
-  select(updated_name, kids_products, GRAS_approved) %>% 
+  select(updated_name, cpg_products, kids_products, GRAS_approved, considered_probiotic) %>% 
   unique()
 
 industrial_strain_info_ordered <- industrial_strain_info %>% 
@@ -99,14 +100,14 @@ p1 <- ggtree(tree, branch.length="none") +
   xlim_tree(30)
 
 
-p1 <- gheatmap(p1, industrial_strain_info_ordered, offset=12, width=0.10, font.size=3, colnames_angle = 45, hjust=0, colnames_position = "top") +
+p1 <- gheatmap(p1, industrial_strain_info_ordered, offset=10, width=0.15, font.size=3, colnames_angle = 45, hjust=0, colnames_position = "top") +
   scale_fill_manual(values = c("Yes" = "steelblue", "No" = "darkgray", "Not this exact strain" = "grey90"), name = "Metadata Response") +
   theme(legend.position = "bottom")
 
 p1 <- p1 + ggnewscale::new_scale_fill()
 
 combined_heatmap <- gheatmap(p1, aggregated_grains_ordered, 
-         offset = 14,
+         offset = 13,
          width = 1, 
          font.size = 3,
          colnames_position = "top",
@@ -114,7 +115,7 @@ combined_heatmap <- gheatmap(p1, aggregated_grains_ordered,
          hjust = 0) + 
   scale_fill_gradient(low = "ivory", high = "navyblue", name = "Median Abundance")
 
-all_heatmap <- gheatmap(p1, aggregated_ordered,
+all_heatmap <- gheatmap(p1, aggregated_grains_ordered,
                         offset = 14,
                         width = 1, 
                         font.size = 3,

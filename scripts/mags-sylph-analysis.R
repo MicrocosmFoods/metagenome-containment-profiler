@@ -35,7 +35,7 @@ food_metadata <- read_tsv("inputs/2025-05-22-selected-samples.tsv") %>%
   distinct(food_name, accession_name, .keep_all = TRUE)
 
 # sylph profiling results
-sylph_profiles <- read_tsv("results/2025-05-28-mags-profiling/2025-05-28-mags-rep-samples-profiles.tsv") %>% 
+sylph_profiles <- read_tsv("results/2025-05-28-mags-profiling/2025-05-28-mags-rep-samples-profiles.tsv") %>%
   mutate(accession_name = gsub("_trimmed_1.fastq.gz", "", Sample_file)) %>% 
   mutate(genome_accession = gsub(".fa", "", Genome_file)) %>% 
   select(accession_name, genome_accession, Sequence_abundance, Adjusted_ANI, Eff_cov, Contig_name)
@@ -121,14 +121,14 @@ top_genomes_by_group_labeled <- top_genomes_by_group %>%
 
 select_ingredient_groups <- c("Dairy", "Grain", "Vegetables_Aromatics", "Legumes", "Sugar", "Botanicals")
 
-top_genomes_by_group_labeled %>%
+top_genomes_samples_plot <- top_genomes_by_group_labeled %>%
   filter(ingredient_group %in% select_ingredient_groups) %>%
   mutate(prop_detected = n / total_samples) %>% 
   group_by(species) %>%
-  filter(sum(n, na.rm = TRUE) >= 15) %>%
+  filter(sum(n, na.rm = TRUE) >= 10) %>%
   ungroup() %>%
   ggplot(aes(x = group_label, y = species, fill = prop_detected)) +
-  geom_tile(color = "white") +
+  geom_tile(color = "black") +
   scale_fill_viridis_c(
     name = "% of Samples Detected",
     option = "C",
@@ -139,7 +139,7 @@ top_genomes_by_group_labeled %>%
     x = "Ingredient Group (with Total Samples)",
     y = "Species",
     title = "Species Prevalence Across Ingredient Groups",
-    subtitle = "Only species detected in ≥15 samples overall"
+    subtitle = "Only species detected in ≥10 samples overall"
   ) +
   theme_classic(base_size = 12) +
   theme(
@@ -149,6 +149,8 @@ top_genomes_by_group_labeled %>%
     panel.border = element_blank(),   
     axis.ticks = element_blank() 
   )
+
+ggsave("figures/top-genomes-samples.png", top_genomes_samples_plot, width=7, height=11, units=c("in"))
 
 # comparing abundance of foods in dairy vs grains
 grain_dairy_abundance <- sylph_profiles_metadata %>%
@@ -193,7 +195,7 @@ ordered_samples <- sample_annotations %>%
 
 abundance_matrix <- abundance_matrix[, ordered_samples]
 
-pheatmap(
+grains_dairy_comps_plot <- pheatmap(
   mat = abundance_matrix,
   scale = "none",
   cluster_rows = FALSE,
@@ -205,3 +207,5 @@ pheatmap(
   main = "Species Abundance (≥7 Samples per Ingredient Group)",
   na_col = "grey90"
 )
+
+ggsave("figures/grains-dairy-species-abundance-comps.png", grains_dairy_comps_plot, width=15, height=8, units=c("in"))
