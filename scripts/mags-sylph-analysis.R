@@ -1,5 +1,8 @@
 library(tidyverse)
 library(pheatmap)
+library(UpSetR)
+library(ggridges)
+
 
 # MAG metadata from curation repo
 mag_metadata_url <- "https://raw.githubusercontent.com/MicrocosmFoods/fermentedfood_metadata_curation/refs/heads/main/data/2025-05-21-genome-metadata-food-taxonomy.tsv"
@@ -50,7 +53,7 @@ sylph_profiles_stats <- sylph_profiles_metadata %>%
   group_by(accession_name) %>%
   summarise(
     n_genomes = n_distinct(genome_accession),
-    percent_mapped = sum(Sequence_abundance, na.rm = TRUE),
+    percent_mapped = round(sum(Sequence_abundance, na.rm = TRUE), 3),
     percent_unmapped = round(100 - sum(Sequence_abundance, na.rm = TRUE), 3),
     .groups = "drop"
   ) %>%
@@ -59,9 +62,8 @@ sylph_profiles_stats <- sylph_profiles_metadata %>%
 missing_samples <- food_metadata %>%
   anti_join(sylph_profiles_metadata, by = "accession_name")
 
-# top genomes across samples
-top_genomes_overall <- sylph_profiles_metadata %>%
-  filter(Sequence_abundance > 1) %>%
+# genome stats
+genome_stats <- sylph_profiles_metadata %>%
   distinct(accession_name, genome_accession) %>%
   count(genome_accession, sort = TRUE) %>%
   rename(n_samples = n) %>%
@@ -72,7 +74,6 @@ top_genomes_overall <- sylph_profiles_metadata %>%
   ) %>%
   left_join(
     sylph_profiles_metadata %>%
-      filter(Sequence_abundance > 1) %>%
       group_by(genome_accession) %>%
       summarise(
         min_abundance = min(Sequence_abundance, na.rm = TRUE),
@@ -119,7 +120,7 @@ ingredient_group_counts <- sylph_profiles_metadata %>%
 top_genomes_by_group_labeled <- top_genomes_by_group %>%
   left_join(ingredient_group_counts, by = "ingredient_group")
 
-select_ingredient_groups <- c("Dairy", "Grain", "Vegetables_Aromatics", "Legumes", "Sugar", "Botanicals")
+select_ingredient_groups <- c("Dairy", "Grain", "Vegetables_Aromatics", "Legumes", "Sugar", "Botanical", "Fruit", "Roots_Tubers")
 
 top_genomes_samples_plot <- top_genomes_by_group_labeled %>%
   filter(ingredient_group %in% select_ingredient_groups) %>%
@@ -127,7 +128,7 @@ top_genomes_samples_plot <- top_genomes_by_group_labeled %>%
   group_by(species) %>%
   filter(sum(n, na.rm = TRUE) >= 10) %>%
   ungroup() %>%
-  ggplot(aes(x = group_label, y = species, fill = prop_detected)) +
+  ggplot(aes(x = group_label, y = fct_rev(species), fill = prop_detected)) +
   geom_tile(color = "black") +
   scale_fill_viridis_c(
     name = "% of Samples Detected",
@@ -143,18 +144,131 @@ top_genomes_samples_plot <- top_genomes_by_group_labeled %>%
   ) +
   theme_classic(base_size = 12) +
   theme(
-    axis.text.x = element_text(angle = 45, hjust = 1),
+    axis.text.x = element_text(angle = 45, hjust=1),
+    axis.text.y = element_text(face="italic"),
+    title = element_text(face="bold", size=14),
     legend.position = "right",
     axis.line = element_blank(), 
     panel.border = element_blank(),   
     axis.ticks = element_blank() 
+  ) +
+  scale_x_discrete(position = "bottom") + 
+  theme(rect = element_rect(fill = "transparent"))
+
+
+top_genomes_samples_plot
+
+ggsave("figures/top-genomes-samples.png", top_genomes_samples_plot, width=8, height=11, units=c("in"))
+
+# Upset plot of overlap of number of genomes across ingredient groups
+
+sylph_binary <- sylph_profiles_metadata %>%
+  select(genome_accession, ingredient_group) %>%
+  filter(ingredient_group %in% select_ingredient_groups) %>% 
+  distinct() %>%  # Remove any duplicates
+  mutate(present = 1) %>%
+  pivot_wider(
+    names_from = ingredient_group,
+    values_from = present,
+    values_fill = list(present = 0)
   )
+  
+upset_input <- as.data.frame(sylph_binary %>% select(-genome_accession))
 
-ggsave("figures/top-genomes-samples.png", top_genomes_samples_plot, width=7, height=11, units=c("in"))
+upset_plot <- upset(upset_input, 
+      sets = colnames(upset_input),
+      order.by = "freq") +
+      theme(rect = element_rect(fill = "transparent"))
 
-# comparing abundance of foods in dairy vs grains
-grain_dairy_abundance <- sylph_profiles_metadata %>%
-  filter(ingredient_group %in% c("Grain", "Dairy")) %>%
+png("figures/upset-plot-genomes.png", width = 2500, height = 1600, res = 300)
+upset(upset_input, 
+      sets = colnames(upset_input),
+      order.by = "freq")
+dev.off()
+
+
+# heatmap of abundance of genomes that are in all select ingredient groups
+genomes_in_all <- sylph_binary %>%
+  filter(if_all(all_of(select_ingredient_groups), ~ . == 1)) %>%
+  pull(genome_accession)
+
+abundance_subset <- sylph_profiles_metadata %>%
+  filter(genome_accession %in% genomes_in_all,
+         ingredient_group %in% select_ingredient_groups) %>%
+  left_join(rep_mags_metadata %>% select(genome_accession, species), by = "genome_accession") %>%
+  mutate(sample_id = paste0(food_name, "_", accession_name)) %>%
+  filter(!is.na(species))
+
+species_labels <- abundance_subset %>%
+  distinct(species, genome_accession) %>%
+  group_by(species) %>%
+  mutate(
+    species_unique = if (n() > 1) {
+      paste0(species, " (", LETTERS[seq_len(n())], ")")
+    } else {
+      species
+    }
+  ) %>%
+  ungroup()
+
+abundance_subset <- abundance_subset %>%
+  left_join(species_labels, by = c("species", "genome_accession")) %>%
+  mutate(species = species_unique) %>%
+  select(species, sample_id, ingredient_group, Sequence_abundance)
+
+abundance_matrix <- abundance_subset %>%
+  group_by(species, sample_id) %>%
+  summarise(Sequence_abundance = sum(Sequence_abundance, na.rm = TRUE), .groups = "drop") %>%
+  pivot_wider(
+    names_from = sample_id,
+    values_from = Sequence_abundance,
+    values_fill = list(Sequence_abundance = 0)
+  ) %>%
+  column_to_rownames("species")
+
+nonzero_samples <- colnames(abundance_matrix)[colSums(abundance_matrix) > 0]
+abundance_matrix <- abundance_matrix[, nonzero_samples]
+
+sample_annotations <- abundance_subset %>%
+  distinct(sample_id, ingredient_group) %>%
+  filter(sample_id %in% nonzero_samples) %>%
+  column_to_rownames("sample_id")
+
+ordered_samples <- sample_annotations %>%
+  arrange(ingredient_group) %>%
+  rownames_to_column("sample_id") %>%
+  pull(sample_id)
+
+abundance_matrix <- abundance_matrix[, ordered_samples]
+sample_annotations <- sample_annotations[ordered_samples, , drop = FALSE]
+
+
+# color palettes
+heatmap_colors <- viridis::mako(100)
+
+group_colors <- RColorBrewer::brewer.pal(length(select_ingredient_groups), "Set2")
+names(group_colors) <- select_ingredient_groups
+annotation_colors <- list(ingredient_group = group_colors)
+
+top_abundance_heatmap <- pheatmap(
+  mat = as.matrix(abundance_matrix),
+  scale = "none",
+  cluster_rows = TRUE,
+  cluster_cols = FALSE,
+  annotation_col = sample_annotations,
+  annotation_colors = annotation_colors,
+  show_colnames = TRUE,
+  fontsize_col = 6,
+  main = "Abundance of Shared Species Across Samples",
+  color = heatmap_colors,
+  na_col = "grey90")
+
+ggsave("figures/top-genomes-abundance-heatmap.png", top_abundance_heatmap, width=25, height=8, units=c("in"))
+
+
+# comparing abundance of genomes in dairy vs grains
+veg_dairy_abundance <- sylph_profiles_metadata %>%
+  filter(ingredient_group %in% c("Dairy", "Vegetables_Aromatics")) %>%
   left_join(
     rep_mags_metadata %>%
       select(genome_accession, completeness, contamination, contigs, taxonomy, species),
@@ -163,7 +277,7 @@ grain_dairy_abundance <- sylph_profiles_metadata %>%
   mutate(sample_id = paste0(food_name, "_", accession_name)) %>%
   filter(!is.na(species))
 
-species_to_keep <- grain_dairy_abundance %>%
+species_to_keep <- veg_dairy_abundance %>%
   filter(Sequence_abundance > 1) %>% 
   distinct(sample_id, ingredient_group, species) %>%
   count(ingredient_group, species, name = "n_samples") %>%
@@ -171,7 +285,7 @@ species_to_keep <- grain_dairy_abundance %>%
   pull(species) %>%
   unique()
 
-filtered_abundance <- grain_dairy_abundance %>%
+filtered_abundance <- veg_dairy_abundance %>%
   filter(species %in% species_to_keep)
 
 abundance_matrix <- filtered_abundance %>%
@@ -195,7 +309,7 @@ ordered_samples <- sample_annotations %>%
 
 abundance_matrix <- abundance_matrix[, ordered_samples]
 
-grains_dairy_comps_plot <- pheatmap(
+veg_dairy_comps_plot <- pheatmap(
   mat = abundance_matrix,
   scale = "none",
   cluster_rows = FALSE,
@@ -208,4 +322,35 @@ grains_dairy_comps_plot <- pheatmap(
   na_col = "grey90"
 )
 
-ggsave("figures/grains-dairy-species-abundance-comps.png", grains_dairy_comps_plot, width=15, height=8, units=c("in"))
+ggsave("figures/veg-dairy-species-abundance-comps.png", veg_dairy_comps_plot, width=15, height=8, units=c("in"))
+
+# ridge plot of genomes found in all ingredient groups
+genomes_in_all <- sylph_binary %>%
+  filter(if_all(all_of(select_ingredient_groups), ~ . == 1)) %>%
+  pull(genome_accession)
+
+abundance_data <- sylph_profiles_metadata %>%
+  filter(genome_accession %in% genomes_in_all,
+         ingredient_group %in% select_ingredient_groups) %>%
+  left_join(rep_mags_metadata %>% select(genome_accession, species), by = "genome_accession") %>%
+  filter(!is.na(species)) %>%
+  distinct(accession_name, genome_accession, species, ingredient_group, Sequence_abundance)
+
+core_genomes_ridges <- ggplot(abundance_data, aes(x = Sequence_abundance, y = fct_rev(species), fill = ingredient_group)) +
+  geom_density_ridges(
+    alpha = 0.7,
+    scale = 1,
+    rel_min_height = 0.05
+  ) +
+  scale_fill_brewer(palette = "Set2") +
+  labs(
+    x = "Sequence Abundance",
+    y = "Species",
+    fill = "Ingredient Group",
+    title = "Abundance Distribution of Shared Genomes Across Ingredient Groups"
+  ) +
+  theme_ridges() +
+  theme(legend.position = "bottom")
+
+ggsave("figures/core-genomes-ridges-plot.png", core_genomes_ridges, width=11, height=8, units=c("in"))
+
