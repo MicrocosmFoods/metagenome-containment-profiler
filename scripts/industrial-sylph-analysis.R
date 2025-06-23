@@ -99,7 +99,6 @@ p1 <- ggtree(tree, branch.length="none") +
               linesize=0.3) +
   xlim_tree(30)
 
-
 p1 <- gheatmap(p1, industrial_strain_info_ordered, offset=10, width=0.15, font.size=3, colnames_angle = 45, hjust=0, colnames_position = "top") +
   scale_fill_manual(values = c("Yes" = "steelblue", "No" = "darkgray", "Not this exact strain" = "grey90"), name = "Metadata Response") +
   theme(legend.position = "bottom")

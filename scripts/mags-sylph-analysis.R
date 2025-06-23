@@ -2,7 +2,10 @@ library(tidyverse)
 library(pheatmap)
 library(UpSetR)
 library(ggridges)
-
+library(ape)
+library(ggtree)
+library(patchwork)
+library(cowplot)
 
 # MAG metadata from curation repo
 mag_metadata_url <- "https://raw.githubusercontent.com/MicrocosmFoods/fermentedfood_metadata_curation/refs/heads/main/data/2025-05-21-genome-metadata-food-taxonomy.tsv"
@@ -122,6 +125,12 @@ top_genomes_by_group_labeled <- top_genomes_by_group %>%
 
 select_ingredient_groups <- c("Dairy", "Grain", "Vegetables_Aromatics", "Legumes", "Sugar", "Botanical", "Fruit", "Roots_Tubers")
 
+top_genomes_list_filtered <- top_genomes_by_group_labeled %>% 
+  filter(!is.na(species)) %>% 
+  filter(n >= 10) %>%
+  pull(genome_accession)
+
+# top samples heatmap plot
 top_genomes_samples_plot <- top_genomes_by_group_labeled %>%
   filter(ingredient_group %in% select_ingredient_groups) %>%
   mutate(prop_detected = n / total_samples) %>% 
@@ -140,7 +149,7 @@ top_genomes_samples_plot <- top_genomes_by_group_labeled %>%
     x = "Ingredient Group (with Total Samples)",
     y = "Species",
     title = "Species Prevalence Across Ingredient Groups",
-    subtitle = "Only species detected in ≥10 samples overall"
+    subtitle = "Only species detected in ≥10 samples"
   ) +
   theme_classic(base_size = 12) +
   theme(
@@ -155,10 +164,146 @@ top_genomes_samples_plot <- top_genomes_by_group_labeled %>%
   scale_x_discrete(position = "bottom") + 
   theme(rect = element_rect(fill = "transparent"))
 
+# ridges plot of top genomes and abundance
+top_genomes_abundance_data <- sylph_profiles_metadata %>% 
+  filter(genome_accession %in% top_genomes_list_filtered,
+         ingredient_group %in% select_ingredient_groups) %>% 
+  left_join(rep_mags_metadata %>% select(genome_accession, species), by="genome_accession") %>% 
+  filter(!is.na(species)) %>% 
+  distinct(accession_name, genome_accession, species, ingredient_group, Sequence_abundance)
 
-top_genomes_samples_plot
+top_genomes_ridges_plot <- ggplot(top_genomes_abundance_data, aes(x = Sequence_abundance, y = fct_rev(species), fill = ingredient_group)) +
+  geom_density_ridges(
+    alpha = 0.7,
+    scale = 1,
+    rel_min_height = 0.05
+  ) +
+  scale_fill_brewer(palette = "Set2") +
+  labs(
+    x = "Sequence Abundance",
+    y = "Species",
+    fill = "Ingredient Group",
+    title = "Abundance Distribution of Top Genomes Across Ingredient Groups", 
+    subtitle = "Only species detected in ≥10 samples within individual ingredient groups"
+  ) +
+  theme_ridges() +
+  theme(legend.position = "right") +
+  theme(axis.text.y=element_text(face="italic"))
 
+# save heatmap and ridges plots
 ggsave("figures/top-genomes-samples.png", top_genomes_samples_plot, width=8, height=11, units=c("in"))
+ggsave("figures/top-genomes-ridges.png", top_genomes_ridges_plot, width=11, height=8, units=c("in"))
+
+# split main abundance ridges plot by bacteria vs eukaryotes with corresponding trees plotted
+# first split out bacteria and eukaryotes
+top_genomes_tax_info <- top_genomes_abundance_data %>% 
+  select(genome_accession) %>% 
+  unique() %>% 
+  left_join(rep_mags_metadata) %>% 
+  filter(genome_accession != "LeechJ_xxxx__AF51__bin.9") %>% 
+  mutate(phylum = sapply(strsplit(as.character(taxonomy), ";"), `[`, 1))
+
+euk_df <- top_genomes_tax_info %>% 
+  filter(phylum == "Ascomycota")
+
+bac_df <- top_genomes_tax_info %>% 
+  filter(phylum != "Ascomycota")
+
+# write out list of bacterial genome accessions to make tree
+write.table(bac_df$genome_accession, "metadata/bacterial_genome_accessions.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
+
+# species names with updated genome accession formatting
+species_names <- top_genomes_abundance_data %>% 
+  mutate(genome_accession = gsub("-", "_", genome_accession)) %>% 
+  filter(genome_accession != "LeechJ_xxxx__AF51__bin.9") %>% 
+  select(genome_accession, species) %>% 
+  unique()
+
+# read in the bacterial concatenated tree and plot
+bac_tree <- read.tree("results/2025-05-28-mags-profiling/bacteria-fastTree-ribosomal-tree.tre")
+
+label_map <- setNames(species_names$species, species_names$genome_accession)
+
+bac_tree$tip.label <- label_map[bac_tree$tip.label]
+
+tree_plot_obj <- ggtree(bac_tree, branch.length = "none") +
+  geom_tiplab(
+    align = TRUE,
+    linetype = "dotted",
+    size = 4,
+    linesize = 0.3,
+    offset = 0
+  ) +
+  theme_tree2()
+
+tip_order <- tree_plot_obj$data %>% 
+  filter(isTip) %>% 
+  arrange(y) %>% 
+  pull(label)
+
+bacterial_plot_data <- top_genomes_abundance_data %>%
+  filter(species %in% bac_tree$tip.label) %>%
+  mutate(species = factor(species, levels = tip_order))
+
+ordered_bacterial_ridges_plot <- ggplot(bacterial_plot_data, aes(x = Sequence_abundance, y = species, fill = ingredient_group)) +
+  geom_density_ridges(alpha = 0.7, scale = 1, rel_min_height = 0.05) +
+  scale_x_continuous(
+    limits = c(0, 100),
+    breaks = seq(0, 100, by = 20),
+    expand = c(0,0)
+  ) +
+  scale_fill_brewer(palette = "Set2") +
+  labs(
+    x = "Sequence Abundance",
+    y = NULL,
+    fill = "Ingredient Group"
+  ) +
+  theme_ridges() +
+  theme(
+    axis.text.y = element_text(face="italic"),
+    axis.ticks.y = element_blank(),
+    legend.position = "bottom",
+    plot.margin = margin(t = 5, r = 10, b = 5, l = 80)
+  )
+
+# eukaryotic ridges plot
+euks_list <- euk_df %>% 
+  mutate(genome_accession = gsub("-", "_", genome_accession)) %>% 
+  pull(genome_accession)
+  
+
+euk_abundance_data <- top_genomes_abundance_data %>% 
+  filter(genome_accession %in% euks_list)
+
+euk_ridges_plot <- ggplot(euk_abundance_data, aes(x = Sequence_abundance, y = species, fill = ingredient_group)) +
+  geom_density_ridges(alpha = 0.7, scale = 1, rel_min_height = 0.05) +
+  scale_x_continuous(
+    limits = c(0, 100),
+    breaks = seq(0, 100, by = 20)
+  ) +
+  scale_fill_brewer(palette = "Set2") +
+  labs(
+    x = "Sequence Abundance",
+    y = NULL,
+    fill = "Ingredient Group"
+  ) +
+  theme_ridges() +
+  theme(
+    axis.text.y = element_text(face="italic"),
+    axis.ticks.y = element_blank(),
+    legend.position = "bottom",
+    plot.margin = margin(l = -20)
+  )
+
+# save individual plots
+# tree
+ggsave("figures/core-bac-genomes-tree.png", tree_plot_obj)
+
+# bacterial ridges plot
+ggsave("figures/ordered-bacterial-ridges-plot.png", ordered_bacterial_ridges_plot, width=15, height=10, units=c("in"))
+
+# euk ridges plot
+ggsave("figures/euk-ridges-plot.png", euk_ridges_plot, width=15, height=8, units=c("in"))
 
 # Upset plot of overlap of number of genomes across ingredient groups
 
@@ -177,8 +322,7 @@ upset_input <- as.data.frame(sylph_binary %>% select(-genome_accession))
 
 upset_plot <- upset(upset_input, 
       sets = colnames(upset_input),
-      order.by = "freq") +
-      theme(rect = element_rect(fill = "transparent"))
+      order.by = "freq")
 
 png("figures/upset-plot-genomes.png", width = 2500, height = 1600, res = 300)
 upset(upset_input, 
@@ -266,7 +410,7 @@ top_abundance_heatmap <- pheatmap(
 ggsave("figures/top-genomes-abundance-heatmap.png", top_abundance_heatmap, width=25, height=8, units=c("in"))
 
 
-# comparing abundance of genomes in dairy vs grains
+# comparing abundance of genomes in veg vs grains
 veg_dairy_abundance <- sylph_profiles_metadata %>%
   filter(ingredient_group %in% c("Dairy", "Vegetables_Aromatics")) %>%
   left_join(
@@ -350,7 +494,8 @@ core_genomes_ridges <- ggplot(abundance_data, aes(x = Sequence_abundance, y = fc
     title = "Abundance Distribution of Shared Genomes Across Ingredient Groups"
   ) +
   theme_ridges() +
-  theme(legend.position = "bottom")
+  theme(legend.position = "bottom",
+        axis.text.y=element_text(face="italic"))
 
 ggsave("figures/core-genomes-ridges-plot.png", core_genomes_ridges, width=11, height=8, units=c("in"))
 
