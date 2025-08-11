@@ -1,0 +1,1096 @@
+accession_name	food_name	genome_accession	species	Sequence_abundance	Adjusted_ANI	Eff_cov	completeness	contamination	contigs	taxonomy
+ERR11865303	kefir	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	3.5652	99.85	1.432	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR11865451	kefir	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.6028	99.43	0.645	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR11865451	kefir	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.3814	99.55	0.156	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR2102261	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	3.3986	100	43	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2126384	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.0791	99.69	0.599	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2133080	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.4202	99.86	3.617	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2135449	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.3363	99.8	3.311	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2135457	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.5868	99.86	3.868	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2135518	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	1.1716	99.99	10.864	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2135519	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	33.8378	100	364	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2231567	coffee	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	31.0652	99.83	25	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR2231567	coffee	DuR_2020__DRS139334__bin.19	Pichia kluyveri	15.8985	99.32	9.656	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231567	coffee	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	4.1779	98.76	3.179	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+ERR2231567	coffee	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.1156	99.76	0.077	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231567	coffee	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0397	98.09	0.038	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+ERR2231568	coffee	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	24.8438	99.83	23	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR2231568	coffee	DuR_2020__DRS139334__bin.19	Pichia kluyveri	19.2348	99.42	13.44	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231568	coffee	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	4.9538	98.89	4.336	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+ERR2231568	coffee	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.1168	95.28	0.129	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+ERR2231568	coffee	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.1121	99.43	0.085	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231569	coffee	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	25.7474	99.84	27	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR2231569	coffee	DuR_2020__DRS139334__bin.19	Pichia kluyveri	14.4995	99.38	11.476	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231569	coffee	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	3.52	98.82	3.49	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+ERR2231569	coffee	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0866	99.92	0.075	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231569	coffee	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.0222	96.89	0.019	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+ERR2231570	coffee	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	16.0626	99.83	21	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR2231570	coffee	DuR_2020__DRS139334__bin.19	Pichia kluyveri	11.6342	99.42	11.48	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231570	coffee	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	2.4823	98.73	3.068	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+ERR2231570	coffee	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0572	95.37	0.089	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+ERR2231570	coffee	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0571	99.61	0.061	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231571	coffee	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	10.3721	99.82	18	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR2231571	coffee	DuR_2020__DRS139334__bin.19	Pichia kluyveri	8.9389	99.41	11.708	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231571	coffee	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	2.2113	98.83	3.628	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+ERR2231571	coffee	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0638	98.16	0.091	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231572	coffee	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	7.5728	99.79	10.637	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR2231572	coffee	DuR_2020__DRS139334__bin.19	Pichia kluyveri	6.5441	99.25	6.937	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231572	coffee	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	2.3918	98.76	3.176	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+ERR2231572	coffee	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0542	98.91	0.063	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR2231572	coffee	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0273	95.72	0.046	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+ERR2401479	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.8658	100	10.487	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2401482	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	1.0646	100	11.974	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR2437614	tea fermented	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.2508	99.96	1.987	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+ERR4757805	kvass	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	8.1663	99.8	2.253	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757805	kvass	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	3.4223	99.88	1.051	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+ERR4757805	kvass	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.5627	99.38	0.153	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757806	kimchi	LeechJ_2020__ERS3967694__bin.5	Kazachstania saulgeensis	5.115	99.92	1.509	95.4	1.7	658	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757807	boza	LeechJ_2020__ERS3967694__bin.5	Kazachstania saulgeensis	8.0802	99.85	3.937	95.4	1.7	658	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757807	boza	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	1.9673	99	1.042	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757807	boza	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.9586	98.53	0.446	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+ERR4757809	orange	LeechJ_2020__ERS3967694__bin.5	Kazachstania saulgeensis	59.9817	100	18	95.4	1.7	658	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757809	orange	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	23.4009	100	9.007	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+ERR4757809	orange	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	7.4331	99.39	3.026	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR4757809	orange	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	5.6304	99.76	2.357	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757809	orange	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	2.1399	99.63	0.716	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757809	orange	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.2692	98.25	0.077	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+ERR4757809	orange	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1443	98.31	0.041	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+ERR4757809	orange	DuR_2020__DRS139334__bin.19	Pichia kluyveri	0.1252	98.01	0.038	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757809	orange	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0545	100	0.016	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+ERR4757810	sauerkraut	LeechJ_2020__ERS3967694__bin.5	Kazachstania saulgeensis	17.3246	99.96	5.753	95.4	1.7	658	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757811	tepache	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.2732	98.84	0.1	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757811	tepache	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.1388	99.26	0.058	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+ERR4757811	tepache	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.045	98.22	0.017	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757812	beer ginger	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	11.5451	99.93	1.767	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+ERR4757812	beer ginger	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	8.4254	98.92	1.042	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757812	beer ginger	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	3.5964	99.48	0.488	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757812	beer ginger	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.263	99.45	0.244	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757813	tempeh	DuR_2020__DRS139335__bin.25	Cyberlindnera fabianii	0.2924	99.67	0.22	65	0	2059	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+ERR4757813	tempeh	GCA_003325435.1_Razy_CA_genomic	Rhizopus oligosporus	0.3187	95.82	0.057	94.35	51.74	5774	Mucoromycota;Mucoromycetes;Mucorales;Rhizopodaceae;Rhizopus
+ERR4757814	pickle cucumber	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	1.3076	99.33	0.469	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+ERR4757814	pickle cucumber	MASTER_WP4_TEAGASC_1__TGS05-22__bin.3	Candida boidinii group 1	0.3136	98.58	0.106	80.3	0.2	4091	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Ogataea
+ERR4757815	kefir	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	7.7647	99.05	3.464	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757815	kefir	EBC_024.4	Kluyveromyces marxianus	2.5438	98.44	1.206	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+ERR4757815	kefir	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.2543	98.87	0.103	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757815	kefir	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.2392	97.34	0.074	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+ERR4757816	tibicos	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	13.1859	99.92	6.01	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757816	tibicos	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.3713	99.61	0.671	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757816	tibicos	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.7202	99.94	0.398	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+ERR4757816	tibicos	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.8285	98.89	0.37	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757816	tibicos	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.6001	98.9	0.327	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757816	tibicos	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0684	99.02	0.048	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757818	pickle daikon	MASTER_WP4_FFoQSI_2__VB10-22__bin.21	unknown spp.	3.7496	96.84	0.59	78.5	0.5	56	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+ERR4757818	pickle daikon	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.4656	99.08	0.083	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR4757818	pickle daikon	MASTER_WP4_FFoQSI_2__VB10-22__bin.15	Wickerhamiella versatilis	0.4796	98.66	0.08	83.2	0.6	42	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+ERR4757818	pickle daikon	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.5126	96.66	0.066	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+ERR4757818	pickle daikon	XieM_2019__SAMC044639__bin.29	Penicillium polonicum	1.2642	97.96	0.065	91.4	0.3	2071	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+ERR4757818	pickle daikon	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	0.6267	95.48	0.036	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+ERR4757819	pickle mixed vegetables	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	1.9004	99.78	0.381	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+ERR4757819	pickle mixed vegetables	MASTER_WP4_FFoQSI_2__VB10-22__bin.15	Wickerhamiella versatilis	0.1552	99.11	0.04	83.2	0.6	42	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+ERR4757821	amazake	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.4803	95.29	0.045	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757821	amazake	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.2869	95.23	0.024	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757822	kvass	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.1315	99.87	0.051	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+ERR4757823	tibicos	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0903	99	0.042	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757823	tibicos	EBC_024.4	Kluyveromyces marxianus	0.0482	97.84	0.024	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+ERR4757825	sauerkraut	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.0478	95.65	0.021	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757826	sauerkraut	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	12.0691	99.82	4.225	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757826	sauerkraut	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.1663	98.89	0.08	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757826	sauerkraut	LeechJ_2020__ERS3967694__bin.5	Kazachstania saulgeensis	0.091	96.12	0.031	95.4	1.7	658	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757826	sauerkraut	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.0647	98.48	0.024	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757827	kimchi	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	0.8463	99.57	0.193	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757828	sauerkraut	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	0.2948	99.27	0.095	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757829	tibicos	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	67.4323	100	28	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757829	tibicos	MASTER_WP4_TEAGASC_1__TGS05-22__bin.3	Candida boidinii group 1	0.0326	100	0.009	80.3	0.2	4091	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Ogataea
+ERR4757830	tibicos	MASTER_WP4_TEAGASC_1__TGS05-22__bin.3	Candida boidinii group 1	0.5116	98.14	0.242	80.3	0.2	4091	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Ogataea
+ERR4757830	tibicos	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.1466	99.8	0.104	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757831	tibicos	MASTER_WP4_TEAGASC_1__TGS05-22__bin.3	Candida boidinii group 1	0.1029	97.87	0.035	80.3	0.2	4091	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Ogataea
+ERR4757835	cheese russian	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.0535	95.74	0.029	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757835	cheese russian	LeechJ_xxxx__AF26__bin.14	unknown spp.	0.0432	95.77	0.028	70.9	0.1	2372	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+ERR4757835	cheese russian	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.0434	98.84	0.018	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+ERR4757837	sauerkraut	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.2041	98.61	0.062	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757837	sauerkraut	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.094	97.08	0.028	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757839	vinegar apple cider	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	12.3826	98.88	4.048	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757839	vinegar apple cider	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	10.3736	99.77	3.463	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757839	vinegar apple cider	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.0406	97.93	0.016	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757840	kefir	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.3509	98.48	0.143	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+ERR4757842	tibicos	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	10.7935	98.75	3.401	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757842	tibicos	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	2.1588	99.47	0.746	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757842	tibicos	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.5752	99.33	0.185	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757842	tibicos	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.2132	100	0.083	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+ERR4757842	tibicos	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0898	97.03	0.03	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+ERR4757842	tibicos	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0531	96.47	0.02	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757843	tibicos	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	12.2678	99.47	5.067	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757843	tibicos	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	5.2613	98.96	1.982	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757843	tibicos	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.1968	99.3	0.076	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757843	tibicos	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.1025	99.48	0.048	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+ERR4757843	tibicos	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0367	98.58	0.017	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757845	kimchi	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.4756	99.44	0.418	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757846	kimchi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.1947	98.54	0.027	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757847	garlic fermented	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	28.1477	99.67	4.031	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757847	garlic fermented	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	1.9151	98.91	0.267	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757847	garlic fermented	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.9199	99.59	0.117	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+ERR4757847	garlic fermented	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.2479	98.88	0.044	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757847	garlic fermented	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.2953	97.49	0.031	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+ERR4757847	garlic fermented	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1927	96.77	0.023	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+ERR4757847	garlic fermented	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.1962	99.26	0.023	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757848	dukkah sauerkraut	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.5835	99.54	0.202	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757848	dukkah sauerkraut	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.104	98.36	0.045	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757849	ginger fermented	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	2.3288	98.8	0.583	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757850	pickle daikon	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	3.003	99.72	1.105	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757850	pickle daikon	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.426	99.44	0.656	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757850	pickle daikon	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.9965	98.69	0.357	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757850	pickle daikon	MASTER_WP4_TEAGASC_1__TGS05-22__bin.3	Candida boidinii group 1	0.1942	98.58	0.046	80.3	0.2	4091	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Ogataea
+ERR4757851	pickle okra	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	14.115	99.07	5.099	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757851	pickle okra	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	11.1799	99.68	4.144	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757852	pickle tomato	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.3161	98.85	0.16	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757854	tibicos	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	24.1557	99.09	9.221	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757854	tibicos	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	18.5129	99.87	7.215	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+ERR4757854	tibicos	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	2.22	99.81	1.049	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+ERR4757854	tibicos	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	2.3122	99.56	0.968	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+ERR4757854	tibicos	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.062	98.5	0.037	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757855	kvass	MASTER_WP4_TEAGASC_1__TGS05-22__bin.3	Candida boidinii group 1	8.0576	98.94	2.226	80.3	0.2	4091	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Ogataea
+ERR4757855	kvass	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	4.1921	98.86	1.555	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+ERR4757855	kvass	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	1.2832	99.62	0.557	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757855	kvass	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0969	99.27	0.037	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+ERR4757855	kvass	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0741	99.67	0.031	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757855	kvass	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0559	97.34	0.03	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757856	tibicos	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	7.2325	98.9	3.541	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757856	tibicos	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	3.1355	99.78	1.399	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757856	tibicos	MASTER_WP4_TEAGASC_1__TGS06-22__bin.9	Saturnispora mendoncae	1.6308	99.65	1.014	89	0.1	540	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Saturnispora
+ERR4757856	tibicos	EBC_024.4	Kluyveromyces marxianus	0.0463	96.48	0.024	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+ERR4757857	carrot sticks	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	48.8424	100	13.004	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757857	carrot sticks	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.1759	99.2	0.05	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+ERR4757859	beer ginger	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	0.2942	99.18	0.11	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757859	beer ginger	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.0788	98.07	0.029	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR4757860	kimchi	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	1.1728	96.62	0.031	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+ERR4757860	kimchi	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	1.2332	95.96	0.024	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+ERR7245779	cheese	KastmanEK_2016__CSB720__bin.5	Scopulariopsis brevicaulis	0.016	98.79	0.061	93.5	0.6	604	Ascomycota;Sordariomycetes;Microascales;Microascaceae;Scopulariopsis
+SRR10454485	sourdough	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	5.4799	99.44	3.394	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10454490	sourdough	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.4092	99.58	0.605	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10454511	sourdough	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.6531	99.55	0.739	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10454512	sourdough	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.6909	99.54	0.891	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10454514	sourdough	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.6967	99.8	1.404	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR10454514	sourdough	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.5241	99.33	0.304	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10454517	sourdough	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.5187	97.66	0.136	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10664430	hongeo	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.278	99.22	0.169	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10664433	hongeo	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0551	97.52	0.061	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10997046	pulque	ChaconVargasK_2020__SRS6087094__bin.8	Saccharomyces paradoxus	3.6846	99.99	14.857	50	1	614	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10997047	pulque	ChaconVargasK_2020__SRS6087094__bin.8	Saccharomyces paradoxus	13.809	99.99	58	50	1	614	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10997048	pulque	ChaconVargasK_2020__SRS6087094__bin.8	Saccharomyces paradoxus	6.2148	100	8.888	50	1	614	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10997049	pulque	ChaconVargasK_2020__SRS6087094__bin.8	Saccharomyces paradoxus	8.8496	99.99	41	50	1	614	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR10997050	pulque	ChaconVargasK_2020__SRS6087094__bin.8	Saccharomyces paradoxus	0.0469	98.32	0.14	50	1	614	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11036331	tempeh	GCA_003325435.1_Razy_CA_genomic	Rhizopus oligosporus	11.9786	97.84	15	94.35	51.74	5774	Mucoromycota;Mucoromycetes;Mucorales;Rhizopodaceae;Rhizopus
+SRR11036331	tempeh	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.0939	99.33	0.217	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR11036331	tempeh	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.0089	96.94	0.034	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR11036331	tempeh	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	0.0248	95.64	0.03	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR11036332	tempeh	GCA_003325435.1_Razy_CA_genomic	Rhizopus oligosporus	38.6827	98.07	25	94.35	51.74	5774	Mucoromycota;Mucoromycetes;Mucorales;Rhizopodaceae;Rhizopus
+SRR11036332	tempeh	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.1685	99.23	0.201	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR11036332	tempeh	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.0568	99.65	0.103	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR11602139	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.5689	99.55	1.158	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602139	chocolate	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.2397	99.57	0.34	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11602139	chocolate	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.0549	97.13	0.076	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR11602139	chocolate	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	0.0155	98.84	0.029	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+SRR11602147	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	2.8548	99.75	7.597	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602147	chocolate	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.2585	99.65	2.338	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11602147	chocolate	DuR_2020__DRS139334__bin.19	Pichia kluyveri	0.059	98.87	0.115	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR11602147	chocolate	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.0534	98.59	0.097	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR11602147	chocolate	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	0.0248	99.23	0.061	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+SRR11602147	chocolate	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.0179	96.68	0.046	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602147	chocolate	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.0392	98.72	0.041	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR11602148	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	3.7035	99.7	10.208	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602148	chocolate	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	3.4049	99.72	6.551	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11602148	chocolate	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.7549	98.59	1.417	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR11602148	chocolate	DuR_2020__DRS139334__bin.19	Pichia kluyveri	0.1348	98.51	0.272	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR11602148	chocolate	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	0.0478	99.19	0.121	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+SRR11602148	chocolate	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.0348	98.96	0.093	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602148	chocolate	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.0207	97.99	0.04	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR11602148	chocolate	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.0136	97.61	0.023	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR11602148	chocolate	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.0095	96.84	0.017	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR11602149	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	1.3986	99.54	4.17	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602149	chocolate	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.1441	99.65	2.381	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11602149	chocolate	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.1187	98.18	0.241	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR11602149	chocolate	DuR_2020__DRS139334__bin.19	Pichia kluyveri	0.0401	97.64	0.087	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR11602149	chocolate	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	0.0313	98.69	0.085	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+SRR11602149	chocolate	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.02	98.09	0.058	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602153	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0163	99.53	0.051	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602154	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.5475	99.6	1.789	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602154	chocolate	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.5012	99.68	1.143	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11602154	chocolate	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.1154	98.48	0.257	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR11602154	chocolate	DuR_2020__DRS139334__bin.19	Pichia kluyveri	0.04	96.81	0.096	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR11602154	chocolate	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	0.0092	97.73	0.027	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+SRR11602155	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	2.109	99.68	5.946	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602155	chocolate	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.376	99.7	0.74	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11602155	chocolate	DuR_2020__DRS139334__bin.19	Pichia kluyveri	0.0422	97.33	0.087	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR11602155	chocolate	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.0237	97.36	0.046	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR11602155	chocolate	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	0.012	97.77	0.031	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+SRR11602156	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0542	99.42	0.188	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602156	chocolate	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0185	97.76	0.045	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11602157	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.1908	99.54	0.646	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR11602157	chocolate	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0225	99.56	0.053	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11605264	yogurt	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.081	95.1	0.078	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR11605264	yogurt	BertuzziAS_2018__ERS2032125__bin.3	Cyberlindnera jadinii	0.0462	97.68	0.048	82.7	0.2	2033	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR11605264	yogurt	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0326	97.51	0.036	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR11605266	yogurt	BertuzziAS_2018__ERS2032125__bin.3	Cyberlindnera jadinii	0.1669	95.64	0.1	82.7	0.2	2033	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR11605267	yogurt	BertuzziAS_2018__ERS2032125__bin.3	Cyberlindnera jadinii	0.0955	96.65	0.064	82.7	0.2	2033	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR11605274	yogurt	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0749	95.15	0.058	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR13308521	koumiss	EBC_024.4	Kluyveromyces marxianus	62.1582	98.86	833	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308521	koumiss	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	12.957	96.46	134	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR13308521	koumiss	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.08	99.68	0.92	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR13308521	koumiss	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0192	99.64	0.34	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR13308521	koumiss	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.0084	98.18	0.095	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR13308521	koumiss	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0071	97.37	0.077	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR13308522	koumiss	EBC_024.4	Kluyveromyces marxianus	17.8754	98.74	211	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308522	koumiss	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	1.7565	96.31	16	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR13308522	koumiss	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.0034	97.33	0.034	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR13308523	koumiss	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0223	99.17	0.225	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR13308523	koumiss	EBC_024.4	Kluyveromyces marxianus	0.0105	98.81	0.125	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308523	koumiss	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0064	95.95	0.074	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR13308525	koumiss	EBC_024.4	Kluyveromyces marxianus	9.6722	98.69	117	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308525	koumiss	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.6405	96.25	5.979	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR13308525	koumiss	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.0737	99.82	0.765	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR13308525	koumiss	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0127	99.61	0.149	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR13308525	koumiss	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0051	98.83	0.052	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR13308525	koumiss	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0026	95.85	0.029	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR13308527	koumiss	EBC_024.4	Kluyveromyces marxianus	42.9004	98.86	572	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308527	koumiss	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	13.8979	96.53	143	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR13308527	koumiss	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0243	98.83	0.304	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR13308527	koumiss	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.007	97.68	0.08	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR13308528	koumiss	EBC_024.4	Kluyveromyces marxianus	13.329	98.71	153	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308528	koumiss	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	1.3603	99.86	13.395	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR13308528	koumiss	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	1.2635	96.3	11.192	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR13308528	koumiss	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.358	99.41	3.478	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR13308528	koumiss	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.1232	99.84	0.673	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR13308528	koumiss	MilaniC_2019__SRS3591582__bin.17	Wickerhamiella pararugosa	0.0306	99.79	0.405	83.2	0.5	163	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+SRR13308528	koumiss	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0113	99.62	0.171	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR13308528	koumiss	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0182	99.41	0.17	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR13308528	koumiss	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.0054	98.07	0.053	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR13308532	koumiss	EBC_024.4	Kluyveromyces marxianus	0.1858	98.65	2.291	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308532	koumiss	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.0114	98.25	0.092	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR13308532	koumiss	AlvarezOrdonezA_xxxx__C03-19__bin.12	Yarrowia alimentaria	0.0019	97.87	0.016	82	0.2	1952	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR13308533	koumiss	EBC_024.4	Kluyveromyces marxianus	22.5775	98.74	246	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308533	koumiss	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.2162	96.28	1.818	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR13308533	koumiss	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0744	99.47	0.686	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR13308533	koumiss	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0059	97.35	0.06	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR13308533	koumiss	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.0043	98.06	0.04	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR13308534	koumiss	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.9434	96.29	9.18	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR13308534	koumiss	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.6624	99.81	8.066	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR13308534	koumiss	EBC_024.4	Kluyveromyces marxianus	0.0569	98.42	0.717	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308534	koumiss	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.027	98.93	0.223	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR13308534	koumiss	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.0084	99.2	0.091	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR13308534	koumiss	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0022	98.19	0.036	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR13308542	koumiss	EBC_024.4	Kluyveromyces marxianus	2.7724	98.64	27	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13308542	koumiss	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	1.8725	96.32	14.073	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR13308542	koumiss	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0146	98.71	0.121	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR13308542	koumiss	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0058	96.27	0.074	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR13308542	koumiss	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0128	97.83	0.059	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR13308542	koumiss	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0057	96.44	0.052	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR13496620	cheese araxa	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	9.4699	99.39	6.317	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR13496620	cheese araxa	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.4907	99.99	0.484	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13496620	cheese araxa	C-R03.bin.3	Scheffersomyces stipitis	0.277	99.86	0.216	95.24	0.21	802	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Scheffersomyces
+SRR13496620	cheese araxa	AlvarezOrdonezA_xxxx__C08-18__bin.12	Kurtzmaniella spp.	0.0684	99.84	0.113	51.6	0.4	482	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR13496620	cheese araxa	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.0629	96.4	0.103	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR13496620	cheese araxa	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.1071	99.75	0.087	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR13496620	cheese araxa	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.069	98.9	0.06	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR13496620	cheese araxa	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.1166	96.37	0.056	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR13496620	cheese araxa	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0357	96.37	0.051	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR13496623	cheese canastra	C-R03.bin.3	Scheffersomyces stipitis	2.2987	99.96	1.298	95.24	0.21	802	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Scheffersomyces
+SRR13496623	cheese canastra	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.4756	99.51	0.3	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR13496623	cheese canastra	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.2188	99.74	0.131	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR13496623	cheese canastra	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0819	98.9	0.058	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13496623	cheese canastra	MASTER_WP4_CSIC_2__P2596__bin.7	Candida atlantica	0.0705	100	0.047	94.9	0	371	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Yamadazyma
+SRR13496623	cheese canastra	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0271	97.5	0.028	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR13496628	cheese serro	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.3788	100	0.237	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR13496628	cheese serro	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.2463	99.64	0.187	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13496628	cheese serro	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.134	98.74	0.069	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR13496628	cheese serro	C-R03.bin.3	Scheffersomyces stipitis	0.0968	99.61	0.058	95.24	0.21	802	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Scheffersomyces
+SRR13496628	cheese serro	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.0157	100	0.013	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR13496629	cheese serro	C-R03.bin.3	Scheffersomyces stipitis	13.3775	99.9	5.971	95.24	0.21	802	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Scheffersomyces
+SRR13496629	cheese serro	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	11.5658	99.58	4.416	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR13496629	cheese serro	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	5.5765	99.71	3.148	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13496629	cheese serro	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.5574	99.63	0.454	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR13496629	cheese serro	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.1116	99.58	0.086	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR13496629	cheese serro	MASTER_WP4_CSIC_2__P2599__bin.11	Candida cabralensis	0.132	98.02	0.078	80	0.5	1508	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR13496629	cheese serro	ODFM-BA-A-0144-001_Penicillium_roqueforti_CECT_2905	Penicillium roqueforti	0.0808	97.74	0.018	100	0	893	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR13496629	cheese serro	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.0375	98.4	0.017	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR13496629	cheese serro	KastmanEK_2016__CSB720__bin.5	Scopulariopsis brevicaulis	0.0791	98.15	0.014	93.5	0.6	604	Ascomycota;Sordariomycetes;Microascales;Microascaceae;Scopulariopsis
+SRR13496631	cheese araxa	C-R03.bin.3	Scheffersomyces stipitis	2.3601	99.96	1.414	95.24	0.21	802	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Scheffersomyces
+SRR13496631	cheese araxa	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.4021	99.8	0.256	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR13496631	cheese araxa	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.311	98.82	0.159	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR13496631	cheese araxa	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.2029	99.97	0.154	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13496631	cheese araxa	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.1305	99.77	0.087	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR13496631	cheese araxa	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.08	98.43	0.05	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR13496632	cheese araxa	C-R03.bin.3	Scheffersomyces stipitis	40.721	99.99	21	95.24	0.21	802	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Scheffersomyces
+SRR13496632	cheese araxa	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	11.0205	99.85	6.356	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR13496632	cheese araxa	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	4.8424	99.78	3.158	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR13496632	cheese araxa	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	1.7809	99.88	1.583	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR13496632	cheese araxa	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.5361	99.88	0.294	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR13496632	cheese araxa	MASTER_WP4_FFoQSI_2__VB10-22__bin.21	unknown spp.	0.1532	100	0.107	78.5	0.5	56	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+SRR13496632	cheese araxa	MASTER_WP4_TEAGASC_1__TGS02-22__bin.4	Meyerozyma guilliermondii	0.08	98.82	0.053	94.3	0.1	620	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Meyerozyma
+SRR13496632	cheese araxa	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.0886	97.44	0.049	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR13496632	cheese araxa	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0421	98.14	0.04	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR13496632	cheese araxa	MASTER_WP4_CSIC_2__P2596__bin.7	Candida atlantica	0.0268	97.65	0.016	94.9	0	371	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Yamadazyma
+SRR13708565	pozol	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.2745	98.9	0.054	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR13708565	pozol	LiZ_2018__SRS2920550__bin.14	Aspergillus fumigatus	0.2974	99.53	0.037	68.2	0.3	4059	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR13708565	pozol	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.2733	99.39	0.035	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR13708566	pozol	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.1503	99.62	0.033	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR13708566	pozol	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.0844	99.67	0.028	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR13801804	kefir	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.6231	99.41	1.137	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR13801804	kefir	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.0624	98	0.088	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR13801805	kefir	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.3584	99.84	0.582	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR13801805	kefir	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.3224	99.26	0.517	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR15925267	keem	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	12.2309	99.86	10.585	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR15925267	keem	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	3.964	99.69	4.525	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR15925267	keem	AlvarezOrdonezA_xxxx__C05-19__bin.5	Aspergillus glaucus	6.7269	99.16	3.369	60	3.7	3296	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR15925267	keem	LiZ_2018__SRS2920550__bin.19	Rhizomucor pusillus	2.6103	99.34	1.331	92.9	0.4	1633	Mucoromycota;Mucoromycetes;Mucorales;Lichtheimiaceae;Rhizomucor
+SRR15925267	keem	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	1.0739	99.07	0.832	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR15925267	keem	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	2.4881	95.58	0.744	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR15925267	keem	MASTER_WP4_TEAGASC_1__TGS02-22__bin.4	Meyerozyma guilliermondii	0.2064	96.26	0.238	94.3	0.1	620	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Meyerozyma
+SRR15925267	keem	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.1881	98.35	0.184	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR15925267	keem	LiZ_2018__SRS2920550__bin.14	Aspergillus fumigatus	0.1727	96.85	0.093	68.2	0.3	4059	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR15925267	keem	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0678	96.82	0.068	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR15925267	keem	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.0641	97.66	0.065	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR15925267	keem	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0651	96.3	0.063	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR15925267	keem	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0416	98.07	0.06	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR15925267	keem	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.0488	95.3	0.049	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR15925267	keem	DuR_2020__DRS139335__bin.25	Cyberlindnera fabianii	0.0288	96.21	0.038	65	0	2059	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR16950696	mustard leaf	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	0.4602	99.79	1.52	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR16950696	mustard leaf	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0209	97.98	0.095	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR16950696	mustard leaf	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.023	97.85	0.082	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR16950696	mustard leaf	MASTER_WP4_TEAGASC_1__TGS06-22__bin.9	Saturnispora mendoncae	0.0163	98.43	0.074	89	0.1	540	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Saturnispora
+SRR16950696	mustard leaf	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.0183	97.31	0.05	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR16950696	mustard leaf	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.012	97.14	0.039	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR16950696	mustard leaf	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0186	95.72	0.033	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR16950697	mustard leaf	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	0.5871	99.8	1.728	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR16950697	mustard leaf	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0277	98.57	0.112	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR16950697	mustard leaf	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0319	97.63	0.101	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR16950697	mustard leaf	MASTER_WP4_TEAGASC_1__TGS06-22__bin.9	Saturnispora mendoncae	0.0213	98.51	0.086	89	0.1	540	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Saturnispora
+SRR16950697	mustard leaf	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.0161	98.1	0.039	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR16950697	mustard leaf	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.013	97.35	0.037	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR16950697	mustard leaf	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.015	96.47	0.024	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR16950698	mustard leaf	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	0.612	99.85	1.939	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR16950698	mustard leaf	MASTER_WP4_TEAGASC_1__TGS06-22__bin.9	Saturnispora mendoncae	0.0225	98.27	0.097	89	0.1	540	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Saturnispora
+SRR16950698	mustard leaf	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0217	98.88	0.095	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR16950698	mustard leaf	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0268	97.52	0.091	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR16950698	mustard leaf	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.0162	97.99	0.042	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR16950698	mustard leaf	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0079	98.71	0.024	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR17227786	cheese	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	2.5018	99.42	19	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR17227786	cheese	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	1.3381	99.8	13.287	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR17227786	cheese	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0148	99.32	0.207	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR17227786	cheese	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0017	97.6	0.016	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR17227786	cheese	BertuzziAS_2018__ERS2032125__bin.3	Cyberlindnera jadinii	0.0012	100	0.013	82.7	0.2	2033	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR17227787	cheese	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	2.107	99.8	27	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR17227787	cheese	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.6986	99.41	6.847	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR17227787	cheese	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0121	99.34	0.219	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR17227787	cheese	BertuzziAS_2018__ERS2032125__bin.3	Cyberlindnera jadinii	0.0031	99.93	0.043	82.7	0.2	2033	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR17227787	cheese	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0022	95.98	0.031	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR17227787	cheese	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0017	96.88	0.02	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR17227788	cheese	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	44.6115	99.82	408	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR17227788	cheese	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	43.6046	99.64	305	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR17227788	cheese	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0804	99.55	1.036	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR17227788	cheese	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0586	99.88	0.606	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR17227788	cheese	BertuzziAS_2018__ERS2032125__bin.3	Cyberlindnera jadinii	0.0166	99.44	0.161	82.7	0.2	2033	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR17227788	cheese	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0076	99.03	0.066	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR17227788	cheese	MASTER_WP4_UNINA_2__O-30__bin.13	Penicillium camemberti	0.0112	100	0.037	96	0.1	842	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR17227788	cheese	MASTER_WP4_FFoQSI_1__VB-09-BD__bin.42	Fusarium domesticum	0.0084	96.37	0.032	95.6	0.1	799	Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium
+SRR17227800	cheese	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.5882	99.79	5.963	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR17227800	cheese	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.7539	99.39	5.845	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR17227800	cheese	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0102	99.72	0.146	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR17227800	cheese	BertuzziAS_2018__ERS2032125__bin.3	Cyberlindnera jadinii	0.0037	99.17	0.04	82.7	0.2	2033	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR17227800	cheese	MASTER_WP4_FFoQSI_1__VB-09-BD__bin.42	Fusarium domesticum	0.0049	99.11	0.02	95.6	0.1	799	Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium
+SRR17227800	cheese	KastmanEK_2016__CSB720__bin.5	Scopulariopsis brevicaulis	0.0045	95.07	0.017	93.5	0.6	604	Ascomycota;Sordariomycetes;Microascales;Microascaceae;Scopulariopsis
+SRR17227800	cheese	MASTER_WP4_CSIC_2__P2598__bin.8	Scopulariopsis spp.	0.0029	96.44	0.012	88.6	0.3	1626	Ascomycota;Sordariomycetes;Microascales;Microascaceae;Scopulariopsis
+SRR17227801	cheese	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	1.6387	99.41	11.863	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR17227801	cheese	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.8559	99.8	8.101	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR17227801	cheese	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0163	99.38	0.218	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR17227801	cheese	BertuzziAS_2018__ERS2032125__bin.3	Cyberlindnera jadinii	0.0063	99.29	0.063	82.7	0.2	2033	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR18334997	pickle bolivian	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	4.5707	99.62	1.235	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18334997	pickle bolivian	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	1.5242	99.57	0.361	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18334997	pickle bolivian	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	1.4645	98.19	0.253	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18334997	pickle bolivian	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.5161	99.33	0.112	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18334997	pickle bolivian	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.3446	95.4	0.064	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR18334997	pickle bolivian	ODFM-BA-A-0144-001_Penicillium_roqueforti_CECT_2905	Penicillium roqueforti	0.2886	97.58	0.025	100	0	893	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR18334998	pickle greek	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	4.3441	99.85	1.027	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18334998	pickle greek	MASTER_WP4_UNINA_2__U-22__bin.7	Pichia spp.	5.0109	99.59	0.934	92.2	0.2	1555	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18334998	pickle greek	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	3.2969	99.59	0.89	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18334998	pickle greek	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	3.2747	97.67	0.281	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR18334998	pickle greek	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	1.1552	98.92	0.247	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR18334998	pickle greek	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	1.0383	96.38	0.168	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR18334998	pickle greek	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.7287	98.06	0.157	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18334998	pickle greek	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.5817	98.16	0.153	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR18334998	pickle greek	ODFM-BA-A-0144-001_Penicillium_roqueforti_CECT_2905	Penicillium roqueforti	1.7455	98.26	0.152	100	0	893	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR18334998	pickle greek	LeechJ_2020__ERS3967742__bin.3	Kazachstania barnettii	0.5635	98.89	0.11	93.4	1.4	1616	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR18334998	pickle greek	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.4371	96.53	0.094	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18334998	pickle greek	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.8403	95.89	0.089	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR18334998	pickle greek	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.43120000000000003	95.08	0.074	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18334999	pickle greek	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	2.8993	99.21	0.308	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18334999	pickle greek	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	2.6515	99.55	0.246	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18334999	pickle greek	MASTER_WP4_UNINA_2__U-22__bin.7	Pichia spp.	2.2494	99.34	0.165	92.2	0.2	1555	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18334999	pickle greek	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	1.3774	98.74	0.116	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18334999	pickle greek	MASTER_WP4_UNINA_2__O-30__bin.13	Penicillium camemberti	0.3843	97.06	0.01	96	0.1	842	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR18335000	pickle greek	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	6.0394	99.46	1.173	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335000	pickle greek	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	6.5944	99.36	1.164	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18335000	pickle greek	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.7964	99.2	0.398	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335000	pickle greek	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.5016	97.77	0.108	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR18335000	pickle greek	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.5971	96.35	0.094	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR18335001	pickle hijazi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.2196	95.97	0.059	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335001	pickle hijazi	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	0.1562	99.29	0.046	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335002	pickle hijazi	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.8797	99.39	0.692	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335002	pickle hijazi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0752	96.13	0.047	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335002	pickle hijazi	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.0625	95.85	0.039	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18335002	pickle hijazi	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	0.0422	96.83	0.029	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335002	pickle hijazi	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0748	96.25	0.023	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR18335004	pickle indian	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	4.5733	99.29	0.341	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335004	pickle indian	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.794	95.73	0.023	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR18335005	pickle papaya	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.6858	95.83	0.069	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR18335005	pickle papaya	GCA_003243815.1_ASM324381v1_genomic	Candida sake	1.0545	98.31	0.047	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR18335005	pickle papaya	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.9222	98.18	0.046	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR18335005	pickle papaya	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.5603	97.94	0.042	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR18335006	pickle papaya	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.6932	96.51	0.042	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR18335006	pickle papaya	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.4874	98.35	0.039	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR18335006	pickle papaya	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.8498	99.07	0.03	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR18335006	pickle papaya	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.7402	97.33	0.03	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR18335007	pickle papaya	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.3512	95.63	0.086	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR18335007	pickle papaya	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.2788	97.66	0.046	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR18335007	pickle papaya	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.2923	96.07	0.043	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR18335008	pickle onion	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	13.0978	99.59	4.578	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335008	pickle onion	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.9732	98.65	0.271	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18335008	pickle onion	MASTER_WP4_UNINA_2__U-22__bin.7	Pichia spp.	0.7043	98.86	0.17	92.2	0.2	1555	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335008	pickle onion	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	0.4221	99.1	0.129	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335008	pickle onion	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.4443	98.1	0.124	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335008	pickle onion	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.4231	95.27	0.058	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR18335008	pickle onion	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.114	96.82	0.031	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR18335010	pickle onion	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	2.3814	99.26	0.38	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335010	pickle onion	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.3666	99.27	0.273	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335010	pickle onion	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.4164	97.83	0.059	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR18335010	pickle onion	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.3647	97.88	0.058	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18335010	pickle onion	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.2612	98.78	0.052	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR18335010	pickle onion	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	0.2057	95.01	0.036	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335011	pickle bolivian	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.6159	98.23	0.118	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335011	pickle bolivian	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.3133	97.25	0.075	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18335011	pickle bolivian	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.1955	99.6	0.047	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335011	pickle bolivian	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.0952	96.64	0.029	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335012	pickle bolivian	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	23.5369	99.65	5.641	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335012	pickle bolivian	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	15.8843	99.65	3.335	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335012	pickle bolivian	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.3044	97.73	0.058	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335012	pickle bolivian	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.3175	96.79	0.049	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335012	pickle bolivian	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.2447	95.38	0.04	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR18335012	pickle bolivian	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.1908	98.12	0.036	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18335012	pickle bolivian	ODFM-BA-A-0144-001_Penicillium_roqueforti_CECT_2905	Penicillium roqueforti	0.174	97.83	0.013	100	0	893	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR18335013	pickle indian	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	5.7937	99.63	6.236	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335013	pickle indian	DeRoosJ_2020__B24M__bin.2	Brettanomyces custersianus	0.2419	99.2	0.228	91.1	0.1	542	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR18335013	pickle indian	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.3438	98.69	0.146	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR18335013	pickle indian	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.1397	97.88	0.12	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR18335013	pickle indian	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0744	97.96	0.064	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335014	pickle indian	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.9012	99.38	0.188	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335014	pickle indian	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.4583	99	0.077	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR18335014	pickle indian	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.9056	98.63	0.075	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR19505782	kefir	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	5.7129	99.94	10.198	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR22851057	jalebi	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.2679	99.35	0.714	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR22851057	jalebi	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.2091	99.5	0.56	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR22851057	jalebi	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.2065	98.62	0.537	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR22851057	jalebi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0199	98.65	0.061	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR22851057	jalebi	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.0081	98.32	0.022	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR22851058	jalebi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	1.5369	99.69	5.416	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR22851058	jalebi	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.1015	99.37	0.313	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR22851058	jalebi	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.0375	99.45	0.117	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR22851167	yogurt	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.1158	95.49	0.196	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR22851167	yogurt	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.2329	95.54	0.193	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR22851168	yogurt	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0558	97.68	0.137	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR22851168	yogurt	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.1074	97.69	0.13	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR23816540	miso yellow pea	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	6.2002	98.97	3.321	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR23816540	miso yellow pea	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	8.2347	95.47	1.351	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR23816540	miso yellow pea	MASTER_WP4_TEAGASC_1__TGS02-22__bin.4	Meyerozyma guilliermondii	0.582	99.55	0.368	94.3	0.1	620	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Meyerozyma
+SRR23816540	miso yellow pea	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0497	98.98	0.026	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR23816540	miso yellow pea	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.0192	100	0.01	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR23816542	miso yellow pea	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	90.3461	95.82	78	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR23816542	miso yellow pea	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.0226	98.36	0.064	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR23816542	miso yellow pea	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.0106	97.9	0.028	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR23816543	miso yellow pea	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	14.052	95.41	4.071	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR23816543	miso yellow pea	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.0651	97.52	0.062	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR23816543	miso yellow pea	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0398	98.58	0.039	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR23816543	miso yellow pea	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.0156	100	0.014	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR25203509	miso	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	44.5412	95.48	5.924	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25203509	miso	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0647	97.48	0.028	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR25203513	miso	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	2.0445	95.47	0.724	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25203513	miso	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.4017	99.5	0.54	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR25203513	miso	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.275	99.44	0.326	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR25203513	miso	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0895	97.21	0.107	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25203514	miso	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.5963	99.11	0.519	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR25203514	miso	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	0.741	95.21	0.192	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25203514	miso	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.1686	98.86	0.146	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR25203514	miso	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.1542	98.14	0.135	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25203516	miso	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	5.6829	95.5	1.61	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25203523	miso	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	5.9821	95.43	2.298	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25203523	miso	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.1564	99.16	0.202	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR25203524	miso	LeechJ_xxxx__AF29__bin.14	Candida glabrata	2.6983	99.12	3.611	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR25203524	miso	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	7.5887	95.25	3.021	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25203524	miso	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0707	98.45	0.094	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR25203535	miso	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	10.2198	95.36	3.579	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393909	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	10.6667	99.89	24	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393909	sausage	AlvarezOrdonezA_xxxx__C08-18__bin.12	Kurtzmaniella spp.	2.0279	99.64	8.658	51.6	0.4	482	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393909	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.5	Penicillium nordicum	6.6411	99.87	6.418	85.2	0.5	3345	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393909	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.11	Debaryomyces spp.	0.584	99.68	1.409	87.9	2.3	1851	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393909	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.3071	100	1.301	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25393909	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.3219	98.93	0.921	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393909	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.1463	99.01	0.507	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393909	sausage	AlvarezOrdonezA_xxxx__C06-18__bin.23	Helicostylum pulchrum	0.5541	97.97	0.464	89.5	4.2	5208	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Helicostylum
+SRR25393909	sausage	MASTER_WP4_CSIC_2__P2560__bin.1	Penicillium sp SPG F1	0.2764	98.36	0.225	95.3	0.2	1130	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393909	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.3	Aspergillus spp.	0.0685	98.37	0.069	89	0.6	1667	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393909	sausage	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.0219	96.09	0.041	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR25393909	sausage	AlvarezOrdonezA_xxxx__C05-19__bin.5	Aspergillus glaucus	0.0282	96.58	0.031	60	3.7	3296	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393912	sausage	AlvarezOrdonezA_xxxx__C06-18__bin.23	Helicostylum pulchrum	5.4416	99.62	5.866	89.5	4.2	5208	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Helicostylum
+SRR25393912	sausage	AlvarezOrdonezA_xxxx__C08-18__bin.12	Kurtzmaniella spp.	0.0919	99.64	0.505	51.6	0.4	482	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393912	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0737	98.82	0.329	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393912	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.059	98.27	0.322	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25393912	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0522	97.85	0.151	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393912	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.023	95.68	0.085	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393912	sausage	AlvarezOrdonezA_xxxx__C03-19__bin.12	Yarrowia alimentaria	0.0185	97.76	0.043	82	0.2	1952	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25393913	sausage	AlvarezOrdonezA_xxxx__C06-18__bin.23	Helicostylum pulchrum	29.676	99.99	27	89.5	4.2	5208	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Helicostylum
+SRR25393913	sausage	AlvarezOrdonezA_xxxx__C08-18__bin.12	Kurtzmaniella spp.	3.6667	99.99	17	51.6	0.4	482	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393913	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	3.6941	99.6	17	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25393913	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	1.6592	98.06	4.054	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393913	sausage	MASTER_WP4_CSIC_2__P2560__bin.1	Penicillium sp SPG F1	1.3564	99.75	1.197	95.3	0.2	1130	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393913	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.3116	99.34	1.174	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393913	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.1546	96.47	0.48	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393913	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.11	Debaryomyces spp.	0.1132	97.11	0.296	87.9	2.3	1851	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393913	sausage	MASTER_WP4_UNINA_2__O-30__bin.13	Penicillium camemberti	0.2269	97.29	0.198	96	0.1	842	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393913	sausage	XieM_2019__SAMC044639__bin.29	Penicillium polonicum	0.1911	98.32	0.184	91.4	0.3	2071	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393913	sausage	AlvarezOrdonezA_xxxx__C03-19__bin.12	Yarrowia alimentaria	0.02	97.14	0.04	82	0.2	1952	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25393913	sausage	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.0165	96.54	0.034	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR25393915	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	28.6413	99.98	77	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393915	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.3	Aspergillus spp.	9.7716	99.96	9.3	89	0.6	1667	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393915	sausage	AlvarezOrdonezA_xxxx__C05-19__bin.5	Aspergillus glaucus	6.4767	99.21	6.773	60	3.7	3296	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393915	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	2.4263	99.07	5.132	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393915	sausage	MASTER_WP4_CSIC_2__P2560__bin.1	Penicillium sp SPG F1	5.9334	99.34	4.531	95.3	0.2	1130	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393915	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.8898	99	2.901	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393915	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.3443	99.86	1.372	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25393915	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.5	Penicillium nordicum	1.0601	99.91	0.963	85.2	0.5	3345	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393915	sausage	AlvarezOrdonezA_xxxx__C08-18__bin.12	Kurtzmaniella spp.	0.1887	99.28	0.757	51.6	0.4	482	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393915	sausage	AlvarezOrdonezA_xxxx__C04-18__bin.7	Candida glucosophila	0.0878	99.48	0.275	73.2	0.1	2198	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+SRR25393915	sausage	MASTER_WP4_CSIC_1__P2233_73323__bin.18	Debaryomyces fabryi	0.0439	97.61	0.097	97.2	0.1	195	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393915	sausage	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.021	96.5	0.042	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR25393915	sausage	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0317	96.45	0.037	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25393917	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.3	Aspergillus spp.	91.0405	99.99	159	89	0.6	1667	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393917	sausage	AlvarezOrdonezA_xxxx__C05-19__bin.5	Aspergillus glaucus	8.3385	99.26	16	60	3.7	3296	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393917	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.2688	98.81	1.043	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393917	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.0867	97.39	0.428	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393917	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.11	Debaryomyces spp.	0.0644	95.34	0.268	87.9	2.3	1851	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393917	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.5	Penicillium nordicum	0.1275	99.33	0.213	85.2	0.5	3345	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393917	sausage	MASTER_WP4_CSIC_2__P2560__bin.1	Penicillium sp SPG F1	0.0735	98.64	0.103	95.3	0.2	1130	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393919	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	3.3859	99.59	17	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25393919	sausage	AlvarezOrdonezA_xxxx__C08-18__bin.12	Kurtzmaniella spp.	2.3963	99.97	12.121	51.6	0.4	482	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393919	sausage	AlvarezOrdonezA_xxxx__C03-19__bin.12	Yarrowia alimentaria	4.4423	100	9.598	82	0.2	1952	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25393919	sausage	AlvarezOrdonezA_xxxx__C06-18__bin.23	Helicostylum pulchrum	5.8573	99.65	5.814	89.5	4.2	5208	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Helicostylum
+SRR25393919	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.7621	99.07	3.131	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393919	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.3528	98.89	0.941	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393920	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.3728	99.49	1.683	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25393920	sausage	AlvarezOrdonezA_xxxx__C08-18__bin.12	Kurtzmaniella spp.	0.309	99.99	1.405	51.6	0.4	482	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393920	sausage	AlvarezOrdonezA_xxxx__C06-18__bin.23	Helicostylum pulchrum	1.2966	99.82	1.157	89.5	4.2	5208	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Helicostylum
+SRR25393920	sausage	AlvarezOrdonezA_xxxx__C03-19__bin.12	Yarrowia alimentaria	0.4221	99.75	0.82	82	0.2	1952	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25393920	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.1156	98.79	0.427	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393920	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.1039	96.02	0.249	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393921	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	47.8563	100	149	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393921	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.11	Debaryomyces spp.	8.7598	99.95	23	87.9	2.3	1851	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393921	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	6.5316	99.29	16	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25393921	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.3	Aspergillus spp.	11.4559	98.5	12.627	89	0.6	1667	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393921	sausage	AlvarezOrdonezA_xxxx__C05-19__bin.5	Aspergillus glaucus	8.0347	99.93	9.73	60	3.7	3296	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25393921	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.5	Penicillium nordicum	3.7721	99.76	3.969	85.2	0.5	3345	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393921	sausage	MASTER_WP4_CSIC_2__P2560__bin.1	Penicillium sp SPG F1	0.5227	99.14	0.462	95.3	0.2	1130	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25393921	sausage	DeFilippisF_xxxx__DS_105__bin.8	unknown spp.	0.1143	99.52	0.139	93.2	0.3	572	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;unknown
+SRR25393921	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.0185	97.95	0.085	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25393921	sausage	AlvarezOrdonezA_xxxx__C08-18__bin.12	Kurtzmaniella spp.	0.0139	98.96	0.065	51.6	0.4	482	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393921	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0093	98.39	0.035	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25393921	sausage	AlvarezOrdonezA_xxxx__C06-18__bin.23	Helicostylum pulchrum	0.0113	97.34	0.01	89.5	4.2	5208	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Helicostylum
+SRR25394006	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	26.9504	99.88	89	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25394006	sausage	MASTER_WP4_CSIC_2__P2638__bin.9	Mucor racemosus	14.8624	96.58	14.952	96.8	0.2	5742	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor
+SRR25394006	sausage	MASTER_WP4_UNINA_2__O-30__bin.13	Penicillium camemberti	8.337	99.58	9.843	96	0.1	842	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25394006	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.1786	99.73	0.909	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25394006	sausage	MASTER_WP4_CSIC_2__P2560__bin.1	Penicillium sp SPG F1	0.6532	95.84	0.779	95.3	0.2	1130	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25394006	sausage	MASTER_WP4_CSIC_2__P2588__bin.22	Scopulariopsis spp.	0.3578	99.18	0.491	91.5	0.3	1292	Ascomycota;Sordariomycetes;Microascales;Microascaceae;Scopulariopsis
+SRR25394006	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.5	Penicillium nordicum	0.3228	99.99	0.458	85.2	0.5	3345	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25394006	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.0374	98.42	0.233	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25394006	sausage	DeFilippisF_xxxx__DS_105__bin.8	unknown spp.	0.0973	99.5	0.159	93.2	0.3	572	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;unknown
+SRR25394006	sausage	MASTER_WP4_CSIC_1__P2233_73323__bin.18	Debaryomyces fabryi	0.0396	98.64	0.136	97.2	0.1	195	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25394006	sausage	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0412	97	0.076	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25394006	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.3	Aspergillus spp.	0.0407	98.72	0.061	89	0.6	1667	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25394006	sausage	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0068	95.57	0.037	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR25394008	sausage	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	33.4073	99.92	83	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25394008	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.3	Aspergillus spp.	16.9954	99.98	19	89	0.6	1667	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25394008	sausage	AlvarezOrdonezA_xxxx__F05-18__bin.5	Penicillium nordicum	2.8625	99.64	3.055	85.2	0.5	3345	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25394008	sausage	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.4821	99.24	1.522	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25394008	sausage	DeFilippisF_xxxx__DS_105__bin.8	unknown spp.	0.5414	99.8	0.667	93.2	0.3	572	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;unknown
+SRR25394008	sausage	AlvarezOrdonezA_xxxx__C05-19__bin.5	Aspergillus glaucus	0.2783	98.82	0.342	60	3.7	3296	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR25394008	sausage	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0862	99.3	0.33	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25394008	sausage	MASTER_WP4_CSIC_2__P2560__bin.1	Penicillium sp SPG F1	0.335	97.79	0.301	95.3	0.2	1130	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25394008	sausage	MASTER_WP4_UNINA_1__SF013_71775__bin.21	Penicillium salamii	0.2745	96.98	0.29	90.9	0.2	929	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25394008	sausage	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.0243	97.91	0.114	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25394008	sausage	MASTER_WP4_CSIC_2__P2588__bin.22	Scopulariopsis spp.	0.0761	98.19	0.079	91.5	0.3	1292	Ascomycota;Sordariomycetes;Microascales;Microascaceae;Scopulariopsis
+SRR25394817	whey	MilaniC_2019__SRS3591582__bin.17	Wickerhamiella pararugosa	0.0124	96.86	0.06	83.2	0.5	163	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+SRR25394817	whey	MASTER_WP4_UNINA_2__O-30__bin.13	Penicillium camemberti	0.0089	99.57	0.011	96	0.1	842	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25394844	whey	EBC_024.4	Kluyveromyces marxianus	0.3302	95.77	0.048	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25394844	whey	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.3905	96.22	0.037	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR25394846	cheese	KastmanEK_2016__CSB720__bin.5	Scopulariopsis brevicaulis	13.1052	99.73	79	93.5	0.6	604	Ascomycota;Sordariomycetes;Microascales;Microascaceae;Scopulariopsis
+SRR25394846	cheese	MASTER_WP4_UNINA_2__O-30__bin.13	Penicillium camemberti	0.0066	99.42	0.039	96	0.1	842	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25394863	cheese	EBC_024.4	Kluyveromyces marxianus	0.0016	95.35	0.025	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25394929	whey	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.015	95.97	0.044	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR25394929	whey	MASTER_WP4_TEAGASC_1__TGS03-22__bin.2	Candida inconspicua	0.0037	99.34	0.018	72.5	0.3	2223	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR25394931	cheese brine	MASTER_WP4_FFoQSI_2__VB10-22__bin.21	unknown spp.	0.1018	100	0.753	78.5	0.5	56	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+SRR25394931	cheese brine	EBC_024.4	Kluyveromyces marxianus	0.0057	98.29	0.04	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25394931	cheese brine	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0052	96.74	0.032	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395105	whey	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0262	99.84	0.145	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395105	whey	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.0237	97.81	0.089	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR25395105	whey	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.009	96.7	0.044	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395105	whey	MASTER_WP4_CSIC_2__P2638__bin.9	Mucor racemosus	0.026	96.44	0.039	96.8	0.2	5742	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor
+SRR25395105	whey	EBC_024.4	Kluyveromyces marxianus	0.0063	95.83	0.036	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395105	whey	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0051	96.72	0.014	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25395116	cheese	GCA_003243815.1_ASM324381v1_genomic	Candida sake	2.5077	99.9	23	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR25395116	cheese	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	2.1523	99.95	18	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR25395116	cheese	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.4296	99.51	5.16	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR25395116	cheese	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.2544	99.64	2.785	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR25395116	cheese	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.2664	99.98	1.618	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25395116	cheese	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0986	99.74	1.078	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395116	cheese	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.0436	99.42	0.605	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395116	cheese	MASTER_WP4_UNINA_2__V-30__bin.15	unknown spp.	0.0337	99.82	0.461	88	0.1	928	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;unknown
+SRR25395116	cheese	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0241	99.78	0.406	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25395116	cheese	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.0185	99.46	0.38	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR25395116	cheese	MASTER_WP4_CSIC_2__P2638__bin.9	Mucor racemosus	0.1139	96.53	0.379	96.8	0.2	5742	Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor
+SRR25395116	cheese	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0254	99.93	0.315	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395116	cheese	MASTER_WP4_TEAGASC_1__TGS06-22__bin.9	Saturnispora mendoncae	0.0192	99.79	0.293	89	0.1	540	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Saturnispora
+SRR25395116	cheese	MASTER_WP4_TEAGASC_1__TGS03-22__bin.2	Candida inconspicua	0.0188	99.46	0.263	72.5	0.3	2223	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR25395116	cheese	C-R03.bin.3	Scheffersomyces stipitis	0.02	98.86	0.196	95.24	0.21	802	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Scheffersomyces
+SRR25395116	cheese	MASTER_WP4_CSIC_2__P2599__bin.11	Candida cabralensis	0.0082	98.69	0.106	80	0.5	1508	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR25395116	cheese	MilaniC_2019__SRS3591582__bin.17	Wickerhamiella pararugosa	0.0063	97.09	0.093	83.2	0.5	163	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+SRR25395116	cheese	EBC_024.4	Kluyveromyces marxianus	0.007	99.58	0.09	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395116	cheese	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.0075	99.11	0.076	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR25395116	cheese	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.003	98.29	0.032	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR25395116	cheese	MASTER_WP4_UNINA_2__O-30__bin.13	Penicillium camemberti	0.0033	96.6	0.013	96	0.1	842	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25395139	cheese	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	7.2029	99.77	60	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR25395139	cheese	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	1.5784	99.91	9.547	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25395139	cheese	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.3172	99.87	3.906	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395139	cheese	EBC_024.4	Kluyveromyces marxianus	0.2249	99.63	2.858	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395139	cheese	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.1081	99.91	1.921	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR25395139	cheese	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0906	99.41	0.987	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395139	cheese	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.0725	99.85	0.791	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR25395139	cheese	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.0748	99.97	0.759	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR25395139	cheese	MASTER_WP4_CSIC_1__P2233_73323__bin.18	Debaryomyces fabryi	0.0611	99.87	0.693	97.2	0.1	195	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395139	cheese	MilaniC_2019__SRS3591582__bin.17	Wickerhamiella pararugosa	0.025	98.18	0.366	83.2	0.5	163	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+SRR25395139	cheese	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0177	99.12	0.19	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR25395139	cheese	MASTER_WP4_TEAGASC_1__TGS02-22__bin.4	Meyerozyma guilliermondii	0.0126	99.64	0.156	94.3	0.1	620	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Meyerozyma
+SRR25395139	cheese	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0051	96.24	0.052	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR25395139	cheese	MASTER_WP4_CSIC_2__P2561__bin.3	Candida zeylanoides	0.0023	99.97	0.038	60.9	0	1948	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Kurtzmaniella
+SRR25395139	cheese	MASTER_WP4_CSIC_2__P2614__bin.52	Trichosporon ovoides	0.0051	98.37	0.035	68.6	0.6	3056	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR25395159	whey	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0181	99.14	0.047	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395159	whey	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.0174	96.96	0.03	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR25395159	whey	EBC_024.4	Kluyveromyces marxianus	0.0109	99.04	0.029	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395159	whey	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0118	99.43	0.015	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25395159	whey	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0068	100	0.015	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR25395225	cheese brine	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.2463	99.81	1.352	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395225	cheese brine	MASTER_WP4_UNINA_2__O-30__bin.13	Penicillium camemberti	0.0025	100	0.005	96	0.1	842	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium
+SRR25395267	cheese brine	MASTER_WP4_FFoQSI_2__VB10-22__bin.21	unknown spp.	0.005	97.61	0.027	78.5	0.5	56	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+SRR25395267	cheese brine	EBC_024.4	Kluyveromyces marxianus	0.0035	99.59	0.018	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395271	cheese brine	MASTER_WP4_FFoQSI_2__VB10-22__bin.21	unknown spp.	0.0133	99.76	0.107	78.5	0.5	56	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+SRR25395274	cheese brine	MASTER_WP4_FFoQSI_2__VB10-22__bin.21	unknown spp.	26.2522	100	233	78.5	0.5	56	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+SRR25395274	cheese brine	MASTER_WP4_FFoQSI_2__VB10-22__bin.15	Wickerhamiella versatilis	14.8379	100	139	83.2	0.6	42	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+SRR25395274	cheese brine	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0092	98.27	0.068	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395274	cheese brine	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.0062	97.43	0.058	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395290	cheese brine	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.181	99.79	1.779	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395290	cheese brine	MASTER_WP4_CSIC_2__P2596__bin.7	Candida atlantica	0.0047	99.32	0.049	94.9	0	371	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Yamadazyma
+SRR25395371	cheese brine	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	7.2143	99.88	41	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395398	whey	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0122	98.89	0.057	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395398	whey	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.0083	99.81	0.034	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR25395398	whey	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0105	97.67	0.024	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25395482	cheese brine	MASTER_WP4_TEAGASC_1__TGS09-22__bin.4	Yamadazyma triangularis	0.0388	99.76	0.255	93.6	0	394	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Yamadazyma
+SRR25395482	cheese brine	MASTER_WP4_FFoQSI_2__VB10-22__bin.21	unknown spp.	0.0227	100	0.155	78.5	0.5	56	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+SRR25395482	cheese brine	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.019	99.28	0.136	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395490	whey	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.5398	99.88	3.87	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395490	whey	MilaniC_2019__SRS3591582__bin.17	Wickerhamiella pararugosa	0.1169	97.29	0.996	83.2	0.5	163	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+SRR25395490	whey	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.08	99.64	0.388	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR25395490	whey	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.0399	100	0.253	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR25395490	whey	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0243	99.75	0.251	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR25395490	whey	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0245	99.51	0.156	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395490	whey	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.0376	100	0.132	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25395490	whey	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.0181	99.8	0.096	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR25395490	whey	MASTER_WP4_TEAGASC_1__TGS02-22__bin.4	Meyerozyma guilliermondii	0.0129	99.83	0.093	94.3	0.1	620	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Meyerozyma
+SRR25395490	whey	MortensenS_xxxx__WK069-2-L-48h-05D2_S81__bin.1	Torulaspora quercuum	0.0094	99.12	0.088	72.7	0.1	1994	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR25395490	whey	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0121	96.59	0.076	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR25395490	whey	EBC_024.4	Kluyveromyces marxianus	0.0098	99.58	0.072	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395490	whey	MASTER_WP4_CSIC_2__P2556__bin.21	Candida intermedia	0.0091	99.89	0.054	99.4	0	149	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR25395490	whey	MASTER_WP4_CSIC_2__P2524__bin.3	unknown spp.	0.0058	99.94	0.053	88.9	0.1	423	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;unknown
+SRR25395490	whey	MASTER_WP4_CSIC_2__P2596__bin.7	Candida atlantica	0.0073	100	0.049	94.9	0	371	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Yamadazyma
+SRR25395490	whey	AlvarezOrdonezA_xxxx__C02-19__bin.10	Debaryomyces tyrocola	0.0056	99.01	0.045	63.9	3.3	1188	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395490	whey	SternesPR_2017__T1D1_A_shotgun__bin.1	Rhodotorula graminis	0.0064	97.31	0.028	57.7	0	4037	Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula
+SRR25395490	whey	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	0.0032	98.66	0.022	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR25395492	cheese brine	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0056	97.84	0.027	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395512	whey	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.1174	99.49	0.982	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR25395512	whey	ODFM-BA-A-0052-001_Yarrowia_lipolytica_CBA6003	Yarrowia lipolytica	0.1548	99.93	0.941	100	0	35	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia
+SRR25395512	whey	MASTER_WP4_CSIC_1__P2246_73323__bin.19	Kluyveromyces lactis	0.0154	99.88	0.191	99.5	0	41	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395512	whey	EBC_024.4	Kluyveromyces marxianus	0.0072	98.06	0.092	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR25395512	whey	MASTER_WP4_UNINA_2__F-22__bin.7	Kazachstania unispora	0.008	99.74	0.088	97.5	1.4	366	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR25395512	whey	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0026	98.78	0.046	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR25395512	whey	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.0041	99.15	0.044	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395512	whey	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.004	98.59	0.043	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR25395514	cheese brine	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	5.6482	99.84	27	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR25395514	cheese brine	MASTER_WP4_CSIC_2__P2596__bin.7	Candida atlantica	0.0729	99.77	0.369	94.9	0	371	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Yamadazyma
+SRR26215780	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	54.1584	99.62	29	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26215780	tibicos fig	MortensenS_xxxx__WK040-2-L-08h-03F3_S67__bin.4	Lachancea fermentati	10.3623	99.75	6.694	99.1	0	247	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Lachancea
+SRR26215780	tibicos fig	MortensenS_xxxx__WK069-2-L-48h-05D2_S81__bin.1	Torulaspora quercuum	1.3267	99.48	1.054	72.7	0.1	1994	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR26215780	tibicos fig	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.0537	99.46	0.805	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR26215780	tibicos fig	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	1.2526	99.72	0.757	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR26215953	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	3.9048	99.34	4.328	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26215954	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	26.3272	99.63	17	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26215957	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	8.8187	99.53	6.146	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26215957	tibicos fig	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	0.4508	99.21	0.448	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR26215957	tibicos fig	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.6783	98.26	0.431	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR26215957	tibicos fig	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.0653	99.29	0.051	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR26215962	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	2.9716	99.51	1.843	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26215962	tibicos fig	DuR_2020__DRS139334__bin.19	Pichia kluyveri	0.47	96.26	0.305	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR26215962	tibicos fig	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	0.519	98.43	0.294	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR26215962	tibicos fig	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.3756	99.68	0.263	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR26215962	tibicos fig	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.0725	98.34	0.042	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR26215964	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	5.524	99.32	3.546	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26215964	tibicos fig	DuR_2020__DRS139334__bin.19	Pichia kluyveri	1.7868	98.53	1.202	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR26215964	tibicos fig	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	1.6583	98.84	0.971	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR26215964	tibicos fig	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.8376	99.75	0.607	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR26215964	tibicos fig	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.1929	99.25	0.115	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR26215964	tibicos fig	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0152	99.08	0.016	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR26215999	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	32.2047	99.66	15	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26215999	tibicos fig	MortensenS_xxxx__WK069-2-L-48h-05D2_S81__bin.1	Torulaspora quercuum	5.6271	99.85	3.889	72.7	0.1	1994	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR26215999	tibicos fig	MortensenS_xxxx__WK040-2-L-08h-03F3_S67__bin.4	Lachancea fermentati	0.1988	99.03	0.112	99.1	0	247	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Lachancea
+SRR26216013	tibicos fig	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	4.5714	99.34	1.945	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR26216013	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	4.0874	99.42	1.563	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26216013	tibicos fig	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	2.6577	99.71	1.109	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26216013	tibicos fig	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.5613	99.55	0.852	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR26216013	tibicos fig	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.2696	99.16	0.096	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR26216013	tibicos fig	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.0449	100	0.019	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR26216016	tibicos fig	MortensenS_xxxx__WK065-1-L-08h-05B1_S62__bin.1	Pichia fermentans	22.7854	98.97	3.341	81.3	0.2	2043	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR26216016	tibicos fig	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	6.0447	99.65	0.869	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26216016	tibicos fig	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	1.7741	99.51	0.334	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR26216016	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.2597	99.16	0.166	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26216016	tibicos fig	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.4555	98.98	0.056	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR26216016	tibicos fig	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	0.298	96.86	0.044	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR26216050	tibicos fig	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	10.2076	99.57	6.725	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR26216050	tibicos fig	MortensenS_xxxx__WK007-2-L-48h-01I1_S52__bin.1	Zygotorulaspora florentina	2.3477	99.84	1.746	99.1	0.1	368	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygotorulaspora
+SRR26216050	tibicos fig	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	1.631	98.77	0.98	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR26216050	tibicos fig	MASTER_WP4_TEAGASC_1__TGS05-22__bin.3	Candida boidinii group 1	0.4398	96.63	0.211	80.3	0.2	4091	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Ogataea
+SRR27593151	wine palm	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	6.3788	99.3	1.933	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593152	fufu	LeechJ_xxxx__AF82__bin.10	Pichia spp.	0.292	95.56	0.097	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593152	fufu	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.2678	99.17	0.076	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593152	fufu	EBC_024.4	Kluyveromyces marxianus	0.1936	98.07	0.057	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593152	fufu	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.198	99.54	0.048	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593153	ogi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.3684	99.54	0.141	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593153	ogi	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.1017	95.2	0.034	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593153	ogi	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.0617	97.67	0.012	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR27593154	ogi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	2.1591	99.56	0.738	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593154	ogi	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.1593	99.11	0.048	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593154	ogi	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.1378	99.5	0.041	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR27593154	ogi	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.1292	98.79	0.033	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593156	gari	LeechJ_xxxx__AF82__bin.10	Pichia spp.	0.1176	98.78	0.144	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593156	gari	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.0436	96.93	0.035	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593158	attieke	LeechJ_xxxx__AF82__bin.10	Pichia spp.	8.8618	99.99	6.27	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593158	attieke	MilaniC_2019__SRS3591582__bin.17	Wickerhamiella pararugosa	0.0231	100	0.017	83.2	0.5	163	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+SRR27593159	ogiri	EBC_024.4	Kluyveromyces marxianus	0.1636	97.46	0.07	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593159	ogiri	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1729	99	0.06	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593160	mou	EBC_024.4	Kluyveromyces marxianus	41.7434	99.87	44	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593160	mou	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	11.9476	99.87	12.163	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593160	mou	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	4.8129	99.46	4.321	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593160	mou	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	1.8644	99.6	1.439	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593160	mou	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.8629	99.45	1.103	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR27593160	mou	DuR_2020__DRS139335__bin.25	Cyberlindnera fabianii	0.2834	99.47	0.33	65	0	2059	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR27593160	mou	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.4197	98.34	0.29	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR27593160	mou	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.1965	98.86	0.099	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR27593163	massa	EBC_024.4	Kluyveromyces marxianus	2.3142	99.79	1.542	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593163	massa	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.4068	99.18	0.229	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593163	massa	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.1968	98.79	0.112	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593163	massa	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.06	97.76	0.039	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593164	dolo	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	99.6364	99.6	110	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593164	dolo	EBC_024.4	Kluyveromyces marxianus	0.0274	97.49	0.036	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593167	ugi	EBC_024.4	Kluyveromyces marxianus	0.1804	97.29	0.061	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593167	ugi	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1603	99.27	0.044	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593169	agadagidi	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	15.2476	99.12	3.136	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593169	agadagidi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	2.0291	99.48	0.551	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593169	agadagidi	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.3879	95.68	0.152	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR27593169	agadagidi	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.3474	97.56	0.081	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR27593169	agadagidi	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.3136	99.21	0.042	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR27593171	fufu	LeechJ_xxxx__AF82__bin.10	Pichia spp.	0.3788	98.69	0.24	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593172	lafun	LeechJ_xxxx__AF82__bin.10	Pichia spp.	10.6437	99.5	3.255	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593172	lafun	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	3.8062	99.74	1.004	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593172	lafun	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.8979	98.64	0.161	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR27593173	gari	LeechJ_xxxx__AF82__bin.10	Pichia spp.	13.6714	99.52	3.959	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593173	gari	EBC_024.4	Kluyveromyces marxianus	0.1127	96.59	0.029	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593173	gari	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.1166	99.2	0.022	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593173	gari	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0916	98.94	0.019	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593174	sekete	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	2.6017	99.58	3.763	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593174	sekete	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	1.3138	99.51	1.441	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593174	sekete	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.4008	99.22	0.288	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR27593174	sekete	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.036	98.09	0.046	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR27593174	sekete	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0303	95.42	0.038	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593174	sekete	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.0145	97.54	0.019	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593175	burukutu	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	38.7631	99.59	12.732	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593175	burukutu	LeechJ_xxxx__AF67__bin.4	Kazachstania bovina	14.7434	99.99	7.151	62.7	1	2742	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania
+SRR27593175	burukutu	EBC_024.4	Kluyveromyces marxianus	0.5394	98.24	0.209	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593175	burukutu	GCA_008274985.1_ASM827498v1_genomic	Aspergillus sojae	1.1188	95.29	0.11	100	0	8	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR27593175	burukutu	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.1849	99.16	0.053	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593175	burukutu	DuR_2020__DRS139335__bin.25	Cyberlindnera fabianii	0.0804	98.46	0.034	65	0	2059	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR27593175	burukutu	LiZ_2018__SRS2920550__bin.14	Aspergillus fumigatus	0.1729	99.38	0.031	68.2	0.3	4059	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus
+SRR27593175	burukutu	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0356	100	0.013	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593176	obiolor	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	2.4275	99.73	1.827	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593176	obiolor	LeechJ_xxxx__AF29__bin.14	Candida glabrata	2.6504	99.77	1.757	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR27593176	obiolor	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.8167	98.32	0.417	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR27593176	obiolor	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.4527	98.94	0.258	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593176	obiolor	EBC_024.4	Kluyveromyces marxianus	0.0809	96.42	0.063	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593176	obiolor	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0408	100	0.026	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593176	obiolor	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.0419	98.54	0.016	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR27593177	cheese wara	EBC_024.4	Kluyveromyces marxianus	0.1429	95.75	0.041	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593177	cheese wara	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0439	100	0.01	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593179	nunu	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	7.9826	99.39	3.979	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593179	nunu	EBC_024.4	Kluyveromyces marxianus	0.0639	99.08	0.038	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593179	nunu	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0635	99.88	0.03	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593179	nunu	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0515	98.03	0.029	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593179	nunu	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.035	99.72	0.015	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593180	iru	EBC_024.4	Kluyveromyces marxianus	0.2882	97.52	0.058	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593180	iru	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.245	98.98	0.04	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593181	nono	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.1023	97.47	0.062	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593181	nono	EBC_024.4	Kluyveromyces marxianus	0.0724	98.37	0.052	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593181	nono	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0588	100	0.034	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593182	kunu	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0546	99.86	0.014	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593183	otiru	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	7.9166	99.66	3.93	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593183	otiru	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	1.0584	98.82	0.398	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593183	otiru	MASTER_WP4_TEAGASC_1__TGS07-22__bin.3	Trichosporon asahii	0.3434	99.14	0.085	65	0.5	4078	Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Trichosporon
+SRR27593183	otiru	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0642	98.58	0.027	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593184	koko	EBC_024.4	Kluyveromyces marxianus	0.3675	99.15	0.071	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593184	koko	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.391	100	0.062	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593186	ogi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.6498	99.59	0.237	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593187	ogi	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	1.948	98.83	0.038	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593187	ogi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	1.53	98.65	0.036	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593187	ogi	EBC_024.4	Kluyveromyces marxianus	1.2954	99.06	0.031	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593188	ugba	EBC_024.4	Kluyveromyces marxianus	0.1741	98.71	0.067	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593188	ugba	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1944	99.7	0.061	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593190	ogiri	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1509	99.35	0.044	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593190	ogiri	EBC_024.4	Kluyveromyces marxianus	0.1145	98.72	0.041	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593191	iru	EBC_024.4	Kluyveromyces marxianus	0.0774	98.03	0.034	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593191	iru	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.077	99.53	0.028	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593192	wine palm	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	12.9354	99.37	7.577	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593192	wine palm	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0284	97.82	0.024	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR27593192	wine palm	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.0322	97	0.016	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593192	wine palm	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0243	98.79	0.016	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593193	gari	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	13.4583	99.79	5.065	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593193	gari	EBC_024.4	Kluyveromyces marxianus	7.9547	99.4	3.1	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593193	gari	GCA_003243815.1_ASM324381v1_genomic	Candida sake	7.5145	99.87	2.105	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR27593193	gari	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.8435	99.77	0.268	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593193	gari	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.3998	98.68	0.133	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593193	gari	MASTER_WP4_UNINA_2__A-22__bin.12	Pichia norvegensis	0.2023	99.34	0.105	68.3	0.4	1153	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593193	gari	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.2651	98.34	0.087	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593193	gari	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.2004	97.09	0.057	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593193	gari	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	0.0586	99.44	0.037	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR27593193	gari	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0663	96.67	0.031	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR27593194	lafun	LeechJ_xxxx__AF82__bin.10	Pichia spp.	0.3496	98.8	0.168	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593195	iru	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0814	97.11	0.017	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593197	fufu	LeechJ_xxxx__AF82__bin.10	Pichia spp.	0.5174	99.36	0.264	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593197	fufu	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.2637	99.39	0.116	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593197	fufu	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.0753	96.03	0.025	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR27593198	ogi	EBC_024.4	Kluyveromyces marxianus	3.1802	95.56	0.057	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593198	ogi	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	1.4865	99.35	0.022	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593199	fura	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.4291	99.48	0.134	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593199	fura	EBC_024.4	Kluyveromyces marxianus	0.1134	98.24	0.037	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593199	fura	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.1298	98.49	0.031	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593199	fura	DuR_2020__DRS139335__bin.25	Cyberlindnera fabianii	0.0761	99.95	0.027	65	0	2059	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR27593199	fura	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0742	100	0.02	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593200	iru	EBC_024.4	Kluyveromyces marxianus	0.1005	97.28	0.035	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593200	iru	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0807	99.24	0.023	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593201	okpehe	EBC_024.4	Kluyveromyces marxianus	0.1378	98.95	0.051	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593201	okpehe	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1334	100	0.04	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593201	okpehe	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0533	98.47	0.019	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593202	ogi	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.5378	98.6	0.055	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593202	ogi	EBC_024.4	Kluyveromyces marxianus	0.3878	97.94	0.049	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593203	ogiri	EBC_024.4	Kluyveromyces marxianus	0.1765	98.04	0.066	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593203	ogiri	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1763	99.77	0.054	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593204	gari	LeechJ_xxxx__AF82__bin.10	Pichia spp.	0.1329	97.54	0.067	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593205	ugba	EBC_024.4	Kluyveromyces marxianus	0.1417	96.87	0.046	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593205	ugba	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1085	98.68	0.029	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593206	cheese wara	EBC_024.4	Kluyveromyces marxianus	0.0887	95.3	0.033	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593207	kunu	EBC_024.4	Kluyveromyces marxianus	2.8244	98.9	0.108	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593207	kunu	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	3.468	99.8	0.108	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593207	kunu	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.4129	98.67	0.013	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593208	otika	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	8.8687	99.34	3.222	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593208	otika	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1217	98.72	0.043	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593208	otika	EBC_024.4	Kluyveromyces marxianus	0.0889	98.55	0.038	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593209	burukutu	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	92.5323	99.63	39	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593209	burukutu	EBC_024.4	Kluyveromyces marxianus	1.1479	98.16	0.572	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593210	emu	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	31.8104	99.36	12.018	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593211	agadagidi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.9342	99.52	0.484	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593211	agadagidi	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.3164	98.84	0.206	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR27593211	agadagidi	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.4248	98.57	0.167	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593211	agadagidi	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0892	96.31	0.041	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593211	agadagidi	DuR_2020__DRS139335__bin.25	Cyberlindnera fabianii	0.035	97.66	0.021	65	0	2059	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR27593211	agadagidi	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.0326	99.62	0.015	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593212	ogi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	1.2869	99.47	0.129	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593216	kunu	EBC_024.4	Kluyveromyces marxianus	2.9141	98.81	0.107	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593216	kunu	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	3.5695	99.63	0.107	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593216	kunu	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.4048	99.02	0.013	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593217	pito	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	99.1469	99.57	76	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593218	fufu	LeechJ_xxxx__AF82__bin.10	Pichia spp.	0.221	96.97	0.087	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593219	burukutu	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	30.6507	99.78	34	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593219	burukutu	MortensenS_xxxx__WK040-2-L-08h-03F3_S67__bin.4	Lachancea fermentati	2.9532	99.73	3.952	99.1	0	247	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Lachancea
+SRR27593219	burukutu	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.3109	96.35	0.57	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR27593219	burukutu	EBC_024.4	Kluyveromyces marxianus	0.3731	99.02	0.489	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593219	burukutu	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.2806	99.16	0.269	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593219	burukutu	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.1512	99.6	0.191	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593219	burukutu	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.0557	98.96	0.07	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR27593219	burukutu	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.0376	97.51	0.042	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR27593219	burukutu	DuR_2020__DRS139333__bin.13	Wickerhamomyces anomalus	0.0321	98.58	0.035	71	0.6	3628	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces
+SRR27593220	brukina	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.1247	96.24	0.055	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593221	zonkom	LeechJ_xxxx__AF29__bin.14	Candida glabrata	22.7064	100	9.439	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR27593221	zonkom	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	8.9827	99.48	3.715	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593221	zonkom	EBC_024.4	Kluyveromyces marxianus	0.1704	99.28	0.083	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593221	zonkom	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.163	98.91	0.077	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593222	pito	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	99.7589	99.63	82	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593223	cheese wagashi	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	7.1635	99.96	1.722	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593223	cheese wagashi	EBC_024.4	Kluyveromyces marxianus	4.7176	99.59	1.393	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593223	cheese wagashi	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.8827	98.92	0.222	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593223	cheese wagashi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.2113	99.56	0.06	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593223	cheese wagashi	DuR_2020__DRS139335__bin.25	Cyberlindnera fabianii	0.0656	98.18	0.021	65	0	2059	Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Cyberlindnera
+SRR27593224	zonkom	LeechJ_xxxx__AF26__bin.5	Hanseniaspora spp.	34.3043	100	48	80	0.1	170	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR27593224	zonkom	LeechJ_xxxx__AF26__bin.14	unknown spp.	3.1101	99.98	4.325	70.9	0.1	2372	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;unknown
+SRR27593224	zonkom	GCA_003243815.1_ASM324381v1_genomic	Candida sake	0.6021	99.75	0.544	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR27593224	zonkom	EBC_024.4	Kluyveromyces marxianus	0.0427	99.35	0.054	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593224	zonkom	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.047	98.47	0.043	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593225	kantong	LeechJ_xxxx__AF25__bin.17	unknown spp.	13.8355	99.99	8.554	95.9	0	934	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;unknown
+SRR27593225	kantong	MASTER_WP4_FFoQSI_2__VB10-22__bin.15	Wickerhamiella versatilis	9.3366	97.84	5.717	83.2	0.6	42	Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Wickerhamiella
+SRR27593225	kantong	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	2.0342	99.81	1.097	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593226	dawadawa	EBC_024.4	Kluyveromyces marxianus	0.1836	95.91	0.033	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593226	dawadawa	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1426	98.03	0.021	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593227	wine palm	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	2.8833	99.29	0.69	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593227	wine palm	EBC_024.4	Kluyveromyces marxianus	0.1645	97.45	0.047	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593227	wine palm	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.1104	99.84	0.025	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593228	nono	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.6263	99.15	0.131	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593229	gari	LeechJ_xxxx__AF82__bin.10	Pichia spp.	4.9466	99.45	3.214	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593230	wine palm	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.666	99.29	0.242	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593230	wine palm	EBC_024.4	Kluyveromyces marxianus	0.0486	98.61	0.021	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593230	wine palm	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0594	99.61	0.021	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593231	kunu	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	6.5782	99.04	3.718	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR27593231	kunu	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.7274	99.43	0.288	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR27593232	wine palm	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.1638	99.14	0.621	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593232	wine palm	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.0678	98.42	0.035	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593232	wine palm	EBC_024.4	Kluyveromyces marxianus	0.0353	99.15	0.022	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593233	otika	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	4.0021	99.73	1.219	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593233	otika	LeechJ_xxxx__AF29__bin.14	Candida glabrata	1.3903	99.06	0.373	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR27593233	otika	EBC_024.4	Kluyveromyces marxianus	0.2117	98.88	0.067	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593233	otika	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	0.2572	99.17	0.066	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593233	otika	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0984	97.31	0.026	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593233	otika	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.0982	98.76	0.02	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR27593234	pito	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	24.7974	100	28	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593234	pito	LeechJ_xxxx__AF17__bin.2	Coniochaeta spp.	34.4192	99.99	14.11	88.7	0.1	1894	Ascomycota;Sordariomycetes;Coniochaetales;Coniochaetaceae;Coniochaeta
+SRR27593234	pito	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.3194	99.49	0.409	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593234	pito	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.1551	99.08	0.249	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR27593234	pito	MASTER_WP4_CSIC_2__P2574__bin.32	Candida tropicalis	0.2072	99.02	0.201	95.3	0.3	1169	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593235	lafun	LeechJ_xxxx__AF82__bin.10	Pichia spp.	0.4561	97.98	0.1	69.4	0.1	2280	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593235	lafun	EBC_024.4	Kluyveromyces marxianus	0.3727	97.79	0.073	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593235	lafun	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.2517	98.78	0.047	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593237	cheese wara	EBC_024.4	Kluyveromyces marxianus	40.8187	99.8	17	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR27593237	cheese wara	GCA_003243815.1_ASM324381v1_genomic	Candida sake	30.3612	99.91	9.089	99.79	0	17	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Spathaspora
+SRR27593237	cheese wara	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	6.2011	99.58	4.169	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR27593237	cheese wara	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.5206	99.42	0.183	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593237	cheese wara	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	0.3322	96.45	0.119	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR27593237	cheese wara	LeechJ_xxxx__AF17__bin.1	Clavispora lusitaniae	0.2863	98.49	0.102	98.9	0	181	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora
+SRR27593237	cheese wara	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0867	98.98	0.035	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593238	ogi	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	4.6163	99.53	0.435	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR27593238	ogi	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	2.1966	98.98	0.181	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR27593238	ogi	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.6663	95.55	0.043	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR27593239	ugba	MASTER_WP4_UNINA_1__GO005_71775__bin.6	Debaryomyces hansenii group 1	31.7456	97.01	12.758	99.4	0.1	197	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces
+SRR27593239	ugba	MASTER_WP4_CSIC_2__P2614__bin.19	unknown spp.	11.1834	99.7	8.465	57.7	0	475	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;unknown
+SRR27593239	ugba	MASTER_WP4_CSIC_2__P2574__bin.24	Candida parapsilosis	12.846	99.89	4.904	97.6	0.1	509	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida
+SRR27593239	ugba	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	4.2004	98.42	1.291	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR27593239	ugba	MASTER_WP4_TEAGASC_1__TGS02-22__bin.4	Meyerozyma guilliermondii	0.0934	95.03	0.043	94.3	0.1	620	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Meyerozyma
+SRR27593239	ugba	EBC_024.4	Kluyveromyces marxianus	0.0658	97.48	0.031	93.58	0.21	344	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces
+SRR3017088	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	99.4875	99.71	195	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017088	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	0.4435	97.8	0.746	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017088	wine	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.044	99.51	0.094	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017088	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0156	99.22	0.051	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017088	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.0094	99.12	0.026	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017090	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	87.2866	99.97	188	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017090	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	2.5579	99.99	5.687	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017090	wine	SternesPR_2017__T1D1_A_shotgun__bin.1	Rhodotorula graminis	3.8433	99.95	4.122	57.7	0	4037	Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula
+SRR3017090	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	1.1749	99.67	1.823	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017090	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	1.943	99.74	1.368	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017090	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	0.4662	99.62	0.621	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017090	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.1735	99.76	0.445	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017090	wine	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	0.0167	98.59	0.034	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+SRR3017090	wine	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0118	98.99	0.021	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR3017091	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	89.5582	99.99	211	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017091	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	1.8736	99.85	4.556	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017091	wine	SternesPR_2017__T1D1_A_shotgun__bin.1	Rhodotorula graminis	2.9723	99.77	3.487	57.7	0	4037	Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula
+SRR3017091	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.8406	99.63	1.427	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017091	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	1.5976	99.7	1.23	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017091	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	0.4404	99.61	0.642	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017091	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.1337	99.7	0.375	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017091	wine	LeechJ_2020__ERS3967694__bin.3	Starmerella bacillaris	0.0093	99.91	0.021	70.1	0.6	731	Ascomycota;Saccharomycetes;Saccharomycetales;unknown;Starmerella
+SRR3017091	wine	MASTER_WP4_TEAGASC_1__TGS02-22__bin.4	Meyerozyma guilliermondii	0.0102	97.52	0.02	94.3	0.1	620	Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Meyerozyma
+SRR3017091	wine	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0056	100	0.011	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR3017093	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	75.9223	99.99	167	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017093	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	9.4935	99.67	12.912	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017093	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	6.7042	99.72	10.625	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017093	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	2.7194	99.91	1.955	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017093	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.7448	99.58	1.691	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017093	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.2424	99.68	0.635	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017093	wine	SternesPR_2017__T1D1_A_shotgun__bin.1	Rhodotorula graminis	0.2789	99.74	0.305	57.7	0	4037	Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula
+SRR3017093	wine	LeechJ_xxxx__AF29__bin.14	Candida glabrata	0.0244	96.68	0.039	97.3	1.1	882	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces
+SRR3017094	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	86.6611	99.82	165	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017094	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	9.0821	99.97	24	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017094	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	0.7967	99.12	1.302	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017094	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	0.4736	99.59	0.409	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017094	wine	SternesPR_2017__T1D1_A_shotgun__bin.1	Rhodotorula graminis	0.1474	99.69	0.194	57.7	0	4037	Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula
+SRR3017094	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0617	98.95	0.168	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017094	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0289	99.36	0.091	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017095	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	86.0293	99.82	161	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017095	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	8.8549	99.97	23	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017095	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	0.8337	99.17	1.339	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017095	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	0.5748	99.57	0.488	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017095	wine	SternesPR_2017__T1D1_A_shotgun__bin.1	Rhodotorula graminis	0.1998	99.67	0.258	57.7	0	4037	Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula
+SRR3017095	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0641	98.83	0.172	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017095	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0328	98.98	0.101	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017096	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	86.529	99.85	162	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017096	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	1.4041	99.78	3.649	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017096	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	1.9805	99.44	3.182	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017096	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.9117	99.72	2.445	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017096	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.7483	99.73	2.315	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017096	wine	SternesPR_2017__Y2D1_B_shotgun__bin.4	Hanseniaspora osmophila	0.621	99.91	1.282	96.2	0.1	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017096	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	0.5	99.64	0.425	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017096	wine	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.0239	99.95	0.049	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017097	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	88.7499	99.86	167	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017097	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	1.5012	99.81	3.92	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017097	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	2.1302	99.51	3.44	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017097	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	1.1867	99.56	3.199	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017097	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	1.0135	99.59	3.151	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017097	wine	SternesPR_2017__Y2D1_B_shotgun__bin.4	Hanseniaspora osmophila	0.7145	99.94	1.483	96.2	0.1	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017097	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	0.4919	99.5	0.42	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017097	wine	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.0456	99.61	0.094	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017100	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	95.6122	99.86	185	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017100	wine	SternesPR_2017__Y2D1_B_shotgun__bin.4	Hanseniaspora osmophila	2.3393	99.93	4.992	96.2	0.1	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017100	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.3161	99.75	0.849	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017100	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	0.2968	99.56	0.493	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017100	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.0544	99.78	0.174	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017100	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0289	99.45	0.08	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017100	wine	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.0121	99.85	0.026	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017100	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	0.0251	99.52	0.022	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017103	wine	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	87.7988	99.87	148	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017103	wine	SternesPR_2017__Y3D1_B_shotgun__bin.2	Aureobasidium pullulans	8.4725	99.99	6.478	90.3	0.3	3405	Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium
+SRR3017103	wine	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.8172	99.94	1.912	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017103	wine	MASTER_WP4_UNINA_1__AS006_71775__bin.7	Torulaspora delbrueckii	0.5535	99.8	1.542	62.8	0	1896	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Torulaspora
+SRR3017103	wine	SternesPR_2017__T1D1_A_shotgun__bin.1	Rhodotorula graminis	0.4098	99.7	0.477	57.7	0	4037	Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula
+SRR3017103	wine	LeechJ_2020__ERS3967714__bin.6	Saccharomyces uvarum	0.1391	99.48	0.256	92.7	2.4	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR3017103	wine	SternesPR_2017__Y2D1_B_shotgun__bin.4	Hanseniaspora osmophila	0.1128	99.34	0.21	96.2	0.1	784	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017103	wine	SternesPR_2017__Y2D1_A_shotgun__bin.5	Metschnikowia pulcherrima	0.0617	98.7	0.089	82.3	0.2	3268	Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Metschnikowia
+SRR3017103	wine	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	0.0106	99.25	0.026	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR3017103	wine	MASTER_WP4_CSIC_2__P2545__bin.25	Geotrichum candidum	0.0165	97.59	0.022	54.7	4.9	4372	Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Geotrichum
+SRR3017103	wine	ArikanM_2020__ERS1875938__bin.4	Zygosaccharomyces bailii	0.0096	97.97	0.018	99.5	0.3	155	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces
+SRR5890763	beer	GCF_011074885.1_ASM1107488v2_genomic	Brettanomyces bruxellensis	33.37	99.22	38	98.76	0.21	9	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR5890763	beer	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	25.962	99.83	37	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR5890763	beer	MortensenS_xxxx__WK038-1-L-48h-03E3_S58__bin.1	Pichia membranifaciens group 1	15.1483	99.72	27	69	0.1	1866	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR5890763	beer	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	14.4158	99.89	18	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR5890763	beer	ODFM-BA-A-0118-001_Brettanomyces_anomalus_YV396	Brettanomyces anomalus	0.4181	99.7	0.486	99.17	0	30	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces
+SRR8830669	kinema	ODFM-BA-A-0193-001_Saccharomyces_cerevisiae_beer44	Saccharomyces cerevisiae	0.0208	97.05	0.023	100	0.21	69	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces
+SRR9640348	chocolate	SternesPR_2017__T1D1_A_shotgun__bin.3	Hanseniaspora opuntiae	1.4044	99.5	7.335	75.6	0.1	892	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR9640348	chocolate	MASTER_WP4_CSIC_2__P2597__bin.1	Pichia kudriavzevii	0.0585	99.62	0.243	93.6	0.3	703	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR9640348	chocolate	DuR_2020__DRS139334__bin.19	Pichia kluyveri	0.0281	98.21	0.107	76.7	0	3007	Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia
+SRR9640348	chocolate	SternesPR_2017__Y2D1_A_shotgun__bin.3	Hanseniaspora uvarum	0.0074	98.13	0.037	79.9	0	389	Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Hanseniaspora
+SRR9640348	chocolate	LiZ_2018__SRS2920550__bin.19	Rhizomucor pusillus	0.0106	97.91	0.02	92.9	0.4	1633	Mucoromycota;Mucoromycetes;Mucorales;Lichtheimiaceae;Rhizomucor

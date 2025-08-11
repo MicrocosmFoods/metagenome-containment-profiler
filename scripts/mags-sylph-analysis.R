@@ -6,6 +6,11 @@ library(ape)
 library(ggtree)
 library(patchwork)
 library(cowplot)
+library(circlize)
+
+#################################
+# Prep metadata and sylph profiles files
+#################################
 
 # MAG metadata from curation repo
 mag_metadata_url <- "https://raw.githubusercontent.com/MicrocosmFoods/fermentedfood_metadata_curation/refs/heads/main/data/2025-05-21-genome-metadata-food-taxonomy.tsv"
@@ -50,6 +55,19 @@ sylph_profiles <- read_tsv("results/2025-05-28-mags-profiling/2025-05-28-mags-re
 # these are results by default at 95% ANI so don't need to filter further since doing "species" profiling
 
 sylph_profiles_metadata <- left_join(sylph_profiles, food_metadata, by="accession_name")
+sylph_profiles_mag_metadata <- left_join(sylph_profiles, rep_mags_metadata) %>% 
+  mutate(domain = gsub(";.*", "", taxonomy))
+
+euk_sylph_profiles_metadata <- sylph_profiles_mag_metadata %>% 
+  filter(domain %in% c("Ascomycota", "Basidiomycota", "Mucoromycota")) %>% 
+  left_join(food_metadata, by="accession_name") %>% 
+  select(accession_name, food_name, genome_accession, species, Sequence_abundance, Adjusted_ANI, Eff_cov, completeness, contamination, contigs, taxonomy)
+
+write_tsv(euk_sylph_profiles_metadata, "results/euk-sylph-profiles-results.tsv")
+
+#################################
+# Basic summary stats
+#################################
 
 # summary stats per sample
 sylph_profiles_stats <- sylph_profiles_metadata %>% 
@@ -111,6 +129,10 @@ top_genomes_by_group <- sylph_profiles_metadata %>%
       ),
     by = "genome_accession"
   )
+
+#################################
+# Plot viz
+#################################
 
 # heatmap for top genomes within ingredient groups 
 ingredient_group_counts <- sylph_profiles_metadata %>%
@@ -231,10 +253,12 @@ tree_plot_obj <- ggtree(bac_tree, branch.length = "none") +
     align = TRUE,
     linetype = "dotted",
     size = 4,
-    linesize = 0.3,
-    offset = 0
+    linesize = 0.3
   ) +
-  theme_tree2()
+  xlim_tree(30)
+
+
+tree_plot_obj
 
 tip_order <- tree_plot_obj$data %>% 
   filter(isTip) %>% 
@@ -260,7 +284,7 @@ ordered_bacterial_ridges_plot <- ggplot(bacterial_plot_data, aes(x = Sequence_ab
   ) +
   theme_ridges() +
   theme(
-    axis.text.y = element_text(face="italic"),
+    axis.text.y = element_text(face="italic", size=14),
     axis.ticks.y = element_blank(),
     legend.position = "bottom",
     plot.margin = margin(t = 5, r = 10, b = 5, l = 80)
@@ -478,7 +502,22 @@ abundance_data <- sylph_profiles_metadata %>%
          ingredient_group %in% select_ingredient_groups) %>%
   left_join(rep_mags_metadata %>% select(genome_accession, species), by = "genome_accession") %>%
   filter(!is.na(species)) %>%
-  distinct(accession_name, genome_accession, species, ingredient_group, Sequence_abundance)
+  distinct(accession_name, genome_accession, species, ingredient_group, Sequence_abundance) %>% 
+  mutate(species = case_when(
+    genome_accession == "MAG_116" ~ paste0(species, " (A)"),
+    genome_accession == "MortensenS_xxxx__WK023-1-L-48h-02G3_S117__bin.1" ~ paste0(species, " (B)"),
+    TRUE ~ species
+  ))
+
+abundance_data_indv_food <- sylph_profiles_metadata %>%
+  left_join(rep_mags_metadata %>% select(genome_accession, species), by = "genome_accession") %>%
+  filter(!is.na(species)) %>%
+  distinct(accession_name, genome_accession, species, food_name, Sequence_abundance) %>% 
+  mutate(species = case_when(
+    genome_accession == "MAG_116" ~ paste0(species, " (A)"),
+    genome_accession == "MortensenS_xxxx__WK023-1-L-48h-02G3_S117__bin.1" ~ paste0(species, " (B)"),
+    TRUE ~ species
+  ))
 
 core_genomes_ridges <- ggplot(abundance_data, aes(x = Sequence_abundance, y = fct_rev(species), fill = ingredient_group)) +
   geom_density_ridges(
@@ -495,7 +534,9 @@ core_genomes_ridges <- ggplot(abundance_data, aes(x = Sequence_abundance, y = fc
   ) +
   theme_ridges() +
   theme(legend.position = "bottom",
-        axis.text.y=element_text(face="italic"))
+        axis.text.y=element_text(face="italic", size=14))
+
+core_genomes_ridges
 
 ggsave("figures/core-genomes-ridges-plot.png", core_genomes_ridges, width=11, height=8, units=c("in"))
 
