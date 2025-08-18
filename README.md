@@ -39,8 +39,12 @@ The main output of the workflow is a TSV containing the results of `sylph profil
 
 ## Analyzing Containment of Fermented Food Reference DB MAGs in Select Metagenomic Samples
 
-We used this workflow to profile a set of ~1300 species-resolved genomes from fermented foods against a select set of fermented food metagenomic samples. Documentation for curating the set of reference genomes is available [here](https://github.com/MicrocosmFoods/fermentedfood_mags_curation), and documentation and scripts for curating the associated metadata is available [here](https://github.com/MicrocosmFoods/fermentedfood_mags_curation). The set of MAGs and associated metadata can also be found on Zenodo [TODO].
+We used this workflow to profile a set of ~1300 species-resolved genomes from fermented foods against a select set of fermented food metagenomic samples. Documentation for curating the set of reference genomes is available [here](https://github.com/MicrocosmFoods/fermentedfood_mags_curation), and documentation and scripts for curating the associated metadata is available [here](https://github.com/MicrocosmFoods/fermentedfood_mags_curation). The set of MAGs and associated metadata can also be found [on Zenodo](https://zenodo.org/records/15794524).
 
 We selected a set of representative samples by selecting no more than 10 samples per food type. This selection is documented in `scripts/sample-selection.R`. We then profiled all ~1300 species-resolved genomes against these ~350 samples using the workflow described above with a 95% ANI threshold. The results from this run are available in `results/2025-05-28-mags-profiling/`.
 
 The script `scripts/mags-sylph-analysis.R` was used to generate statistics and figures from this profiling run. Figures can be found in `figures`. 
+
+## Citation
+
+If you use this workflow in your research, please cite the Zenodo DOI and preprint.
