@@ -58,6 +58,13 @@ sylph_profiles_metadata <- left_join(sylph_profiles, food_metadata, by="accessio
 sylph_profiles_mag_metadata <- left_join(sylph_profiles, rep_mags_metadata) %>% 
   mutate(domain = gsub(";.*", "", taxonomy))
 
+sylph_profiles_full_metadata_df <- sylph_profiles_mag_metadata %>% 
+  left_join(food_metadata, by="accession_name") %>% 
+  select(accession_name, food_name, main_ingredient, ingredient_group, genome_accession, species, Sequence_abundance, Adjusted_ANI, Eff_cov, completeness, contamination, contigs, taxonomy)
+
+write_tsv(sylph_profiles_full_metadata_df, "results/all-sylph-profiles-results.tsv")
+
+# filter to just eukaryotic hits
 euk_sylph_profiles_metadata <- sylph_profiles_mag_metadata %>% 
   filter(domain %in% c("Ascomycota", "Basidiomycota", "Mucoromycota")) %>% 
   left_join(food_metadata, by="accession_name") %>% 

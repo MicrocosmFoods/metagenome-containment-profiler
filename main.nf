@@ -161,7 +161,7 @@ process download_ref_genomes {
 process download_fastq_samples {
     tag "${sample_name}_${accession}"
     conda "envs/sra_env.yml"
-    container "public.ecr.aws/biocontainers/sra-tools:3.1.1--h4304569_2"
+    container "community.wave.seqera.io/library/sra-tools:3.1.1--3dc792ed27916881"
     memory "20G"
 
     input:
@@ -205,7 +205,7 @@ process qc_fastq_samples {
 process sketch_references {
     tag "${accession}"
     conda "envs/sylph.yml"
-    container "quay.io/biocontainers/sylph:0.8.1--ha6fb395_0"
+    container "community.wave.seqera.io/library/sylph:0.8.1--742dbf88a71f7b0f"
     publishDir "${params.outdir}/reference_sketches", mode: 'copy'
     memory "10G"
     
@@ -224,7 +224,7 @@ process sketch_references {
 process sylph_profile {
     tag "${accession}"
     conda "envs/sylph.yml"
-    container "quay.io/biocontainers/sylph:0.8.1--ha6fb395_0"
+    container "community.wave.seqera.io/library/sylph:0.8.1--742dbf88a71f7b0f"
     publishDir "${params.outdir}/profiles", mode: 'copy'
     memory "10G"
     
@@ -244,7 +244,7 @@ process sylph_profile {
 process combine_profile_results {
     tag "combine_profile_results"
     conda "envs/pandas.yml"
-    container "public.ecr.aws/biocontainers/pandas:1.5.1_cv1"
+    container "community.wave.seqera.io/library/pip_pandas:99d2c619734f6c46"
     publishDir "${params.outdir}/combined_profiles", mode: 'copy'
     memory "10G"
     
