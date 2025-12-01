@@ -83,7 +83,7 @@ if (params.accessions_list) {
         
     // Add a check to warn if no paired files were found
     fastq_samples.ifEmpty { 
-        log.warn "No paired-end FASTQ files found in ${params.fastq_dir} matching the pattern *_{1,2}.fastq{,.gz}"
+        log.warn "No paired-end FASTQ files found in ${params.fastq_dir} matching the pattern *_{*1,*2}.fastq{,.gz}"
         log.warn "Please check your input directory and file naming convention."
     }
 }
