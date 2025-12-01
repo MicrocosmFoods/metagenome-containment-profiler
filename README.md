@@ -29,7 +29,7 @@ Or for providing directories of pre-downloaded reference genomes and metagenomic
 ```
 nextflow run main.nf \\
 --ref_genomes_dir <REFERENCE_GENOMES_DIRECTORY> \\
---samples_dir <METAGENOMIC_SAMPLES_DIRECTORY> \\
+--fastq_dir <METAGENOMIC_SAMPLES_DIRECTORY> \\
 --ani_threshold 98 \\
 --outdir <RESULTS_OUTPUT_DIRECTORY> \\
 -profile <conda|docker>
