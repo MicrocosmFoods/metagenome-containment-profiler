@@ -1,4 +1,6 @@
 library(tidyverse)
+library(viridis)
+library(colorspace)
 
 #################################
 # Prep metadata and sylph profiles files
@@ -32,7 +34,7 @@ sylph_profiles <- read_tsv("results/2025-12-01-zymo-grains-profiling/combined_sy
 # sample metadata
 sample_metadata <- read.csv("results/2025-12-01-zymo-grains-profiling/2025-12-01-zymo-oat-sequencing-metadata.csv") %>% 
   mutate(accession_name = gsub("_R1.fastq.gz", "", fastq_1)) %>% 
-  select(sample, accession_name)
+  select(sample, accession_name, oat, day)
 
 # merge with genome and sample metadata
 sylph_profiles_metadata <- left_join(sylph_profiles, rep_mags_metadata) %>% 
@@ -44,10 +46,50 @@ sylph_profiles_metadata <- left_join(sylph_profiles, rep_mags_metadata) %>%
 
 # summary stats per sample
 sylph_profiles_stats <- sylph_profiles_metadata %>% 
-  group_by(sample) %>%
+  group_by(sample, oat) %>%
   summarise(
     n_genomes = n_distinct(genome_accession),
     percent_mapped = round(sum(Sequence_abundance, na.rm = TRUE), 3),
     percent_unmapped = round(100 - sum(Sequence_abundance, na.rm = TRUE), 3),
     .groups = "drop"
   )
+
+# prep df for showing abundance of top species
+abundance_df_labelled <- sylph_profiles_metadata %>% 
+  group_by(sample) %>% 
+  arrange(desc(Sequence_abundance), .by_group = TRUE) %>% 
+  mutate(
+    rank_in_sample = row_number(),
+    species_label = if_else(rank_in_sample <=5, species, "Other Species")
+  ) %>% 
+  ungroup() %>% 
+  select(sample, oat, Sequence_abundance, species_label)
+
+## plot of abundance of top species
+
+# color palette prep
+
+okabe_ito <- c(
+  "#E69F00", "#56B4E9", "#009E73", "#F0E442",
+  "#0072B2", "#D55E00", "#CC79A7", "#000000"
+)
+
+pal17 <- colorRampPalette(okabe_ito)(17)
+
+oat_abundance_plot <- abundance_df_labelled %>% 
+  ggplot(aes(x=sample, y=Sequence_abundance, fill=species_label)) +
+  geom_col() +
+  facet_wrap(~ fct_rev(oat), scales = "free_x",) +
+  theme_bw() +
+  scale_x_discrete(expand=c(0,0)) +
+  scale_y_continuous(expand=c(0,0)) +
+  scale_fill_manual(values = pal17) +
+  theme(axis.text.x = element_text(size=14), axis.text.y=element_text(size=14), axis.title.x=element_text(size=15), axis.title.y=element_text(size=15), plot.title=element_text(face="bold", size=16), legend.text=element_text(size=14), legend.title=element_text(size=15), strip.text=element_text(size=15), strip.background=element_rect(fill="white", color="black")) +
+  labs(
+    x="Oat Sample",
+    y="% Sequence Abundance",
+    fill="Species",
+    title="Sequence Abundance of Top Species in Spontaneous Fermented Oat Samples"
+  )
+
+ggsave("figures/zymo-oat-sequencing-abundance-plot.png", oat_abundance_plot, width=12, height=7, units=c("in"))
