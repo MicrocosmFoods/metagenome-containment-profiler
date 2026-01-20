@@ -9,13 +9,13 @@ from pathlib import Path
 import typing
 import typing_extensions
 
-from latch.resources.workflow import nextflow_workflow
+from latch.resources.workflow import workflow
 from latch.resources.tasks import nextflow_runtime_task, custom_task
 from latch.types.file import LatchFile
 from latch.types.directory import LatchDir, LatchOutputDir
 from latch.ldata.path import LPath
 from latch.executions import report_nextflow_used_storage
-from latch_cli.nextflow.workflow import flags_from_args
+from latch_cli.nextflow.workflow import get_flag
 from latch_cli.nextflow.utils import _get_execution_name
 from latch_cli.utils import urljoins
 from latch.types import metadata
@@ -50,9 +50,12 @@ def initialize() -> str:
     return resp.json()["name"]
 
 
+
+
+
+
 @nextflow_runtime_task(cpu=10, memory=50, storage_gib=500)
-def nextflow_runtime(pvc_name: str, args: latch_metadata.WorkflowArgsType) -> None:
-    root_dir = Path("/root")
+def nextflow_runtime(pvc_name: str, ref_genomes_list: typing.Optional[str], ref_genomes_dir: typing.Optional[LatchDir], accessions_list: typing.Optional[str], fastq_dir: typing.Optional[LatchDir], ani_threshold: int, outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
     shared_dir = Path("/nf-workdir")
 
     exec_name = _get_execution_name()
@@ -65,7 +68,8 @@ def nextflow_runtime(pvc_name: str, args: latch_metadata.WorkflowArgsType) -> No
 
 
 
-    to_ignore = {
+
+    ignore_list = [
         "latch",
         ".latch",
         ".git",
@@ -76,26 +80,20 @@ def nextflow_runtime(pvc_name: str, args: latch_metadata.WorkflowArgsType) -> No
         "miniconda",
         "anaconda3",
         "mambaforge",
-    }
+    ]
 
-    for p in root_dir.iterdir():
-        if p.name in to_ignore:
-            continue
-
-        src = root_dir / p.name
-        target = shared_dir / p.name
-
-        if p.is_dir():
-            shutil.copytree(
-                src,
-                target,
-                ignore_dangling_symlinks=True,
-                dirs_exist_ok=True,
-            )
-        else:
-            shutil.copy2(src, target)
+    shutil.copytree(
+        Path("/root"),
+        shared_dir,
+        ignore=lambda src, names: ignore_list,
+        ignore_dangling_symlinks=True,
+        dirs_exist_ok=True,
+    )
 
     profile_list = ['docker']
+    if False:
+        profile_list.extend([p.value for p in execution_profiles])
+
     if len(profile_list) == 0:
         profile_list.append("standard")
 
@@ -112,7 +110,12 @@ def nextflow_runtime(pvc_name: str, args: latch_metadata.WorkflowArgsType) -> No
         "-c",
         "latch.config",
         "-resume",
-        *flags_from_args(args, shared_dir),
+                *get_flag('ref_genomes_list', ref_genomes_list),
+                *get_flag('ref_genomes_dir', ref_genomes_dir),
+                *get_flag('accessions_list', accessions_list),
+                *get_flag('fastq_dir', fastq_dir),
+                *get_flag('outdir', outdir),
+                *get_flag('ani_threshold', ani_threshold)
     ]
 
     print("Launching Nextflow Runtime")
@@ -176,8 +179,8 @@ def nextflow_runtime(pvc_name: str, args: latch_metadata.WorkflowArgsType) -> No
         sys.exit(1)
 
 
-@nextflow_workflow(metadata._nextflow_metadata)
-def nf_metagenome_containment_profiler(args: latch_metadata.WorkflowArgsType) -> None:
+@workflow(metadata._nextflow_metadata)
+def nf_metagenome_containment_profiler(ref_genomes_list: typing.Optional[str], ref_genomes_dir: typing.Optional[LatchDir], accessions_list: typing.Optional[str], fastq_dir: typing.Optional[LatchDir], ani_threshold: int, outdir: typing_extensions.Annotated[LatchDir, FlyteAnnotation({'output': True})]) -> None:
     """
     metagenome-containment-profiler
 
@@ -185,5 +188,5 @@ def nf_metagenome_containment_profiler(args: latch_metadata.WorkflowArgsType) ->
     """
 
     pvc_name: str = initialize()
-    nextflow_runtime(pvc_name=pvc_name, args=args)
+    nextflow_runtime(pvc_name=pvc_name, ref_genomes_list=ref_genomes_list, ref_genomes_dir=ref_genomes_dir, accessions_list=accessions_list, fastq_dir=fastq_dir, ani_threshold=ani_threshold, outdir=outdir)
 
